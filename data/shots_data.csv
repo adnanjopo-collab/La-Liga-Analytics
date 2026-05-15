@@ -1,0 +1,2070 @@
+player_name,team_name,minute,shot_statsbomb_xg,shot_outcome_name,shot_technique_name,shot_body_part_name,x,y,is_goal
+Karim Benzema,Real Madrid,6,0.08956686,Wayward,Normal,Left Foot,107.8,33.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,6,0.6540582,Goal,Normal,Left Foot,111.4,44.6,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24,0.047378395,Blocked,Normal,Head,112.2,31.5,0
+Luka Modrić,Real Madrid,24,0.020789662,Blocked,Half Volley,Right Foot,95.5,49.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24,0.09447582,Goal,Normal,Head,111.8,42.0,1
+Federico Nicolás Cartabia,RC Deportivo La Coruña,27,0.008186427,Off T,Normal,Left Foot,95.1,58.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28,0.12084824,Post,Half Volley,Right Foot,112.9,29.1,0
+Karim Benzema,Real Madrid,29,0.12476361,Saved,Normal,Right Foot,100.3,33.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,33,0.059344236,Post,Normal,Left Foot,103.9,26.1,0
+Federico Nicolás Cartabia,RC Deportivo La Coruña,35,0.010996024,Off T,Normal,Left Foot,103.5,60.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,44,0.025259702,Blocked,Normal,Right Foot,87.8,41.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,44,0.020563047,Blocked,Half Volley,Right Foot,93.2,41.6,0
+Carlos Henrique Casimiro,Real Madrid,44,0.34565815,Off T,Lob,Right Foot,109.4,37.6,0
+James David Rodríguez Rubio,Real Madrid,49,0.032694895,Saved,Normal,Left Foot,94.0,47.1,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,53,0.05083472,Saved,Normal,Right Foot,98.9,43.6,0
+Manuel Pablo García Díaz,RC Deportivo La Coruña,58,0.1691892,Off T,Normal,Left Foot,103.0,41.1,0
+Sidnei Rechel da Silva Júnior,RC Deportivo La Coruña,64,0.062484253,Blocked,Half Volley,Left Foot,99.3,43.4,0
+Daniel Carvajal Ramos,Real Madrid,66,0.015346278,Off T,Half Volley,Right Foot,95.2,54.9,0
+Alejandro Bergantiños García,RC Deportivo La Coruña,67,0.06881589,Off T,Half Volley,Right Foot,97.2,45.5,0
+Roberto Suárez Pier,RC Deportivo La Coruña,71,0.34450844,Saved,Normal,Head,116.0,41.1,0
+Pedro Mosquera Parada,RC Deportivo La Coruña,73,0.02289663,Off T,Normal,Left Foot,90.4,48.6,0
+Francisco Román Alarcón Suárez,Real Madrid,78,0.08893098,Off T,Normal,Head,108.1,38.6,0
+Federico Nicolás Cartabia,RC Deportivo La Coruña,82,0.031619716,Blocked,Normal,Left Foot,100.6,53.8,0
+Marcelo Vieira da Silva Júnior,Real Madrid,85,0.017665412,Saved,Normal,Left Foot,115.0,25.3,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,86,0.042659633,Off T,Normal,Right Foot,98.9,30.0,0
+James David Rodríguez Rubio,Real Madrid,86,0.07760663,Off T,Normal,Left Foot,101.9,51.9,0
+Toni Kroos,Real Madrid,2,0.043961197,Blocked,Normal,Right Foot,101.0,28.5,0
+James David Rodríguez Rubio,Real Madrid,3,0.058356624,Saved,Normal,Right Foot,99.2,41.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5,0.007059218,Blocked,Normal,Right Foot,97.8,15.0,0
+Pablo Sarabia García,Getafe,10,0.009871822,Blocked,Normal,Left Foot,102.6,19.7,0
+Karim Benzema,Real Madrid,12,0.026059391,Saved,Normal,Head,115.7,28.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,15,0.080038294,Post,Normal,Right Foot,101.9,34.7,0
+Stefan Šćepović,Getafe,16,0.08246038,Wayward,Normal,Head,113.1,35.9,0
+Gareth Frank Bale,Real Madrid,25,0.04784606,Blocked,Normal,Left Foot,99.6,36.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,26,0.0511229,Blocked,Normal,Right Foot,97.8,38.0,0
+Francisco Román Alarcón Suárez,Real Madrid,26,0.03259775,Off T,Normal,Right Foot,95.1,30.1,0
+Karim Benzema,Real Madrid,28,0.33528107,Goal,Volley,Right Foot,111.9,37.8,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,30,0.06713595,Saved,Normal,Right Foot,112.6,53.6,0
+Francisco Román Alarcón Suárez,Real Madrid,39,0.3323071,Goal,Normal,Right Foot,109.2,47.6,1
+Stefan Šćepović,Getafe,41,0.022193354,Wayward,Normal,Head,108.1,48.0,0
+Francisco Román Alarcón Suárez,Real Madrid,44,0.060299918,Saved,Normal,Right Foot,96.7,41.8,0
+Pablo Sarabia García,Getafe,45,0.028612478,Off T,Normal,Left Foot,93.7,36.6,0
+Gareth Frank Bale,Real Madrid,49,0.33526817,Goal,Normal,Left Foot,109.3,49.3,1
+Emiliano Buendía,Getafe,53,0.029019937,Saved,Normal,Right Foot,91.4,42.2,0
+Gareth Frank Bale,Real Madrid,55,0.06149048,Saved,Normal,Left Foot,113.1,26.0,0
+Juan Antonio Rodríguez Villamuela,Getafe,56,0.047447518,Blocked,Normal,Right Foot,103.0,40.7,0
+Pedro León Sánchez Gil,Getafe,56,0.056365237,Blocked,Normal,Left Foot,100.8,46.3,0
+James David Rodríguez Rubio,Real Madrid,58,0.043861065,Saved,Normal,Left Foot,96.5,51.5,0
+Karim Benzema,Real Madrid,63,0.102313206,Off T,Normal,Right Foot,103.3,47.8,0
+Pablo Sarabia García,Getafe,64,0.04109446,Saved,Normal,Left Foot,103.2,29.6,0
+Karim Benzema,Real Madrid,65,0.09167303,Off T,Normal,Right Foot,103.4,45.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,72,0.215836,Off T,Normal,Left Foot,107.6,30.6,0
+Pablo Sarabia García,Getafe,75,0.1637815,Saved,Normal,Left Foot,113.2,44.5,0
+Pablo Sarabia García,Getafe,75,0.09282208,Blocked,Normal,Left Foot,104.7,46.8,0
+Emiliano Buendía,Getafe,76,0.032497063,Off T,Volley,Left Foot,95.8,34.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,78,0.073552534,Blocked,Normal,Left Foot,99.5,34.3,0
+Juan Antonio Rodríguez Villamuela,Getafe,80,0.057643082,Off T,Normal,Right Foot,99.0,40.5,0
+Pablo Sarabia García,Getafe,83,0.034825306,Goal,Normal,Left Foot,102.1,27.7,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,85,0.007227903,Off T,Normal,Right Foot,81.7,32.6,0
+James David Rodríguez Rubio,Real Madrid,87,0.20419239,Goal,Normal,Right Foot,108.7,43.6,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,91,0.83814484,Goal,Normal,Left Foot,107.8,31.2,1
+Sergio Escudero Palomo,Sevilla,3,0.011674289,Saved,Normal,Left Foot,119.4,57.3,0
+Karim Benzema,Real Madrid,5,0.08596268,Goal,Half Volley,Right Foot,106.3,37.9,1
+Kevin Gameiro,Sevilla,7,0.08754849,Off T,Volley,Right Foot,106.9,51.5,0
+Luka Modrić,Real Madrid,8,0.045475237,Blocked,Normal,Right Foot,97.2,36.0,0
+Gareth Frank Bale,Real Madrid,15,0.022683095,Blocked,Normal,Left Foot,92.4,48.3,0
+Gareth Frank Bale,Real Madrid,15,0.041042883,Saved to Post,Normal,Left Foot,98.6,42.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16,0.07578247,Wayward,Normal,Head,110.6,44.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18,0.017493503,Saved,Normal,Right Foot,97.7,22.5,0
+Karim Benzema,Real Madrid,20,0.04232122,Saved,Normal,Head,109.3,43.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21,0.06963033,Saved,Normal,Right Foot,101.3,28.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21,0.1231723,Wayward,Normal,Right Foot,108.2,39.2,0
+Gareth Frank Bale,Real Madrid,23,0.085752204,Off T,Normal,Head,116.9,46.3,0
+Kevin Gameiro,Sevilla,26,0.7835,Saved,Normal,Right Foot,108.1,40.1,0
+Jorge Andújar Moreno,Sevilla,27,0.030884951,Blocked,Volley,Right Foot,113.6,53.8,0
+Karim Benzema,Real Madrid,34,0.08221425,Saved,Normal,Right Foot,103.9,50.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,35,0.023412844,Saved,Normal,Right Foot,92.7,50.4,0
+Marcelo Vieira da Silva Júnior,Real Madrid,43,0.039157573,Saved,Normal,Right Foot,100.9,30.3,0
+Danilo Luiz da Silva,Real Madrid,44,0.024684196,Blocked,Normal,Right Foot,99.1,53.2,0
+Karim Benzema,Real Madrid,48,0.11319298,Off T,Normal,Right Foot,103.3,46.7,0
+Gareth Frank Bale,Real Madrid,51,0.036053173,Off T,Normal,Left Foot,95.6,37.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.029785154,Blocked,Normal,Left Foot,98.9,51.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,57,0.7835,Off T,Normal,Right Foot,108.2,40.1,0
+Gareth Frank Bale,Real Madrid,58,0.060491104,Off T,Normal,Left Foot,97.0,47.8,0
+Toni Kroos,Real Madrid,58,0.032979026,Blocked,Half Volley,Right Foot,94.4,42.1,0
+Gareth Frank Bale,Real Madrid,59,0.08693831,Post,Normal,Head,112.4,41.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,62,0.0122958105,Blocked,Normal,Right Foot,100.0,19.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,63,0.56290096,Goal,Half Volley,Left Foot,114.7,38.3,1
+Karim Benzema,Real Madrid,65,0.5128023,Wayward,Lob,Right Foot,108.8,39.6,0
+Gareth Frank Bale,Real Madrid,65,0.8208216,Goal,Half Volley,Right Foot,116.4,43.7,1
+Kevin Gameiro,Sevilla,79,0.034421623,Off T,Normal,Right Foot,101.6,24.3,0
+Sergio Escudero Palomo,Sevilla,81,0.18141587,Saved,Normal,Left Foot,110.8,29.3,0
+Kevin Gameiro,Sevilla,84,0.0793259,Saved,Normal,Right Foot,108.0,47.0,0
+Jesé Rodríguez Ruiz,Real Madrid,85,0.48695058,Goal,Normal,Right Foot,110.9,35.0,1
+Benoît Trémoulinas,Sevilla,89,0.08280799,Off T,Volley,Left Foot,108.7,28.7,0
+Marcelo Vieira da Silva Júnior,Real Madrid,0,0.06579164,Off T,Normal,Left Foot,114.5,27.2,0
+Hernán Arsenio Pérez González,Espanyol,1,0.028234772,Blocked,Normal,Right Foot,94.8,49.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,2,0.06970105,Saved,Normal,Right Foot,98.4,36.3,0
+Francisco Román Alarcón Suárez,Real Madrid,5,0.04641749,Off T,Half Volley,Right Foot,102.0,34.8,0
+Karim Benzema,Real Madrid,6,0.11785649,Goal,Normal,Head,112.0,36.9,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11,0.7835,Goal,Normal,Right Foot,108.1,40.0,1
+James David Rodríguez Rubio,Real Madrid,15,0.050442394,Goal,Normal,Right Foot,101.3,50.3,1
+Karim Benzema,Real Madrid,17,0.11053262,Off T,Half Volley,Right Foot,109.2,28.9,0
+Hernán Arsenio Pérez González,Espanyol,18,0.036108892,Off T,Half Volley,Right Foot,104.9,56.5,0
+Karim Benzema,Real Madrid,30,0.05915691,Blocked,Half Volley,Right Foot,106.7,48.9,0
+James David Rodríguez Rubio,Real Madrid,33,0.03792506,Off T,Normal,Left Foot,90.3,49.3,0
+Mamadou Sylla Diallo,Espanyol,36,0.08218937,Blocked,Normal,Right Foot,108.9,47.7,0
+Joan Jordán Moreno,Espanyol,37,0.035216313,Off T,Normal,Head,106.9,40.2,0
+Francisco Román Alarcón Suárez,Real Madrid,40,0.061700337,Blocked,Normal,Right Foot,105.0,31.4,0
+James David Rodríguez Rubio,Real Madrid,40,0.0345299,Blocked,Half Volley,Left Foot,97.7,40.8,0
+Salvador Sevilla López,Espanyol,44,0.2574516,Saved,Normal,Left Foot,109.6,34.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,44,0.15896082,Goal,Normal,Left Foot,101.6,43.3,1
+Enzo Pablo Roco Roco,Espanyol,45,0.071483925,Off T,Normal,Head,110.9,41.3,0
+Papa Kouly Diop,Espanyol,50,0.034217227,Saved Off Target,Normal,Head,105.0,37.3,0
+Juan Rafael Fuentes Hernández,Espanyol,54,0.018549595,Saved,Normal,Left Foot,91.7,26.3,0
+Francisco Román Alarcón Suárez,Real Madrid,55,0.026887072,Off T,Normal,Right Foot,98.5,24.1,0
+Álvaro González Soberón,Espanyol,58,0.037584454,Saved Off Target,Normal,Head,106.2,37.2,0
+Francisco Román Alarcón Suárez,Real Madrid,60,0.040913086,Blocked,Normal,Right Foot,98.0,33.6,0
+Karim Benzema,Real Madrid,61,0.08086246,Saved,Normal,Head,111.1,36.9,0
+Karim Benzema,Real Madrid,65,0.13452002,Wayward,Normal,Right Foot,109.7,29.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,68,0.01106872,Off T,Normal,Right Foot,99.8,19.3,0
+Abraham González Casanova,Espanyol,72,0.3891984,Saved,Half Volley,Right Foot,112.8,38.4,0
+Mamadou Sylla Diallo,Espanyol,74,0.15599321,Blocked,Normal,Right Foot,105.3,49.2,0
+Óscar Esau Duarte Gaitán,Espanyol,75,0.06630944,Blocked,Normal,Head,114.0,33.1,0
+Papa Kouly Diop,Espanyol,75,0.024685599,Off T,Normal,Right Foot,88.8,46.0,0
+Abraham González Casanova,Espanyol,79,0.20033203,Saved,Half Volley,Left Foot,110.5,46.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,81,0.5083977,Goal,Diving Header,Head,113.9,42.4,1
+Joan Jordán Moreno,Espanyol,84,0.04177156,Saved,Normal,Right Foot,90.2,43.3,0
+Giuseppe Rossi,Levante UD,4,0.20270881,Saved,Half Volley,Left Foot,110.1,34.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,4,0.030627638,Blocked,Normal,Left Foot,97.8,54.1,0
+Giuseppe Rossi,Levante UD,5,0.09722244,Saved,Normal,Left Foot,99.1,40.5,0
+Giuseppe Rossi,Levante UD,10,0.052799188,Off T,Normal,Left Foot,97.6,45.6,0
+Lucas Vázquez Iglesias,Real Madrid,13,0.02144566,Off T,Volley,Left Foot,93.9,42.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16,0.006269317,Off T,Normal,Right Foot,93.5,18.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,19,0.04805252,Saved,Half Volley,Right Foot,117.8,49.3,0
+James David Rodríguez Rubio,Real Madrid,20,0.022705238,Blocked,Normal,Left Foot,96.1,30.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,25,0.08169031,Off T,Normal,Head,116.4,31.0,0
+José Luis Morales Nogales,Levante UD,31,0.028306218,Off T,Normal,Right Foot,113.0,54.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31,0.037667714,Saved,Half Volley,Right Foot,102.3,29.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,33,0.7835,Goal,Normal,Right Foot,108.1,40.1,1
+Toni Kroos,Real Madrid,36,0.020741632,Off T,Normal,Right Foot,91.4,51.1,0
+Borja Mayoral Moya,Real Madrid,37,0.06662694,Saved to Post,Half Volley,Right Foot,100.9,40.9,0
+Deyverson Brum Silva Acosta,Levante UD,38,0.5093214,Goal,Normal,Left Foot,106.7,42.8,1
+Danilo Luiz da Silva,Real Madrid,42,0.020092944,Off T,Normal,Right Foot,96.0,56.8,0
+James David Rodríguez Rubio,Real Madrid,51,0.025570013,Blocked,Normal,Left Foot,96.3,50.3,0
+José Ignacio Fernández Iglesias,Real Madrid,53,0.048274383,Saved,Normal,Right Foot,96.8,32.4,0
+Carlos Henrique Casimiro,Real Madrid,59,0.005538688,Off T,Normal,Right Foot,82.3,46.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,65,0.177373,Post,Volley,Left Foot,112.2,31.8,0
+Carlos Henrique Casimiro,Real Madrid,69,0.023115728,Off T,Normal,Right Foot,92.4,51.6,0
+José Antonio García Rabasco,Levante UD,73,0.022726864,Off T,Normal,Right Foot,91.9,29.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,74,0.076808356,Off T,Normal,Right Foot,101.5,41.1,0
+Jefferson Andrés Lerma Solís,Levante UD,77,0.027890377,Off T,Half Volley,Right Foot,95.0,44.0,0
+Rubén García Santos,Levante UD,81,0.06352023,Saved,Normal,Left Foot,91.7,38.9,0
+Deyverson Brum Silva Acosta,Levante UD,81,0.07964864,Off T,Normal,Head,112.5,36.5,0
+Zouhair Feddal,Levante UD,85,0.071868375,Wayward,Normal,Head,110.7,40.9,0
+Jesé Rodríguez Ruiz,Real Madrid,87,0.062223546,Saved,Normal,Right Foot,103.6,31.9,0
+Rubén García Santos,Levante UD,87,0.02602882,Off T,Normal,Left Foot,91.1,33.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,89,0.05121226,Saved,Normal,Left Foot,108.4,53.1,0
+Francisco Román Alarcón Suárez,Real Madrid,91,0.21993043,Goal,Normal,Right Foot,106.5,43.3,1
+Jesé Rodríguez Ruiz,Real Madrid,93,0.16273338,Saved,Normal,Right Foot,114.5,50.5,0
+Víctor Casadesús Castaño,Levante UD,94,0.029242234,Off T,Half Volley,Right Foot,98.7,51.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,0,0.014304829,Off T,Half Volley,Right Foot,94.9,26.1,0
+Augusto Matías Fernández,Atlético Madrid,9,0.04500669,Off T,Normal,Left Foot,95.6,43.4,0
+Raphaël Varane,Real Madrid,16,0.026721066,Off T,Normal,Head,106.3,37.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,20,0.018674081,Off T,Normal,Left Foot,92.0,53.9,0
+Fernando José Torres Sanz,Atlético Madrid,25,0.0502117,Blocked,Normal,Left Foot,110.1,31.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31,0.04354762,Saved,Normal,Right Foot,95.6,27.6,0
+James David Rodríguez Rubio,Real Madrid,31,0.05161286,Blocked,Half Volley,Left Foot,101.7,40.8,0
+Karim Benzema,Real Madrid,31,0.062042583,Off T,Half Volley,Right Foot,104.9,49.5,0
+José María Giménez de Vargas,Atlético Madrid,38,0.20158678,Wayward,Normal,Head,116.8,37.1,0
+Antoine Griezmann,Atlético Madrid,39,0.032981567,Saved,Normal,Left Foot,96.3,28.6,0
+Jorge Resurrección Merodio,Atlético Madrid,41,0.010791656,Saved,Normal,Right Foot,114.4,56.9,0
+Diego Roberto Godín Leal,Atlético Madrid,42,0.12398144,Off T,Normal,Head,113.7,43.9,0
+Toni Kroos,Real Madrid,44,0.018591944,Blocked,Volley,Left Foot,94.6,31.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,47,0.11787379,Off T,Normal,Right Foot,106.3,53.3,0
+Antoine Griezmann,Atlético Madrid,52,0.09759231,Goal,Normal,Left Foot,106.0,34.2,1
+Saúl Ñíguez Esclapez,Atlético Madrid,65,0.17032517,Saved,Half Volley,Left Foot,113.2,49.7,0
+Borja Mayoral Moya,Real Madrid,66,0.037803035,Wayward,Normal,Left Foot,104.4,25.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,67,0.15261666,Saved,Normal,Head,111.1,41.0,0
+Borja Mayoral Moya,Real Madrid,70,0.078938276,Saved,Volley,Left Foot,113.2,29.8,0
+Luka Modrić,Real Madrid,77,0.04877809,Blocked,Half Volley,Right Foot,106.8,52.1,0
+Saúl Ñíguez Esclapez,Atlético Madrid,82,0.0058082617,Saved,Volley,Left Foot,100.8,68.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,83,0.058315195,Saved,Normal,Head,112.4,46.3,0
+Antoine Griezmann,Atlético Madrid,85,0.009663647,Off T,Normal,Left Foot,99.6,61.5,0
+Danilo Luiz da Silva,Real Madrid,87,0.059004232,Off T,Normal,Left Foot,105.6,25.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,93,0.015110582,Blocked,Half Volley,Right Foot,94.4,29.9,0
+Francisco Román Alarcón Suárez,Real Madrid,2,0.07956796,Blocked,Normal,Right Foot,115.2,29.3,0
+Sergio Ramos García,Real Madrid,7,0.0344619,Saved,Normal,Head,109.0,40.3,0
+Duje Čop,Málaga,13,0.047389127,Off T,Normal,Left Foot,96.9,46.3,0
+Jesé Rodríguez Ruiz,Real Madrid,16,0.03979054,Saved,Normal,Right Foot,113.9,54.4,0
+Francisco Román Alarcón Suárez,Real Madrid,17,0.058371257,Off T,Half Volley,Left Foot,107.4,26.1,0
+Juan Pablo Añor Acosta,Málaga,18,0.33108515,Saved,Normal,Left Foot,101.0,40.8,0
+Ricardo Jorge Luz Horta,Málaga,20,0.24282447,Off T,Normal,Left Foot,109.1,33.1,0
+Jesé Rodríguez Ruiz,Real Madrid,23,0.18028583,Saved,Normal,Right Foot,109.9,48.3,0
+Ricardo Jorge Luz Horta,Málaga,25,0.03172832,Blocked,Half Volley,Right Foot,105.9,52.7,0
+Marcelo Vieira da Silva Júnior,Real Madrid,29,0.017907329,Off T,Half Volley,Right Foot,94.6,29.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32,0.07718809,Goal,Normal,Head,108.2,45.6,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,35,0.7835,Saved,Normal,Right Foot,108.1,40.1,0
+Duje Čop,Málaga,38,0.42841065,Saved,Normal,Left Foot,108.4,32.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,55,0.060080916,Saved,Normal,Left Foot,100.9,51.6,0
+Juan Pablo Añor Acosta,Málaga,58,0.058993768,Blocked,Normal,Left Foot,108.8,29.1,0
+Duje Čop,Málaga,58,0.044963066,Off T,Half Volley,Right Foot,103.7,29.9,0
+Francisco Román Alarcón Suárez,Real Madrid,59,0.053570997,Blocked,Normal,Right Foot,107.9,54.2,0
+Roberto José Rosales Altuve,Málaga,61,0.06043429,Saved,Lob,Right Foot,103.3,49.0,0
+Francisco Román Alarcón Suárez,Real Madrid,62,0.038504615,Off T,Normal,Head,110.0,34.8,0
+Pablo Fornals Malla,Málaga,65,0.044500925,Blocked,Normal,Right Foot,99.5,32.4,0
+Raúl Albentosa Redal,Málaga,65,0.2389999,Goal,Half Volley,Right Foot,111.4,45.5,1
+Marcelo Vieira da Silva Júnior,Real Madrid,71,0.06032571,Off T,Normal,Left Foot,107.5,25.3,0
+Charles Días Barbosa de Oliveira,Málaga,74,0.0353736,Saved,Normal,Head,105.2,50.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,78,0.078554705,Off T,Normal,Right Foot,103.1,53.9,0
+James David Rodríguez Rubio,Real Madrid,92,0.035778597,Saved,Volley,Left Foot,103.7,49.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,2,0.12688906,Goal,Normal,Right Foot,108.4,28.0,1
+Aritz Aduriz Zubeldia,Athletic Club,7,0.12673,Off T,Normal,Head,111.1,41.6,0
+Mateo Kovačić,Real Madrid,8,0.08505644,Saved,Volley,Right Foot,113.3,45.9,0
+Javier Eraso Goñi,Athletic Club,9,0.5064808,Goal,Normal,Right Foot,114.0,42.5,1
+Aritz Aduriz Zubeldia,Athletic Club,18,0.11016061,Saved,Normal,Head,111.4,40.1,0
+Danilo Luiz da Silva,Real Madrid,23,0.058722764,Saved,Normal,Head,112.6,48.9,0
+Aritz Aduriz Zubeldia,Athletic Club,28,0.09836327,Post,Normal,Right Foot,112.9,34.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29,0.04403039,Saved,Normal,Right Foot,99.9,28.7,0
+James David Rodríguez Rubio,Real Madrid,31,0.18447934,Blocked,Normal,Left Foot,107.6,38.6,0
+Óscar de Marcos Arana,Athletic Club,33,0.15065137,Off T,Normal,Left Foot,106.5,48.9,0
+Mateo Kovačić,Real Madrid,34,0.04201511,Blocked,Normal,Right Foot,98.3,35.1,0
+Aritz Aduriz Zubeldia,Athletic Club,34,0.14523068,Blocked,Half Volley,Right Foot,109.7,46.5,0
+James David Rodríguez Rubio,Real Madrid,36,0.028416753,Goal,Normal,Left Foot,95.0,46.2,1
+Sabin Merino Zuloaga,Athletic Club,38,0.038514387,Saved Off Target,Normal,Head,106.9,40.6,0
+Sabin Merino Zuloaga,Athletic Club,38,0.06487073,Blocked,Volley,Right Foot,109.3,47.7,0
+Mateo Kovačić,Real Madrid,43,0.014868139,Off T,Half Volley,Right Foot,95.7,35.5,0
+Toni Kroos,Real Madrid,44,0.21494228,Goal,Normal,Right Foot,105.1,35.6,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.05523411,Blocked,Normal,Right Foot,100.5,25.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.020197501,Saved,Half Volley,Right Foot,101.7,24.9,0
+Karim Benzema,Real Madrid,55,0.013643366,Off T,Normal,Right Foot,91.9,25.1,0
+Sabin Merino Zuloaga,Athletic Club,64,0.03600226,Off T,Normal,Head,106.2,42.5,0
+Mateo Kovačić,Real Madrid,66,0.06371023,Off T,Normal,Right Foot,97.8,38.2,0
+Aritz Aduriz Zubeldia,Athletic Club,67,0.3128544,Saved,Normal,Right Foot,104.1,38.0,0
+James David Rodríguez Rubio,Real Madrid,79,0.0676463,Blocked,Normal,Left Foot,103.1,43.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,80,0.053438928,Saved,Normal,Right Foot,103.6,24.0,0
+Karim Benzema,Real Madrid,81,0.084148794,Off T,Half Volley,Right Foot,106.0,37.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,86,0.24237533,Goal,Normal,Right Foot,110.0,34.5,1
+Francisco Román Alarcón Suárez,Real Madrid,87,0.047926165,Blocked,Normal,Right Foot,100.4,41.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,87,0.4212822,Saved,Normal,Right Foot,111.0,32.4,0
+Gorka Elustondo Urkola,Athletic Club,89,0.09080934,Goal,Normal,Head,110.8,44.8,1
+Sergio Enrich Ametller,Eibar,12,0.014949923,Saved,Normal,Right Foot,91.0,29.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,14,0.37049276,Saved,Lob,Right Foot,104.1,35.2,0
+Mateo Kovačić,Real Madrid,14,0.058787953,Off T,Half Volley,Right Foot,95.6,35.8,0
+Danilo Luiz da Silva,Real Madrid,17,0.019157004,Saved,Normal,Right Foot,101.5,21.5,0
+Takashi Inui,Eibar,18,0.036923774,Saved,Normal,Right Foot,104.4,25.8,0
+Gareth Frank Bale,Real Madrid,26,0.02185084,Blocked,Normal,Left Foot,101.0,56.5,0
+Daniel García Carrillo,Eibar,29,0.026898833,Off T,Volley,Left Foot,96.2,39.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32,0.03531359,Blocked,Normal,Head,105.6,34.8,0
+Gareth Frank Bale,Real Madrid,39,0.026513005,Blocked,Normal,Right Foot,100.5,52.3,0
+Luka Modrić,Real Madrid,40,0.025958532,Saved,Normal,Right Foot,95.3,52.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,41,0.022625228,Blocked,Normal,Left Foot,103.1,24.9,0
+Gareth Frank Bale,Real Madrid,42,0.08781786,Goal,Normal,Head,113.2,36.2,1
+Gareth Frank Bale,Real Madrid,45,0.35984823,Saved,Normal,Left Foot,109.4,38.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,53,0.03487592,Blocked,Normal,Right Foot,89.7,31.4,0
+Ander Capa Rodríguez,Eibar,53,0.007098317,Wayward,Half Volley,Right Foot,89.6,53.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,54,0.13278238,Wayward,Overhead Kick,Right Foot,112.1,39.1,0
+Sergio Enrich Ametller,Eibar,57,0.12959452,Off T,Normal,Head,114.0,45.9,0
+Aleksandar Pantić,Eibar,58,0.09329973,Off T,Normal,Head,113.4,36.8,0
+Takashi Inui,Eibar,61,0.013282783,Saved,Volley,Right Foot,93.6,51.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,70,0.30084023,Off T,Normal,Right Foot,110.5,49.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,72,0.05962252,Off T,Normal,Head,110.9,42.5,0
+Takashi Inui,Eibar,76,0.013361201,Off T,Volley,Right Foot,94.3,53.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,81,0.7835,Goal,Normal,Right Foot,108.0,40.1,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,89,0.09687916,Blocked,Normal,Right Foot,101.5,34.5,0
+Karim Benzema,Real Madrid,91,0.026829125,Off T,Normal,Right Foot,106.4,26.4,0
+Francisco Román Alarcón Suárez,Real Madrid,3,0.42645687,Goal,Normal,Left Foot,108.6,45.9,1
+Luka Modrić,Real Madrid,12,0.0675776,Saved,Half Volley,Left Foot,98.5,40.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13,0.15093291,Goal,Diving Header,Head,108.8,43.3,1
+Jonathan Viera Ramos,Las Palmas,18,0.019613205,Saved,Normal,Right Foot,113.4,24.3,0
+Willian José da Silva,Las Palmas,18,0.55160767,Saved,Normal,Left Foot,115.6,36.4,0
+Nabil El Zhar,Las Palmas,19,0.025648475,Saved,Normal,Head,106.2,48.2,0
+Jesé Rodríguez Ruiz,Real Madrid,26,0.24017826,Saved,Normal,Right Foot,110.6,28.2,0
+Marcelo Vieira da Silva Júnior,Real Madrid,26,0.032796256,Wayward,Half Volley,Right Foot,103.7,22.9,0
+Francisco Román Alarcón Suárez,Real Madrid,33,0.2644322,Saved,Normal,Right Foot,109.0,38.8,0
+Toni Kroos,Real Madrid,35,0.013883513,Off T,Normal,Right Foot,90.3,26.9,0
+Hernán Daniel Santana Trujillo,Las Palmas,37,0.12364297,Goal,Normal,Head,112.8,43.4,1
+Jesé Rodríguez Ruiz,Real Madrid,42,0.17682679,Goal,Normal,Right Foot,106.3,31.8,1
+Jonathan Viera Ramos,Las Palmas,45,0.06894067,Off T,Half Volley,Right Foot,101.8,36.8,0
+José Ignacio Fernández Iglesias,Real Madrid,47,0.027095128,Saved,Normal,Left Foot,93.9,35.2,0
+Willian José da Silva,Las Palmas,49,0.07109966,Off T,Normal,Left Foot,102.8,27.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,50,0.029791342,Off T,Half Volley,Left Foot,114.6,26.1,0
+Raphaël Varane,Real Madrid,52,0.06547593,Off T,Normal,Head,113.0,35.9,0
+Willian José da Silva,Las Palmas,55,0.020335512,Saved,Normal,Right Foot,88.6,44.3,0
+Lucas Vázquez Iglesias,Real Madrid,56,0.037108075,Saved,Normal,Right Foot,94.4,50.5,0
+Francisco Román Alarcón Suárez,Real Madrid,82,0.06820712,Off T,Normal,Right Foot,97.5,46.3,0
+Sergio Ezequiel Araújo,Las Palmas,86,0.042164084,Wayward,Normal,Right Foot,115.2,52.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,91,0.5610569,Saved,Normal,Right Foot,109.4,37.8,0
+Lucas Vázquez Iglesias,Real Madrid,91,0.29243055,Saved,Half Volley,Right Foot,106.2,32.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,91,0.051417347,Off T,Normal,Head,113.4,48.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,93,0.0069968705,Saved,Normal,Right Foot,90.0,19.4,0
+Gareth Frank Bale,Real Madrid,1,0.24705191,Goal,Normal,Head,109.5,38.6,1
+Karim Benzema,Real Madrid,2,0.10196259,Saved,Normal,Right Foot,103.4,53.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,4,0.020832168,Saved,Normal,Right Foot,85.5,38.3,0
+Xavier Torres Buigues,Real Betis,7,0.15803684,Wayward,Half Volley,Left Foot,106.0,45.3,0
+Rubén Castro Martín,Real Betis,9,0.0076257116,Off T,Normal,Right Foot,98.6,15.7,0
+Toni Kroos,Real Madrid,10,0.04886122,Off T,Half Volley,Right Foot,97.7,37.7,0
+Danilo Luiz da Silva,Real Madrid,17,0.023116367,Off T,Normal,Left Foot,95.5,55.1,0
+Danilo Luiz da Silva,Real Madrid,21,0.027581746,Blocked,Normal,Right Foot,109.7,53.9,0
+Sergio Ramos García,Real Madrid,22,0.10003004,Off T,Normal,Head,112.4,37.8,0
+Rubén Castro Martín,Real Betis,23,0.060302276,Blocked,Normal,Left Foot,104.7,31.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,34,0.21314561,Saved,Normal,Right Foot,111.9,28.1,0
+James David Rodríguez Rubio,Real Madrid,38,0.009074817,Goal,Normal,Left Foot,107.6,62.4,1
+Karim Benzema,Real Madrid,46,0.37434304,Goal,Normal,Head,114.8,39.9,1
+Toni Kroos,Real Madrid,49,0.049421012,Wayward,Normal,Left Foot,101.5,28.6,0
+James David Rodríguez Rubio,Real Madrid,49,0.21882027,Goal,Overhead Kick,Left Foot,112.8,40.8,1
+Luka Modrić,Real Madrid,50,0.03599297,Blocked,Normal,Right Foot,94.3,35.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,55,0.007904524,Blocked,Normal,Right Foot,95.5,62.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,58,0.284824,Saved,Normal,Left Foot,111.1,31.0,0
+Rubén Castro Martín,Real Betis,58,0.041357532,Blocked,Normal,Right Foot,98.7,31.4,0
+Xavier Torres Buigues,Real Betis,58,0.018957589,Off T,Normal,Right Foot,88.2,41.9,0
+Rubén Castro Martín,Real Betis,60,0.7835,Saved,Normal,Right Foot,108.2,40.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,62,0.019781344,Blocked,Normal,Right Foot,112.6,23.7,0
+Álvaro Cejudo Carmona,Real Betis,70,0.024310559,Blocked,Normal,Right Foot,92.4,37.5,0
+James David Rodríguez Rubio,Real Madrid,77,0.032757267,Blocked,Volley,Left Foot,97.9,47.5,0
+Sergio Ramos García,Real Madrid,77,0.06281939,Post,Overhead Kick,Right Foot,111.1,31.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,79,0.088864006,Saved,Normal,Right Foot,100.0,32.9,0
+Sergio Ramos García,Real Madrid,84,0.10292803,Wayward,Normal,Head,112.3,41.1,0
+Gareth Frank Bale,Real Madrid,88,0.025030455,Goal,Normal,Left Foot,86.5,37.1,1
+Jozabed Sánchez Ruiz,Rayo Vallecano,2,0.09529872,Blocked,Normal,Right Foot,107.3,48.2,0
+Danilo Luiz da Silva,Real Madrid,2,0.11100066,Goal,Normal,Right Foot,112.2,52.5,1
+Antonio Amaya Carazo,Rayo Vallecano,9,0.12718162,Goal,Normal,Head,112.7,43.8,1
+Jozabed Sánchez Ruiz,Rayo Vallecano,11,0.20529905,Goal,Normal,Head,115.0,42.5,1
+Jozabed Sánchez Ruiz,Rayo Vallecano,12,0.042966187,Saved,Half Volley,Left Foot,108.8,25.5,0
+Gareth Frank Bale,Real Madrid,16,0.042085007,Wayward,Overhead Kick,Left Foot,106.4,47.3,0
+Luka Modrić,Real Madrid,16,0.027481016,Off T,Half Volley,Right Foot,96.7,34.6,0
+Gareth Frank Bale,Real Madrid,19,0.009259379,Saved,Normal,Left Foot,92.8,56.3,0
+Sergio Ramos García,Real Madrid,23,0.041340325,Off T,Normal,Head,109.9,38.8,0
+Gareth Frank Bale,Real Madrid,24,0.27584025,Goal,Normal,Head,114.8,39.2,1
+Roberto Trashorras Gayoso,Rayo Vallecano,25,0.027267475,Wayward,Normal,Left Foot,96.1,51.8,0
+Jozabed Sánchez Ruiz,Rayo Vallecano,25,0.028549772,Off T,Half Volley,Right Foot,94.5,36.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29,0.7835,Goal,Normal,Right Foot,108.0,40.0,1
+Karim Benzema,Real Madrid,30,0.118046485,Blocked,Normal,Left Foot,102.9,46.9,0
+Karim Benzema,Real Madrid,35,0.11460581,Saved,Half Volley,Right Foot,105.4,39.7,0
+Luka Modrić,Real Madrid,36,0.10353739,Off T,Normal,Left Foot,100.0,42.8,0
+Gareth Frank Bale,Real Madrid,40,0.45926642,Goal,Normal,Left Foot,103.7,36.8,1
+Gareth Frank Bale,Real Madrid,42,0.102929704,Off T,Volley,Left Foot,105.6,43.9,0
+Gareth Frank Bale,Real Madrid,46,0.35070336,Off T,Half Volley,Left Foot,115.6,46.4,0
+Karim Benzema,Real Madrid,47,0.28687307,Goal,Normal,Right Foot,111.4,29.7,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,49,0.327133,Saved,Normal,Right Foot,109.7,50.3,0
+Alhassane Bangoura,Rayo Vallecano,51,0.008817796,Saved,Normal,Right Foot,93.3,60.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.12870827,Goal,Normal,Head,111.6,43.5,1
+José Ignacio Martínez García,Rayo Vallecano,58,0.049928885,Blocked,Normal,Left Foot,108.5,25.7,0
+Gareth Frank Bale,Real Madrid,60,0.48083407,Goal,Normal,Left Foot,112.2,40.9,1
+José Ignacio Martínez García,Rayo Vallecano,61,0.057246473,Wayward,Half Volley,Left Foot,106.6,27.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,65,0.08636909,Off T,Normal,Head,116.9,48.7,0
+Sergio Ramos García,Real Madrid,67,0.037458565,Saved,Normal,Head,110.2,45.1,0
+Gareth Frank Bale,Real Madrid,69,0.3828864,Goal,Normal,Right Foot,115.5,48.5,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,75,0.022173474,Off T,Half Volley,Right Foot,87.4,48.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,76,0.1364384,Off T,Normal,Left Foot,106.4,28.8,0
+Toni Kroos,Real Madrid,77,0.027888024,Blocked,Normal,Right Foot,98.4,52.7,0
+Lucas Vázquez Iglesias,Real Madrid,78,0.009311486,Saved,Normal,Right Foot,113.2,58.7,0
+Karim Benzema,Real Madrid,78,0.33767432,Goal,Normal,Right Foot,106.9,42.5,1
+Karim Benzema,Real Madrid,83,0.15166743,Blocked,Normal,Right Foot,105.7,34.1,0
+Sergio Ramos García,Real Madrid,84,0.020987287,Blocked,Normal,Right Foot,96.5,54.7,0
+Mateo Kovačić,Real Madrid,84,0.050873213,Off T,Volley,Right Foot,103.4,42.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,85,0.040096294,Blocked,Normal,Right Foot,111.1,54.2,0
+Karim Benzema,Real Madrid,89,0.076236434,Goal,Half Volley,Left Foot,104.7,34.8,1
+Jonathan dos Santos Ramírez,Villarreal,3,0.042138074,Post,Normal,Right Foot,99.5,49.9,0
+Gareth Frank Bale,Real Madrid,7,0.058466703,Off T,Normal,Head,107.3,35.6,0
+Roberto Soldado Rillo,Villarreal,7,0.39301375,Goal,Normal,Left Foot,106.4,41.2,1
+Sergio Ramos García,Real Madrid,15,0.022485072,Off T,Normal,Head,107.4,40.5,0
+James David Rodríguez Rubio,Real Madrid,19,0.033390425,Blocked,Half Volley,Left Foot,95.7,44.1,0
+Karim Benzema,Real Madrid,23,0.075534314,Off T,Half Volley,Right Foot,106.3,43.4,0
+Cédric Bakambu,Villarreal,26,0.19607642,Off T,Normal,Right Foot,101.8,49.5,0
+Luka Modrić,Real Madrid,30,0.029138323,Blocked,Normal,Right Foot,97.9,51.3,0
+Cédric Bakambu,Villarreal,35,0.18339904,Off T,Normal,Right Foot,104.1,39.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,45,0.057587303,Off T,Normal,Left Foot,108.8,26.2,0
+Karim Benzema,Real Madrid,47,0.07294357,Off T,Half Volley,Right Foot,106.0,50.5,0
+Karim Benzema,Real Madrid,48,0.3701147,Off T,Half Volley,Right Foot,113.0,37.3,0
+Roberto Soldado Rillo,Villarreal,49,0.021301415,Saved,Normal,Right Foot,94.4,53.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.045091067,Blocked,Half Volley,Right Foot,98.4,32.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.078661144,Blocked,Normal,Left Foot,104.8,42.9,0
+Sergio Ramos García,Real Madrid,53,0.021751242,Blocked,Normal,Right Foot,107.1,22.4,0
+Gareth Frank Bale,Real Madrid,55,0.13196246,Saved,Normal,Right Foot,104.5,52.1,0
+James David Rodríguez Rubio,Real Madrid,57,0.09492826,Wayward,Volley,Right Foot,114.5,31.8,0
+Gareth Frank Bale,Real Madrid,57,0.026979387,Off T,Normal,Left Foot,92.9,31.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,58,0.01824617,Post,Normal,Left Foot,114.8,25.3,0
+Roberto Soldado Rillo,Villarreal,63,0.037584957,Saved,Normal,Right Foot,92.2,42.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,67,0.11699264,Off T,Half Volley,Right Foot,107.2,41.8,0
+Karim Benzema,Real Madrid,72,0.10297549,Off T,Normal,Head,111.8,38.7,0
+James David Rodríguez Rubio,Real Madrid,79,0.04238151,Off T,Normal,Right Foot,101.1,47.2,0
+Cédric Bakambu,Villarreal,86,0.06415439,Off T,Normal,Left Foot,101.3,46.8,0
+Kléper Laveran Lima Ferreira,Real Madrid,89,0.030479096,Wayward,Normal,Head,108.3,45.7,0
+Sergio Ramos García,Real Madrid,93,0.057685226,Off T,Volley,Left Foot,107.1,38.9,0
+Karim Benzema,Real Madrid,3,0.43958077,Goal,Volley,Right Foot,113.4,37.5,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7,0.008543338,Saved,Normal,Right Foot,103.4,15.3,0
+Karim Benzema,Real Madrid,10,0.13893051,Saved,Normal,Head,114.4,35.9,0
+Karim Benzema,Real Madrid,15,0.123816095,Goal,Normal,Left Foot,110.1,36.8,1
+Gareth Frank Bale,Real Madrid,22,0.029818727,Off T,Normal,Left Foot,90.6,41.8,0
+Damián Nicolás Suárez Suárez,Getafe,25,0.017604867,Off T,Normal,Right Foot,92.8,54.7,0
+James David Rodríguez Rubio,Real Madrid,26,0.025262032,Off T,Normal,Left Foot,91.4,29.7,0
+Pablo Sarabia García,Getafe,27,0.057509974,Saved,Normal,Left Foot,102.5,44.9,0
+Gareth Frank Bale,Real Madrid,28,0.034427766,Blocked,Normal,Left Foot,95.8,36.9,0
+Ángel Lafita Castillo,Getafe,28,0.035155334,Off T,Half Volley,Right Foot,101.6,29.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,30,0.009082659,Off T,Normal,Right Foot,83.4,34.4,0
+Gareth Frank Bale,Real Madrid,33,0.009753672,Saved,Normal,Left Foot,98.0,59.0,0
+Gareth Frank Bale,Real Madrid,34,0.15460515,Goal,Normal,Left Foot,108.3,48.8,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,37,0.14945915,Goal,Normal,Right Foot,111.4,51.8,1
+Ángel Lafita Castillo,Getafe,42,0.03738875,Blocked,Normal,Right Foot,94.2,37.2,0
+Gareth Frank Bale,Real Madrid,43,0.10600607,Off T,Half Volley,Left Foot,106.0,47.2,0
+Karim Benzema,Real Madrid,48,0.051286254,Off T,Half Volley,Right Foot,100.3,31.5,0
+Wanderson Maciel Sousa Campos,Getafe,49,0.034723762,Blocked,Normal,Right Foot,94.1,39.1,0
+Alexis Ruano Delgado,Getafe,69,0.070277505,Goal,Normal,Head,112.1,43.6,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,75,0.05843352,Blocked,Normal,Left Foot,107.6,52.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,75,0.014875049,Blocked,Normal,Right Foot,113.0,55.2,0
+Toni Kroos,Real Madrid,84,0.029473556,Saved,Normal,Right Foot,93.0,46.7,0
+Pablo Sarabia García,Getafe,90,0.036988515,Saved,Normal,Left Foot,93.1,40.8,0
+Luis Alberto Suárez Díaz,Barcelona,6,0.042415757,Off T,Half Volley,Right Foot,99.6,53.3,0
+Luis Alberto Suárez Díaz,Barcelona,7,0.04698264,Wayward,Half Volley,Left Foot,104.1,30.9,0
+Daniel Alves da Silva,Barcelona,18,0.0336604,Blocked,Volley,Right Foot,95.7,44.3,0
+Jérémy Mathieu,Barcelona,21,0.062639214,Saved,Normal,Head,109.9,35.9,0
+Andrés Iniesta Luján,Barcelona,23,0.08203911,Blocked,Normal,Left Foot,114.9,27.9,0
+Neymar da Silva Santos Junior,Barcelona,24,0.009678668,Saved,Normal,Left Foot,118.3,25.3,0
+Neymar da Silva Santos Junior,Barcelona,24,0.029134916,Wayward,Normal,Right Foot,103.5,25.2,0
+Jérémy Mathieu,Barcelona,26,0.1127601,Saved,Normal,Left Foot,107.0,27.1,0
+Denis Suárez Fernández,Villarreal,27,0.04885125,Off T,Normal,Head,108.6,41.8,0
+Luis Alberto Suárez Díaz,Barcelona,30,0.029567653,Blocked,Half Volley,Right Foot,107.9,54.8,0
+Roberto Soldado Rillo,Villarreal,35,0.04221423,Off T,Normal,Right Foot,94.6,47.4,0
+Samuel Castillejo Azuaga,Villarreal,44,0.12625143,Saved,Normal,Left Foot,114.3,51.2,0
+Munir El Haddadi Mohamed,Barcelona,47,0.15156482,Wayward,Normal,Head,111.1,38.6,0
+Daniel Alves da Silva,Barcelona,47,0.1974708,Saved,Half Volley,Right Foot,115.1,47.1,0
+Luis Alberto Suárez Díaz,Barcelona,53,0.07418993,Off T,Normal,Head,110.2,34.3,0
+Neymar da Silva Santos Junior,Barcelona,59,0.35818058,Goal,Half Volley,Left Foot,111.3,33.1,1
+Andrés Iniesta Luján,Barcelona,62,0.48845795,Saved,Normal,Right Foot,110.0,46.5,0
+Bruno Soriano Llido,Villarreal,64,0.06007313,Blocked,Normal,Left Foot,93.0,40.4,0
+Luis Alberto Suárez Díaz,Barcelona,69,0.7835,Goal,Normal,Right Foot,108.4,40.1,1
+Luis Alberto Suárez Díaz,Barcelona,77,0.058317907,Saved,Normal,Right Foot,103.8,50.3,0
+Sergi Roberto Carnicer,Barcelona,79,0.036102988,Off T,Normal,Right Foot,95.1,48.5,0
+Sergi Roberto Carnicer,Barcelona,80,0.10451367,Off T,Normal,Right Foot,102.9,47.5,0
+Neymar da Silva Santos Junior,Barcelona,84,0.097391985,Goal,Half Volley,Right Foot,106.7,37.1,1
+Mario Gaspar Pérez Martínez,Villarreal,86,0.048617076,Saved,Normal,Left Foot,98.5,49.5,0
+Luis Alberto Suárez Díaz,Barcelona,90,0.07127493,Off T,Normal,Left Foot,106.8,32.8,0
+Gareth Frank Bale,Real Madrid,5,0.036696874,Saved,Normal,Head,107.3,33.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9,0.23012958,Blocked,Normal,Right Foot,106.4,45.8,0
+José Ignacio Fernández Iglesias,Real Madrid,10,0.024474097,Post,Half Volley,Left Foot,98.8,28.7,0
+Gareth Frank Bale,Real Madrid,11,0.028301038,Saved,Normal,Right Foot,94.1,48.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16,0.023769643,Blocked,Normal,Right Foot,86.6,37.0,0
+Luka Modrić,Real Madrid,17,0.026336132,Blocked,Normal,Right Foot,99.9,28.5,0
+Sergio Ramos García,Real Madrid,21,0.10375304,Goal,Overhead Kick,Right Foot,107.8,40.2,1
+Gareth Frank Bale,Real Madrid,23,0.094832025,Saved,Normal,Left Foot,107.8,27.9,0
+Mariano Ferreira Filho,Sevilla,24,0.041603822,Off T,Normal,Left Foot,97.5,50.2,0
+Gareth Frank Bale,Real Madrid,26,0.11174874,Off T,Diving Header,Head,108.6,44.4,0
+Gareth Frank Bale,Real Madrid,30,0.030646203,Saved,Normal,Left Foot,93.5,39.1,0
+Grzegorz Krychowiak,Sevilla,34,0.23587246,Blocked,Normal,Head,116.9,41.2,0
+Ciro Immobile,Sevilla,35,0.124724016,Goal,Half Volley,Right Foot,118.4,46.8,1
+Ciro Immobile,Sevilla,39,0.61766297,Off T,Normal,Right Foot,110.4,39.4,0
+Benoît Trémoulinas,Sevilla,42,0.15834492,Blocked,Normal,Left Foot,111.1,30.7,0
+Carlos Henrique Casimiro,Real Madrid,43,0.024527686,Off T,Normal,Right Foot,86.7,33.7,0
+Francisco Román Alarcón Suárez,Real Madrid,45,0.053754296,Blocked,Normal,Right Foot,104.2,27.8,0
+Yevhen Konoplyanka,Sevilla,45,0.012160132,Off T,Normal,Right Foot,89.7,25.6,0
+Éver Maximiliano David Banega,Sevilla,48,0.07649867,Blocked,Normal,Right Foot,110.3,49.0,0
+Gareth Frank Bale,Real Madrid,49,0.030750236,Saved,Normal,Left Foot,97.6,25.9,0
+Toni Kroos,Real Madrid,51,0.054236613,Off T,Normal,Left Foot,100.5,37.9,0
+Yevhen Konoplyanka,Sevilla,52,0.07999688,Off T,Normal,Right Foot,102.1,49.6,0
+Ciro Immobile,Sevilla,55,0.09450183,Blocked,Normal,Right Foot,103.4,35.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,55,0.021805426,Off T,Normal,Right Foot,92.2,26.2,0
+Mariano Ferreira Filho,Sevilla,58,0.028534824,Off T,Normal,Left Foot,92.7,33.3,0
+Éver Maximiliano David Banega,Sevilla,60,0.16482423,Goal,Normal,Left Foot,112.6,37.9,1
+Raphaël Varane,Real Madrid,63,0.029898847,Wayward,Normal,Head,111.4,32.8,0
+Toni Kroos,Real Madrid,64,0.01053242,Saved,Normal,Right Foot,84.0,39.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,66,0.18188958,Saved,Volley,Right Foot,111.2,49.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,67,0.06255235,Off T,Normal,Right Foot,100.9,36.8,0
+Gareth Frank Bale,Real Madrid,70,0.05780549,Off T,Normal,Left Foot,97.6,44.0,0
+James David Rodríguez Rubio,Real Madrid,71,0.029923007,Blocked,Normal,Left Foot,97.6,47.4,0
+Luka Modrić,Real Madrid,72,0.029188108,Saved,Normal,Right Foot,91.5,40.6,0
+Carlos Henrique Casimiro,Real Madrid,72,0.15383853,Saved,Normal,Head,113.8,44.4,0
+Benoît Trémoulinas,Sevilla,73,0.059896845,Wayward,Half Volley,Left Foot,113.3,26.3,0
+Fernando Llorente Torres,Sevilla,73,0.22400133,Goal,Normal,Head,113.8,44.4,1
+Yevhen Konoplyanka,Sevilla,76,0.0317963,Saved,Normal,Right Foot,111.3,24.8,0
+Éver Maximiliano David Banega,Sevilla,76,0.04754251,Saved,Half Volley,Right Foot,103.0,32.9,0
+James David Rodríguez Rubio,Real Madrid,80,0.031681266,Off T,Normal,Left Foot,103.0,25.3,0
+Luka Modrić,Real Madrid,86,0.017209237,Blocked,Normal,Right Foot,86.3,31.4,0
+Carlos Henrique Casimiro,Real Madrid,87,0.008139251,Blocked,Normal,Right Foot,83.3,47.2,0
+Gareth Frank Bale,Real Madrid,90,0.07168747,Blocked,Normal,Head,110.3,40.9,0
+James David Rodríguez Rubio,Real Madrid,92,0.053431865,Goal,Normal,Left Foot,96.7,33.4,1
+Ander Capa Rodríguez,Eibar,3,0.0318337,Saved,Normal,Right Foot,100.6,57.4,0
+Luis Alberto Suárez Díaz,Barcelona,3,0.032280646,Off T,Volley,Right Foot,111.0,25.7,0
+Sandro Ramírez Castillo,Barcelona,7,0.10992855,Off T,Volley,Right Foot,117.2,47.9,0
+Sergio Gontán Gallardo,Eibar,9,0.13853621,Saved,Normal,Right Foot,99.9,39.0,0
+Borja González Tomás,Eibar,9,0.12067959,Goal,Normal,Right Foot,99.0,34.6,1
+Marc Bartra Aregall,Barcelona,14,0.09349664,Wayward,Normal,Head,110.2,43.7,0
+Luis Alberto Suárez Díaz,Barcelona,20,0.57605565,Goal,Normal,Head,114.8,38.1,1
+Ivan Rakitić,Barcelona,23,0.019664891,Saved,Normal,Left Foot,93.7,47.1,0
+Simone Verdi,Eibar,29,0.02731625,Off T,Normal,Right Foot,98.7,56.1,0
+Sandro Ramírez Castillo,Barcelona,34,0.23517184,Wayward,Volley,Right Foot,110.2,40.0,0
+Sergio Gontán Gallardo,Eibar,39,0.261091,Blocked,Normal,Left Foot,113.8,31.7,0
+Daniel Alves da Silva,Barcelona,41,0.0215953,Wayward,Half Volley,Left Foot,96.8,53.7,0
+Neymar da Silva Santos Junior,Barcelona,44,0.0097258985,Off T,Normal,Right Foot,94.2,22.8,0
+Borja González Tomás,Eibar,47,0.1665038,Saved,Diving Header,Head,108.6,40.4,0
+Luis Alberto Suárez Díaz,Barcelona,47,0.2955752,Goal,Normal,Right Foot,107.0,37.9,1
+Luis Alberto Suárez Díaz,Barcelona,56,0.0665551,Saved,Half Volley,Left Foot,105.3,40.3,0
+Neymar da Silva Santos Junior,Barcelona,64,0.08776306,Blocked,Normal,Right Foot,100.2,32.3,0
+Eddy Silvestre Pascual İsrafilov,Eibar,72,0.03190918,Wayward,Volley,Right Foot,98.3,33.9,0
+Luis Alberto Suárez Díaz,Barcelona,72,0.01699575,Wayward,Lob,Left Foot,81.4,26.3,0
+Ivan Rakitić,Barcelona,75,0.07924604,Off T,Normal,Right Foot,95.8,45.6,0
+Luis Alberto Suárez Díaz,Barcelona,84,0.06703627,Goal,Half Volley,Right Foot,106.8,33.9,1
+Carlos Henrique Casimiro,Real Madrid,10,0.043775134,Off T,Normal,Right Foot,93.8,40.6,0
+Rodrigo Moreno Machado,Valencia,11,0.044721074,Off T,Volley,Left Foot,116.4,29.0,0
+Francisco Alcácer García,Valencia,15,0.030004008,Blocked,Normal,Right Foot,113.3,52.9,0
+Karim Benzema,Real Madrid,18,0.08802169,Off T,Normal,Head,112.5,41.9,0
+Francisco Alcácer García,Valencia,21,0.07364297,Off T,Volley,Right Foot,107.2,52.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24,0.29087666,Saved,Normal,Right Foot,105.6,45.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,25,0.14475724,Goal,Normal,Right Foot,101.2,44.7,1
+Sergio Ramos García,Real Madrid,30,0.12550858,Off T,Normal,Head,112.5,43.2,0
+Karim Benzema,Real Madrid,31,0.112399,Wayward,Volley,Left Foot,111.5,32.9,0
+Lucas Vázquez Iglesias,Real Madrid,33,0.09828836,Saved,Normal,Head,107.1,40.6,0
+João Pedro Cavaco Cancelo,Valencia,36,0.16442022,Off T,Normal,Left Foot,112.2,28.9,0
+Rodrigo Moreno Machado,Valencia,37,0.03214632,Saved,Normal,Left Foot,91.4,36.7,0
+Carlos Henrique Casimiro,Real Madrid,40,0.011742492,Blocked,Half Volley,Right Foot,102.4,21.5,0
+Karim Benzema,Real Madrid,41,0.33757305,Saved,Backheel,Right Foot,113.7,38.4,0
+Karim Benzema,Real Madrid,41,0.20937555,Goal,Normal,Right Foot,115.1,32.1,1
+Lucas Vázquez Iglesias,Real Madrid,47,0.06273813,Blocked,Normal,Right Foot,97.7,41.3,0
+Carlos Henrique Casimiro,Real Madrid,48,0.022461439,Blocked,Normal,Right Foot,95.1,52.3,0
+Karim Benzema,Real Madrid,48,0.2161287,Saved,Normal,Head,112.8,43.4,0
+Daniel Parejo Muñoz,Valencia,52,0.0627972,Post,Normal,Right Foot,93.5,38.1,0
+André Filipe Tavares Gomes,Valencia,53,0.027195068,Saved,Normal,Right Foot,93.1,30.6,0
+Rodrigo Moreno Machado,Valencia,54,0.11019544,Goal,Normal,Left Foot,103.8,37.1,1
+Lucas Vázquez Iglesias,Real Madrid,56,0.15051065,Saved,Normal,Right Foot,110.2,52.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,58,0.19430742,Goal,Normal,Left Foot,108.4,29.5,1
+Daniel Parejo Muñoz,Valencia,60,0.107127294,Saved to Post,Normal,Left Foot,106.0,52.8,0
+André Filipe Tavares Gomes,Valencia,63,0.034804177,Off T,Normal,Right Foot,96.4,47.9,0
+Francisco Alcácer García,Valencia,70,0.3578633,Saved,Half Volley,Right Foot,114.5,35.7,0
+Shkodran Mustafi,Valencia,71,0.01426791,Saved,Normal,Right Foot,103.2,56.9,0
+André Filipe Tavares Gomes,Valencia,74,0.26011407,Off T,Normal,Left Foot,108.5,36.7,0
+Rodrigo Moreno Machado,Valencia,79,0.46476424,Saved,Half Volley,Left Foot,112.4,41.1,0
+André Filipe Tavares Gomes,Valencia,80,0.026444534,Goal,Normal,Right Foot,98.5,23.6,1
+Santiago Mina Lorenzo,Valencia,87,0.007206478,Off T,Normal,Right Foot,98.6,15.5,0
+Shkodran Mustafi,Valencia,92,0.012111946,Blocked,Normal,Right Foot,91.8,25.0,0
+Denis Suárez Fernández,Villarreal,5,0.0146212885,Blocked,Normal,Right Foot,102.4,22.1,0
+Karim Benzema,Real Madrid,7,0.043914843,Saved,Normal,Right Foot,106.0,47.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10,0.031477965,Saved,Normal,Left Foot,113.4,25.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,20,0.02357862,Blocked,Normal,Right Foot,87.8,50.0,0
+Raphaël Varane,Real Madrid,20,0.082417026,Off T,Normal,Head,113.3,33.4,0
+Lucas Vázquez Iglesias,Real Madrid,28,0.02650786,Blocked,Volley,Right Foot,104.9,51.0,0
+Karim Benzema,Real Madrid,28,0.23541662,Off T,Volley,Right Foot,116.2,44.2,0
+Lucas Vázquez Iglesias,Real Madrid,31,0.06540189,Off T,Half Volley,Left Foot,104.5,33.5,0
+Marcelo Vieira da Silva Júnior,Real Madrid,36,0.008743569,Blocked,Normal,Left Foot,105.4,21.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,39,0.024937436,Off T,Normal,Left Foot,92.7,27.6,0
+Karim Benzema,Real Madrid,40,0.30604562,Goal,Normal,Head,113.1,39.7,1
+Denis Suárez Fernández,Villarreal,42,0.111999445,Saved,Normal,Right Foot,105.2,53.0,0
+Luka Modrić,Real Madrid,46,0.032511316,Blocked,Normal,Left Foot,98.1,45.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,47,0.092011884,Off T,Normal,Head,114.5,47.7,0
+Luka Modrić,Real Madrid,49,0.039462443,Off T,Normal,Right Foot,95.5,44.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,51,0.030688196,Saved,Normal,Left Foot,99.2,30.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,54,0.023270905,Off T,Normal,Right Foot,91.8,52.2,0
+Jonathan dos Santos Ramírez,Villarreal,57,0.030280024,Blocked,Normal,Right Foot,98.5,53.0,0
+Toni Kroos,Real Madrid,60,0.03200397,Blocked,Normal,Right Foot,92.3,36.5,0
+Lucas Vázquez Iglesias,Real Madrid,68,0.044922158,Goal,Normal,Right Foot,103.3,55.1,1
+Karim Benzema,Real Madrid,73,0.06254407,Blocked,Normal,Left Foot,110.0,31.4,0
+Francisco Román Alarcón Suárez,Real Madrid,74,0.09303157,Wayward,Normal,Right Foot,108.3,30.8,0
+Luka Modrić,Real Madrid,75,0.10719474,Goal,Volley,Left Foot,104.7,35.7,1
+Denis Suárez Fernández,Villarreal,85,0.040177327,Saved,Normal,Right Foot,92.3,31.6,0
+Samuel García Sánchez,Villarreal,90,0.084621646,Blocked,Half Volley,Right Foot,105.9,41.0,0
+Gareth Frank Bale,Real Madrid,2,0.031328496,Post,Normal,Left Foot,97.5,52.6,0
+Adrián Embarba Blázquez,Rayo Vallecano,6,0.5687012,Goal,Normal,Left Foot,113.7,39.3,1
+Karim Benzema,Real Madrid,11,0.27889493,Off T,Volley,Right Foot,111.4,40.8,0
+Nicolás Ladislao Fedor Flores,Rayo Vallecano,13,0.50130045,Goal,Half Volley,Right Foot,114.3,40.9,1
+Jozabed Sánchez Ruiz,Rayo Vallecano,17,0.024840182,Blocked,Normal,Right Foot,90.1,40.6,0
+Tiago Manuel Dias Correia,Rayo Vallecano,18,0.0066657704,Off T,Normal,Left Foot,87.9,24.8,0
+Tiago Manuel Dias Correia,Rayo Vallecano,18,0.025072463,Blocked,Normal,Right Foot,102.9,25.7,0
+Tiago Manuel Dias Correia,Rayo Vallecano,26,0.008334569,Saved,Normal,Right Foot,86.3,30.2,0
+Adrián Embarba Blázquez,Rayo Vallecano,27,0.009369512,Saved,Normal,Left Foot,100.0,58.8,0
+Mateo Kovačić,Real Madrid,30,0.014217219,Blocked,Normal,Right Foot,118.7,30.5,0
+Gareth Frank Bale,Real Madrid,34,0.08652524,Goal,Normal,Head,115.2,47.4,1
+Marcelo Vieira da Silva Júnior,Real Madrid,36,0.030104736,Blocked,Normal,Left Foot,100.9,27.8,0
+Karim Benzema,Real Madrid,37,0.0789881,Off T,Normal,Head,112.7,44.1,0
+Adrián Embarba Blázquez,Rayo Vallecano,38,0.0868823,Off T,Normal,Head,112.4,31.7,0
+Gareth Frank Bale,Real Madrid,41,0.010684399,Off T,Normal,Left Foot,99.6,58.8,0
+Lucas Vázquez Iglesias,Real Madrid,51,0.08743641,Goal,Normal,Head,110.0,37.8,1
+Francisco Román Alarcón Suárez,Real Madrid,53,0.09272295,Off T,Normal,Right Foot,101.3,33.5,0
+Kléper Laveran Lima Ferreira,Real Madrid,55,0.08454029,Wayward,Normal,Head,114.7,46.7,0
+Gareth Frank Bale,Real Madrid,56,0.085101195,Blocked,Normal,Right Foot,113.6,51.1,0
+Jesé Rodríguez Ruiz,Real Madrid,58,0.21460256,Saved,Normal,Right Foot,109.4,51.2,0
+Lucas Vázquez Iglesias,Real Madrid,59,0.16520634,Blocked,Normal,Left Foot,114.2,41.0,0
+Roberto Trashorras Gayoso,Rayo Vallecano,71,0.045524005,Saved,Normal,Right Foot,98.6,27.5,0
+Gareth Frank Bale,Real Madrid,78,0.06129758,Blocked,Normal,Left Foot,93.6,39.0,0
+Gareth Frank Bale,Real Madrid,80,0.31867963,Goal,Normal,Left Foot,109.6,30.1,1
+Marcelo Vieira da Silva Júnior,Real Madrid,85,0.022292582,Blocked,Normal,Left Foot,99.0,27.4,0
+Nicolás Ladislao Fedor Flores,Rayo Vallecano,91,0.06224214,Blocked,Normal,Right Foot,102.6,36.2,0
+José Ángel Crespo Rincón,Rayo Vallecano,93,0.022514846,Saved,Normal,Head,108.5,47.3,0
+Daniel Carvajal Ramos,Real Madrid,4,0.025975617,Wayward,Normal,Right Foot,100.9,57.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7,0.031063488,Off T,Normal,Right Foot,95.3,44.2,0
+Willian José da Silva,Las Palmas,9,0.3426701,Saved,Normal,Right Foot,103.7,32.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10,0.07022169,Saved,Normal,Left Foot,100.8,44.2,0
+Jerónimo Figueroa Cabrera,Las Palmas,11,0.049553372,Off T,Half Volley,Left Foot,113.2,26.4,0
+Roque Mesa Quevedo,Las Palmas,16,0.012349784,Saved Off Target,Half Volley,Right Foot,87.5,34.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23,0.23785302,Saved,Normal,Left Foot,107.6,29.3,0
+Sergio Ramos García,Real Madrid,23,0.10471913,Goal,Normal,Head,114.1,35.3,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28,0.07327368,Blocked,Normal,Right Foot,104.4,46.2,0
+Gareth Frank Bale,Real Madrid,29,0.03312979,Off T,Normal,Head,113.7,48.8,0
+Pedro Bigas Rigo,Las Palmas,31,0.08351529,Off T,Normal,Other,107.5,41.8,0
+Francisco Román Alarcón Suárez,Real Madrid,33,0.037609715,Blocked,Normal,Right Foot,112.5,52.4,0
+Sergio Ramos García,Real Madrid,42,0.056022745,Blocked,Normal,Right Foot,109.1,26.9,0
+Willian José da Silva,Las Palmas,52,0.08620803,Wayward,Normal,Head,112.1,40.6,0
+David García Santana,Las Palmas,57,0.15195422,Wayward,Normal,Head,111.4,39.1,0
+Gareth Frank Bale,Real Madrid,62,0.20605363,Off T,Normal,Right Foot,102.9,46.2,0
+Francisco José Perdomo Borges,Las Palmas,64,0.10230836,Saved,Normal,Right Foot,106.2,41.3,0
+Jonathan Viera Ramos,Las Palmas,66,0.0155976685,Blocked,Normal,Right Foot,95.5,39.1,0
+Gareth Frank Bale,Real Madrid,69,0.03221178,Off T,Normal,Left Foot,91.1,37.5,0
+Jerónimo Figueroa Cabrera,Las Palmas,74,0.08410254,Blocked,Normal,Left Foot,111.0,51.6,0
+Pedro Bigas Rigo,Las Palmas,74,0.037636124,Off T,Normal,Head,109.0,41.1,0
+Sergio Ezequiel Araújo,Las Palmas,84,0.064517274,Off T,Normal,Head,112.9,33.9,0
+Willian José da Silva,Las Palmas,86,0.27051145,Goal,Lob,Right Foot,113.5,49.1,1
+Carlos Henrique Casimiro,Real Madrid,88,0.09722275,Goal,Normal,Head,114.1,44.9,1
+Jonathan Viera Ramos,Las Palmas,91,0.025509413,Saved,Normal,Right Foot,87.3,42.4,0
+Pedro Bigas Rigo,Las Palmas,92,0.05438578,Blocked,Normal,Head,108.0,40.9,0
+Sergio Ezequiel Araújo,Las Palmas,92,0.065863974,Off T,Half Volley,Right Foot,107.0,39.1,0
+Gareth Frank Bale,Real Madrid,3,0.10589248,Off T,Normal,Right Foot,103.1,52.5,0
+James David Rodríguez Rubio,Real Madrid,8,0.09825722,Saved,Normal,Left Foot,109.8,27.4,0
+Sergio Ramos García,Real Madrid,11,0.04132487,Off T,Normal,Head,109.7,45.0,0
+Gareth Frank Bale,Real Madrid,14,0.06366292,Off T,Normal,Head,110.9,37.4,0
+James David Rodríguez Rubio,Real Madrid,15,0.0107687535,Wayward,Normal,Left Foot,107.6,59.9,0
+David Zurutuza Veillet,Real Sociedad,16,0.004668206,Saved,Normal,Right Foot,81.4,21.4,0
+Carlos Henrique Casimiro,Real Madrid,20,0.023576386,Off T,Normal,Right Foot,86.8,42.1,0
+Gareth Frank Bale,Real Madrid,20,0.06026242,Off T,Normal,Head,109.8,35.9,0
+Xabier Prieto Argarate,Real Sociedad,24,0.09989093,Saved,Normal,Right Foot,112.0,32.3,0
+James David Rodríguez Rubio,Real Madrid,26,0.054196578,Saved,Normal,Left Foot,100.8,37.2,0
+Mikel González de Martín Martínez,Real Sociedad,27,0.051241983,Blocked,Normal,Right Foot,102.0,38.1,0
+Danilo Luiz da Silva,Real Madrid,38,0.018798986,Blocked,Normal,Left Foot,99.4,57.1,0
+José Ignacio Fernández Iglesias,Real Madrid,39,0.11028741,Blocked,Normal,Right Foot,108.5,28.2,0
+David Zurutuza Veillet,Real Sociedad,41,0.029611602,Blocked,Normal,Right Foot,101.8,27.4,0
+James David Rodríguez Rubio,Real Madrid,42,0.028046627,Blocked,Half Volley,Right Foot,96.1,34.8,0
+Joseba Zaldúa Bengoetxea,Real Sociedad,44,0.044254895,Off T,Normal,Right Foot,99.8,54.0,0
+Raphaël Varane,Real Madrid,45,0.07719966,Off T,Normal,Head,109.7,40.8,0
+Gareth Frank Bale,Real Madrid,47,0.042267796,Off T,Normal,Head,112.7,49.2,0
+David Zurutuza Veillet,Real Sociedad,54,0.026964098,Blocked,Normal,Right Foot,105.1,28.2,0
+Danilo Luiz da Silva,Real Madrid,56,0.02600661,Off T,Normal,Left Foot,97.8,53.8,0
+Gareth Frank Bale,Real Madrid,57,0.23269096,Saved,Normal,Left Foot,110.4,42.0,0
+Armindo Tué Na Bangna,Real Sociedad,70,0.033241555,Off T,Normal,Right Foot,89.0,41.7,0
+Armindo Tué Na Bangna,Real Sociedad,71,0.020209443,Saved,Normal,Right Foot,87.1,32.1,0
+Jesé Rodríguez Ruiz,Real Madrid,73,0.03982756,Saved,Normal,Right Foot,113.0,53.9,0
+Jesé Rodríguez Ruiz,Real Madrid,77,0.05950156,Saved,Normal,Right Foot,97.4,36.0,0
+Gareth Frank Bale,Real Madrid,79,0.06753629,Goal,Normal,Head,112.1,44.3,1
+Mikel Oyarzabal Ugarte,Real Sociedad,85,0.006885577,Off T,Normal,Left Foot,109.0,19.1,0
+Mikel González de Martín Martínez,Real Sociedad,89,0.061597995,Off T,Normal,Head,110.7,41.6,0
+David Zurutuza Veillet,Real Sociedad,91,0.06783242,Saved,Normal,Head,107.9,37.8,0
+James David Rodríguez Rubio,Real Madrid,4,0.0959766,Goal,Normal,Left Foot,101.1,44.9,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8,0.08956792,Wayward,Normal,Head,109.6,35.3,0
+Sergio Gontán Gallardo,Eibar,11,0.0064938725,Off T,Normal,Right Foot,81.1,40.0,0
+Lucas Vázquez Iglesias,Real Madrid,17,0.19110347,Goal,Normal,Left Foot,109.8,34.2,1
+José Ignacio Peleteiro Ramallo,Eibar,18,0.008808778,Off T,Normal,Left Foot,94.4,21.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18,0.3494427,Goal,Normal,Right Foot,112.1,33.3,1
+Kléper Laveran Lima Ferreira,Real Madrid,33,0.086288616,Wayward,Volley,Left Foot,111.2,34.4,0
+James David Rodríguez Rubio,Real Madrid,37,0.01259712,Off T,Normal,Left Foot,99.4,60.3,0
+Jesé Rodríguez Ruiz,Real Madrid,38,0.70989615,Goal,Normal,Right Foot,113.0,46.0,1
+Aleksandar Pantić,Eibar,40,0.09138947,Saved,Normal,Head,112.8,40.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,41,0.11698015,Saved,Normal,Head,113.0,41.8,0
+Francisco Román Alarcón Suárez,Real Madrid,45,0.030719228,Blocked,Normal,Left Foot,115.6,29.1,0
+Sergio Enrich Ametller,Eibar,47,0.06810759,Saved,Normal,Right Foot,104.8,51.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,47,0.14013861,Saved,Diving Header,Head,106.5,38.3,0
+Borja González Tomás,Eibar,48,0.35104555,Wayward,Backheel,Right Foot,116.4,44.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,49,0.017725984,Off T,Normal,Right Foot,85.8,38.8,0
+David Juncà Reñé,Eibar,53,0.0524904,Off T,Normal,Left Foot,97.4,37.8,0
+David Juncà Reñé,Eibar,59,0.0089886645,Blocked,Normal,Left Foot,102.1,65.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,73,0.529824,Off T,Half Volley,Left Foot,113.5,40.5,0
+Borja González Tomás,Eibar,78,0.6359429,Post,Normal,Head,117.2,35.9,0
+Gonzalo Escalante,Eibar,78,0.091582306,Off T,Half Volley,Left Foot,108.0,45.2,0
+Danilo Luiz da Silva,Real Madrid,85,0.021149408,Off T,Normal,Right Foot,90.5,45.0,0
+Mateo Kovačić,Real Madrid,90,0.057949916,Blocked,Normal,Right Foot,97.0,46.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,90,0.024967402,Off T,Normal,Right Foot,94.4,27.6,0
+Danilo Luiz da Silva,Real Madrid,1,0.01837172,Off T,Normal,Right Foot,91.0,27.3,0
+Sergio Ramos García,Real Madrid,9,0.0060853967,Off T,Half Volley,Left Foot,87.0,25.9,0
+Iago Aspas Juncal,Celta Vigo,13,0.26260468,Post,Normal,Head,113.6,40.0,0
+Iago Aspas Juncal,Celta Vigo,13,0.32485405,Saved,Half Volley,Right Foot,115.7,44.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,19,0.018120253,Saved,Normal,Left Foot,96.3,56.8,0
+Carlos Henrique Casimiro,Real Madrid,20,0.031253055,Blocked,Normal,Right Foot,97.1,28.4,0
+Francisco Román Alarcón Suárez,Real Madrid,20,0.21755305,Saved,Normal,Left Foot,113.7,45.5,0
+Iago Aspas Juncal,Celta Vigo,23,0.00724136,Off T,Normal,Left Foot,81.5,59.2,0
+Carlos Henrique Casimiro,Real Madrid,39,0.08898208,Saved,Normal,Head,113.6,32.5,0
+Kléper Laveran Lima Ferreira,Real Madrid,40,0.04008013,Goal,Normal,Head,109.7,36.0,1
+Fabián Ariel Orellana Valenzuela,Celta Vigo,43,0.07049738,Blocked,Normal,Right Foot,95.2,42.9,0
+Lucas Vázquez Iglesias,Real Madrid,46,0.07665258,Blocked,Normal,Left Foot,107.1,53.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,49,0.033264387,Goal,Normal,Right Foot,87.8,45.2,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,55,0.0091618495,Blocked,Normal,Right Foot,101.5,20.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,57,0.05212791,Goal,Normal,Right Foot,96.4,26.9,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,59,0.010831883,Saved to Post,Normal,Right Foot,93.8,22.6,0
+Kléper Laveran Lima Ferreira,Real Madrid,60,0.005708456,Saved,Half Volley,Right Foot,86.6,57.1,0
+Iago Aspas Juncal,Celta Vigo,61,0.52106094,Goal,Lob,Left Foot,106.5,45.2,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,63,0.87439555,Goal,Normal,Right Foot,114.7,40.8,1
+John Guidetti,Celta Vigo,67,0.10798356,Blocked,Normal,Head,111.4,40.2,0
+John Guidetti,Celta Vigo,72,0.08230098,Blocked,Normal,Right Foot,111.0,51.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,75,0.08383029,Goal,Normal,Head,111.8,39.0,1
+Jesé Rodríguez Ruiz,Real Madrid,76,0.15886617,Goal,Normal,Right Foot,106.1,36.4,1
+Gareth Frank Bale,Real Madrid,80,0.0550643,Goal,Normal,Left Foot,98.6,30.5,1
+Claudio Beauvue,Celta Vigo,83,0.024683634,Saved,Normal,Right Foot,94.2,52.0,0
+Carlos Henrique Casimiro,Real Madrid,83,0.0030596661,Off T,Lob,Right Foot,50.3,30.0,0
+Gareth Frank Bale,Real Madrid,88,0.037863873,Blocked,Normal,Right Foot,109.0,54.2,0
+Lucas Vázquez Iglesias,Real Madrid,89,0.09909629,Blocked,Normal,Left Foot,106.8,49.6,0
+Karim Benzema,Real Madrid,7,0.22529605,Off T,Overhead Kick,Right Foot,112.2,41.5,0
+David Barral Torres,Granada,9,0.059139382,Blocked,Normal,Right Foot,84.5,44.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13,0.08190286,Off T,Normal,Left Foot,110.4,25.5,0
+David Barral Torres,Granada,16,0.06494873,Blocked,Normal,Right Foot,106.4,45.8,0
+Isaac Ajayi Success,Granada,16,0.030400444,Off T,Normal,Left Foot,111.9,55.4,0
+Adalberto Peñaranda Maestre,Granada,24,0.009107318,Blocked,Normal,Right Foot,96.7,20.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28,0.010010314,Blocked,Normal,Right Foot,107.7,20.4,0
+Karim Benzema,Real Madrid,29,0.55398226,Goal,Normal,Right Foot,113.2,44.3,1
+Rubén Rochina Naixes,Granada,38,0.020087993,Blocked,Half Volley,Left Foot,96.2,51.0,0
+David Barral Torres,Granada,39,0.102879636,Blocked,Normal,Right Foot,108.5,44.9,0
+Rubén Rochina Naixes,Granada,42,0.067630425,Off T,Normal,Left Foot,98.8,35.5,0
+Francisco Román Alarcón Suárez,Real Madrid,43,0.031386923,Off T,Normal,Right Foot,93.6,44.2,0
+Isaac Ajayi Success,Granada,45,0.09451377,Blocked,Normal,Left Foot,104.4,47.7,0
+David Barral Torres,Granada,46,0.09374841,Saved,Normal,Head,113.0,45.9,0
+Luka Modrić,Real Madrid,47,0.02542973,Saved,Half Volley,Right Foot,94.7,48.4,0
+Rubén Rochina Naixes,Granada,52,0.022619393,Off T,Normal,Left Foot,89.8,40.1,0
+Luka Modrić,Real Madrid,54,0.07982836,Blocked,Normal,Right Foot,103.5,49.6,0
+Karim Benzema,Real Madrid,54,0.042461712,Off T,Half Volley,Right Foot,114.2,53.1,0
+Karim Benzema,Real Madrid,56,0.552108,Saved,Normal,Right Foot,108.9,42.2,0
+Daniel Carvajal Ramos,Real Madrid,57,0.1400109,Off T,Normal,Right Foot,105.6,51.8,0
+Youssef El-Arabi,Granada,59,0.13466206,Goal,Normal,Right Foot,110.2,53.8,1
+Sergio Ramos García,Real Madrid,67,0.093119524,Off T,Normal,Head,112.6,35.9,0
+Youssef El-Arabi,Granada,70,0.01612709,Blocked,Normal,Head,104.2,38.2,0
+David Rodríguez Lombán,Granada,70,0.05715164,Wayward,Normal,Head,111.3,34.0,0
+Jesé Rodríguez Ruiz,Real Madrid,77,0.0420984,Blocked,Normal,Right Foot,103.3,51.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,77,0.028127376,Off T,Normal,Head,110.8,34.0,0
+Isaac Ajayi Success,Granada,80,0.032109175,Blocked,Normal,Left Foot,108.0,26.6,0
+Luka Modrić,Real Madrid,84,0.05000317,Goal,Normal,Right Foot,97.5,47.8,1
+Rubén Castro Martín,Real Betis,6,0.18227157,Saved,Normal,Right Foot,104.9,29.7,0
+Álvaro Cejudo Carmona,Real Betis,6,0.06555308,Goal,Volley,Right Foot,101.4,48.0,1
+Karim Benzema,Real Madrid,16,0.027226131,Saved,Normal,Right Foot,112.3,54.0,0
+Francisco Román Alarcón Suárez,Real Madrid,21,0.10467761,Saved,Normal,Head,111.7,37.6,0
+Karim Benzema,Real Madrid,25,0.012905206,Blocked,Normal,Right Foot,102.7,58.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31,0.17348056,Off T,Half Volley,Left Foot,108.3,28.5,0
+Kléper Laveran Lima Ferreira,Real Madrid,33,0.26730847,Off T,Normal,Head,116.0,39.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,35,0.0063768057,Off T,Normal,Right Foot,88.6,60.1,0
+Fabián Ruiz Peña,Real Betis,44,0.008149555,Blocked,Normal,Right Foot,78.0,48.8,0
+Bruno González Cabrera,Real Betis,45,0.038790185,Off T,Normal,Head,108.2,35.7,0
+James David Rodríguez Rubio,Real Madrid,46,0.034045782,Blocked,Normal,Left Foot,101.9,54.5,0
+Toni Kroos,Real Madrid,48,0.027363762,Blocked,Normal,Left Foot,94.9,26.2,0
+Luka Modrić,Real Madrid,49,0.07493462,Wayward,Half Volley,Left Foot,102.1,41.4,0
+Karim Benzema,Real Madrid,49,0.19946131,Saved,Volley,Right Foot,113.7,34.1,0
+Karim Benzema,Real Madrid,49,0.030466974,Off T,Volley,Left Foot,117.5,29.8,0
+James David Rodríguez Rubio,Real Madrid,54,0.17169563,Saved,Volley,Left Foot,110.6,44.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,63,0.07611314,Wayward,Normal,Head,115.2,30.3,0
+Daniel Carvajal Ramos,Real Madrid,69,0.047629677,Off T,Half Volley,Right Foot,107.5,55.2,0
+Karim Benzema,Real Madrid,70,0.9486781,Goal,Normal,Right Foot,116.5,41.1,1
+James David Rodríguez Rubio,Real Madrid,77,0.024652468,Saved,Normal,Left Foot,100.2,57.4,0
+Karim Benzema,Real Madrid,78,0.52824646,Saved,Normal,Right Foot,114.3,38.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,81,0.07390557,Wayward,Volley,Right Foot,109.4,39.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,85,0.029413983,Off T,Normal,Right Foot,104.6,22.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,86,0.45097622,Saved,Normal,Right Foot,117.3,43.8,0
+Rubén Castro Martín,Real Betis,90,0.085477054,Off T,Normal,Left Foot,98.9,48.9,0
+Jonathan Rodríguez Menéndez,Sporting Gijón,5,0.12558177,Blocked,Normal,Left Foot,102.3,49.3,0
+Gareth Frank Bale,Real Madrid,6,0.2452343,Goal,Normal,Head,116.8,44.5,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8,0.060526095,Goal,Half Volley,Left Foot,103.6,32.2,1
+Luka Modrić,Real Madrid,9,0.024466723,Blocked,Normal,Right Foot,90.7,43.1,0
+Karim Benzema,Real Madrid,11,0.08824232,Goal,Overhead Kick,Right Foot,109.1,38.4,1
+Luka Modrić,Real Madrid,15,0.036142234,Off T,Normal,Left Foot,102.2,36.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,17,0.38226938,Goal,Normal,Left Foot,110.3,43.2,1
+Jonathan Rodríguez Menéndez,Sporting Gijón,19,0.02974981,Blocked,Volley,Left Foot,94.9,43.9,0
+Jonathan Rodríguez Menéndez,Sporting Gijón,23,0.008996977,Saved,Normal,Left Foot,112.8,60.4,0
+Karim Benzema,Real Madrid,23,0.117174126,Blocked,Normal,Right Foot,109.3,32.9,0
+Kléper Laveran Lima Ferreira,Real Madrid,24,0.08364144,Wayward,Half Volley,Right Foot,107.2,41.4,0
+Gareth Frank Bale,Real Madrid,28,0.008183953,Off T,Normal,Left Foot,86.3,51.0,0
+Kléper Laveran Lima Ferreira,Real Madrid,38,0.12269787,Saved,Volley,Right Foot,113.5,31.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,38,0.102346905,Wayward,Normal,Head,110.0,43.5,0
+Karim Benzema,Real Madrid,40,0.5359192,Goal,Half Volley,Right Foot,112.8,35.5,1
+Alen Halilović,Sporting Gijón,43,0.030532118,Blocked,Normal,Left Foot,93.0,34.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,53,0.1761056,Off T,Normal,Left Foot,111.5,28.6,0
+Jonathan Rodríguez Menéndez,Sporting Gijón,58,0.02124816,Off T,Normal,Left Foot,98.2,22.6,0
+Ismael López Blanco,Sporting Gijón,61,0.23211902,Goal,Normal,Left Foot,107.7,45.9,1
+Daniel Arnaud N''Di	,Sporting Gijón,66,0.14568897,Off T,Normal,Right Foot,103.6,44.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,75,0.020158073,Saved,Normal,Left Foot,97.3,23.1,0
+Jonathan Rodríguez Menéndez,Sporting Gijón,83,0.03296742,Wayward,Volley,Left Foot,98.1,36.2,0
+Luka Modrić,Real Madrid,84,0.043241236,Blocked,Normal,Left Foot,97.4,45.6,0
+Ignacio Cases Mora,Sporting Gijón,85,0.030557046,Wayward,Volley,Left Foot,95.3,43.0,0
+Jesé Rodríguez Ruiz,Real Madrid,86,0.09055674,Saved,Normal,Right Foot,110.0,50.9,0
+Raphaël Varane,Real Madrid,91,0.08404854,Saved,Normal,Head,112.5,35.2,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,5,0.023292813,Wayward,Half Volley,Right Foot,100.8,25.1,0
+Fayçal Fajr,RC Deportivo La Coruña,7,0.0068483716,Saved,Normal,Right Foot,109.5,15.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7,0.018109325,Saved,Normal,Left Foot,97.3,23.1,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,9,0.0075568194,Blocked,Normal,Right Foot,95.4,18.3,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,10,0.16062205,Saved,Normal,Right Foot,107.5,32.3,0
+Karim Benzema,Real Madrid,12,0.11483955,Off T,Normal,Head,112.2,38.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13,0.035911363,Blocked,Normal,Right Foot,94.6,34.8,0
+Sergio Ramos García,Real Madrid,14,0.050495863,Blocked,Volley,Right Foot,105.8,31.1,0
+Karim Benzema,Real Madrid,14,0.4720482,Goal,Backheel,Left Foot,114.3,39.1,1
+Marcelo Vieira da Silva Júnior,Real Madrid,21,0.04711721,Off T,Half Volley,Left Foot,109.8,33.0,0
+Gareth Frank Bale,Real Madrid,21,0.14640579,Goal,Normal,Head,112.3,42.3,1
+Federico Nicolás Cartabia,RC Deportivo La Coruña,23,0.041713208,Saved,Normal,Left Foot,92.1,35.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24,0.09221969,Off T,Normal,Right Foot,108.8,26.8,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,29,0.0681608,Off T,Half Volley,Left Foot,107.6,25.5,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,36,0.036171224,Off T,Normal,Left Foot,95.7,35.9,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,37,0.024758989,Off T,Normal,Left Foot,92.3,47.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,38,0.24076465,Post,Normal,Head,112.6,38.1,0
+Karim Benzema,Real Madrid,40,0.075944774,Saved,Volley,Left Foot,107.7,30.2,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,40,0.02358312,Off T,Normal,Right Foot,93.1,26.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,41,0.02234934,Off T,Normal,Right Foot,109.1,23.4,0
+Gareth Frank Bale,Real Madrid,48,0.07752877,Goal,Normal,Left Foot,105.1,45.5,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,50,0.030053698,Saved,Normal,Right Foot,92.7,43.5,0
+Alejandro Bergantiños García,RC Deportivo La Coruña,58,0.032666527,Blocked,Normal,Right Foot,93.8,36.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,60,0.094695814,Off T,Half Volley,Left Foot,99.4,33.9,0
+Gareth Frank Bale,Real Madrid,62,0.06775223,Goal,Normal,Head,113.1,44.6,1
+Gareth Frank Bale,Real Madrid,64,0.044807147,Off T,Normal,Left Foot,100.1,55.3,0
+Jonás Manuel Gutiérrez,RC Deportivo La Coruña,68,0.057791147,Saved Off Target,Normal,Right Foot,98.5,36.7,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,71,0.076954804,Blocked,Normal,Right Foot,107.6,41.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,72,0.011459524,Saved,Normal,Right Foot,99.5,18.5,0
+Pedro Mosquera Parada,RC Deportivo La Coruña,74,0.024936786,Off T,Half Volley,Left Foot,94.0,40.8,0
+Luis Carlos Correia Pinto,RC Deportivo La Coruña,77,0.024570791,Blocked,Normal,Right Foot,104.2,25.2,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,78,0.038537305,Saved,Normal,Right Foot,93.9,32.4,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,78,0.22275588,Off T,Volley,Right Foot,116.4,35.8,0
+Marcelo Vieira da Silva Júnior,Real Madrid,79,0.025367532,Blocked,Normal,Right Foot,94.4,28.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,79,0.12267525,Off T,Normal,Right Foot,110.9,51.8,0
+Juan Francisco Moreno Fuertes,RC Deportivo La Coruña,82,0.0068851626,Off T,Normal,Right Foot,87.7,59.1,0
+Jesé Rodríguez Ruiz,Real Madrid,85,0.0106367525,Blocked,Normal,Right Foot,113.3,57.8,0
+James David Rodríguez Rubio,Real Madrid,86,0.022954281,Blocked,Normal,Left Foot,96.9,26.8,0
+Jonás Manuel Gutiérrez,RC Deportivo La Coruña,86,0.027548525,Blocked,Normal,Left Foot,101.3,24.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,88,0.5750552,Off T,Volley,Right Foot,116.1,37.6,0
+Karim Benzema,Real Madrid,90,0.12314011,Goal,Normal,Right Foot,106.2,36.1,1
+Danilo Luiz da Silva,Real Madrid,2,0.007487601,Blocked,Normal,Left Foot,90.1,55.8,0
+Danilo Luiz da Silva,Real Madrid,4,0.07227448,Off T,Normal,Left Foot,103.1,41.9,0
+André Filipe Tavares Gomes,Valencia,9,0.024300117,Blocked,Normal,Left Foot,111.1,25.3,0
+Daniel Parejo Muñoz,Valencia,9,0.09371799,Off T,Normal,Head,113.5,33.0,0
+Karim Benzema,Real Madrid,10,0.04371297,Blocked,Normal,Right Foot,100.1,37.1,0
+Kléper Laveran Lima Ferreira,Real Madrid,12,0.026361685,Blocked,Volley,Right Foot,103.8,40.2,0
+Sergio Ramos García,Real Madrid,12,0.11135423,Saved Off Target,Half Volley,Left Foot,106.2,37.8,0
+Daniel Parejo Muñoz,Valencia,13,0.04511224,Blocked,Normal,Right Foot,92.4,49.5,0
+Karim Benzema,Real Madrid,15,0.19985418,Goal,Normal,Right Foot,103.6,42.8,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,25,0.07594736,Blocked,Normal,Right Foot,105.5,37.3,0
+João Pedro Cavaco Cancelo,Valencia,30,0.20174429,Off T,Normal,Head,112.6,41.5,0
+Luka Modrić,Real Madrid,35,0.021696497,Off T,Half Volley,Right Foot,96.6,51.4,0
+André Filipe Tavares Gomes,Valencia,36,0.06538564,Blocked,Normal,Right Foot,110.0,31.8,0
+Aymen Abdennour,Valencia,38,0.28889266,Off T,Half Volley,Left Foot,114.9,41.1,0
+Francisco Alcácer García,Valencia,39,0.050641708,Blocked,Normal,Right Foot,104.9,49.9,0
+Daniel Parejo Muñoz,Valencia,45,0.7835,Goal,Normal,Right Foot,108.0,40.0,1
+Gareth Frank Bale,Real Madrid,47,0.06515744,Off T,Normal,Left Foot,94.8,46.1,0
+Karim Benzema,Real Madrid,49,0.046458688,Blocked,Normal,Right Foot,108.4,27.8,0
+Marcelo Vieira da Silva Júnior,Real Madrid,49,0.114813425,Blocked,Normal,Left Foot,112.1,36.8,0
+Danilo Luiz da Silva,Real Madrid,60,0.057711072,Saved,Normal,Left Foot,100.2,53.6,0
+André Filipe Tavares Gomes,Valencia,62,0.021274645,Saved,Normal,Right Foot,88.9,44.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,65,0.044764303,Off T,Half Volley,Right Foot,100.6,46.9,0
+Luka Modrić,Real Madrid,73,0.027668385,Saved,Normal,Right Foot,91.6,34.9,0
+Gareth Frank Bale,Real Madrid,81,0.1265045,Goal,Normal,Head,113.4,44.4,1
+Francisco Alcácer García,Valencia,82,0.5418621,Goal,Normal,Head,117.6,37.7,1
+Marcelo Vieira da Silva Júnior,Real Madrid,90,0.015641697,Blocked,Normal,Left Foot,114.3,25.7,0
+Álvaro Negredo Sánchez,Valencia,92,0.3930191,Saved,Normal,Left Foot,100.4,44.8,0
+André Filipe Tavares Gomes,Valencia,92,0.107385814,Off T,Half Volley,Right Foot,96.8,38.0,0
+Gareth Frank Bale,Real Madrid,92,0.08929264,Off T,Half Volley,Left Foot,106.7,26.7,0
+Sergio Canales Madrazo,Real Sociedad,1,0.055050366,Off T,Normal,Left Foot,99.0,29.9,0
+Kléper Laveran Lima Ferreira,Real Madrid,4,0.04957319,Saved,Normal,Head,110.3,41.6,0
+Gareth Frank Bale,Real Madrid,4,0.07700687,Off T,Normal,Head,112.4,37.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7,0.25002697,Saved,Half Volley,Left Foot,107.9,33.5,0
+Karim Benzema,Real Madrid,7,0.08839611,Saved,Volley,Left Foot,107.3,40.3,0
+Yuri Berchiche Izeta,Real Sociedad,10,0.007834719,Blocked,Normal,Left Foot,90.5,24.1,0
+Íñigo Martínez Berridi,Real Sociedad,11,0.090215474,Off T,Normal,Head,110.0,41.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,15,0.02086871,Off T,Normal,Right Foot,88.2,42.2,0
+Jonathas Cristian de Jesus,Real Sociedad,20,0.05790512,Saved,Normal,Right Foot,100.5,29.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23,0.7835,Off T,Normal,Right Foot,108.0,40.0,0
+Karim Benzema,Real Madrid,25,0.0210419,Saved,Normal,Right Foot,91.4,33.3,0
+Jonathas Cristian de Jesus,Real Sociedad,28,0.045160424,Off T,Normal,Head,110.8,49.5,0
+Kléper Laveran Lima Ferreira,Real Madrid,30,0.02635514,Blocked,Normal,Head,106.0,40.6,0
+Sergio Canales Madrazo,Real Sociedad,33,0.006553195,Off T,Half Volley,Left Foot,89.9,20.8,0
+Jonathas Cristian de Jesus,Real Sociedad,34,0.086628504,Off T,Normal,Head,107.4,42.2,0
+Luka Modrić,Real Madrid,36,0.045909416,Saved,Normal,Right Foot,95.1,43.7,0
+Karim Benzema,Real Madrid,37,0.037053183,Saved,Half Volley,Left Foot,103.8,54.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,41,0.7835,Goal,Normal,Right Foot,107.9,40.0,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,44,0.010332838,Off T,Normal,Right Foot,107.6,22.3,0
+Rubén Pardo Gutiérrez,Real Sociedad,47,0.05470906,Off T,Normal,Right Foot,93.4,47.8,0
+Armindo Tué Na Bangna,Real Sociedad,48,0.068163544,Goal,Normal,Right Foot,107.1,26.5,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,50,0.1710926,Off T,Volley,Right Foot,111.9,50.2,0
+Toni Kroos,Real Madrid,52,0.019254347,Off T,Normal,Left Foot,96.4,25.8,0
+Gareth Frank Bale,Real Madrid,57,0.174202,Saved,Normal,Left Foot,100.1,42.2,0
+Karim Benzema,Real Madrid,60,0.07334414,Saved,Normal,Head,112.8,45.9,0
+Karim Benzema,Real Madrid,64,0.04061528,Saved,Volley,Left Foot,112.5,27.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,66,0.051154576,Goal,Volley,Left Foot,104.1,46.3,1
+Karim Benzema,Real Madrid,69,0.0536809,Saved,Volley,Right Foot,107.6,46.0,0
+Karim Benzema,Real Madrid,70,0.13887584,Off T,Normal,Head,114.0,39.9,0
+Yuri Berchiche Izeta,Real Sociedad,71,0.01758325,Off T,Volley,Left Foot,93.2,33.2,0
+Armindo Tué Na Bangna,Real Sociedad,74,0.06976637,Blocked,Normal,Right Foot,106.1,29.8,0
+Rubén Pardo Gutiérrez,Real Sociedad,74,0.020243546,Off T,Half Volley,Right Foot,93.6,31.9,0
+Rubén Pardo Gutiérrez,Real Sociedad,80,0.07859495,Blocked,Half Volley,Right Foot,108.0,49.0,0
+Lucas Vázquez Iglesias,Real Madrid,83,0.0534357,Blocked,Normal,Right Foot,98.9,39.1,0
+Lucas Vázquez Iglesias,Real Madrid,85,0.18749873,Goal,Half Volley,Right Foot,106.0,42.7,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,90,0.009884162,Off T,Normal,Right Foot,85.3,31.9,0
+Munir El Haddadi Mohamed,Barcelona,0,0.55472696,Off T,Volley,Left Foot,115.3,41.6,0
+Stefan Šćepović,Getafe,11,0.08105474,Off T,Half Volley,Left Foot,108.8,44.2,0
+Ivan Rakitić,Barcelona,13,0.024978967,Off T,Normal,Right Foot,88.9,41.5,0
+Sergi Roberto Carnicer,Barcelona,14,0.034872316,Saved,Normal,Head,105.6,36.5,0
+Pablo Sarabia García,Getafe,27,0.040549677,Blocked,Normal,Left Foot,96.0,47.9,0
+Damián Nicolás Suárez Suárez,Getafe,29,0.0074300007,Saved,Lob,Right Foot,52.7,72.8,0
+Luis Alberto Suárez Díaz,Barcelona,36,0.48497155,Goal,Normal,Right Foot,113.5,34.1,1
+Jérémy Mathieu,Barcelona,39,0.008478975,Saved,Normal,Left Foot,93.6,60.5,0
+Neymar da Silva Santos Junior,Barcelona,45,0.034552105,Off T,Normal,Right Foot,95.9,30.5,0
+Daniel Alves da Silva,Barcelona,48,0.007858,Blocked,Normal,Right Foot,92.5,58.3,0
+Víctor Rodríguez Romero,Getafe,53,0.0434655,Blocked,Normal,Left Foot,100.8,39.0,0
+Neymar da Silva Santos Junior,Barcelona,57,0.18764068,Goal,Volley,Left Foot,111.3,32.3,1
+Daniel Alves da Silva,Barcelona,62,0.036684193,Saved,Half Volley,Right Foot,106.0,53.6,0
+Jordi Alba Ramos,Barcelona,63,0.026957458,Off T,Normal,Right Foot,105.2,22.9,0
+Daniel Alves da Silva,Barcelona,72,0.00856471,Blocked,Normal,Right Foot,92.3,22.5,0
+Luis Alberto Suárez Díaz,Barcelona,73,0.019431783,Wayward,Volley,Left Foot,102.4,23.0,0
+Jordi Alba Ramos,Barcelona,74,0.31821245,Saved,Half Volley,Left Foot,107.8,39.6,0
+Luis Alberto Suárez Díaz,Barcelona,77,0.07791247,Wayward,Half Volley,Left Foot,102.4,33.5,0
+Ángel Lafita Castillo,Getafe,78,0.022757115,Off T,Half Volley,Right Foot,94.5,29.7,0
+Víctor Rodríguez Romero,Getafe,79,0.047912057,Off T,Half Volley,Right Foot,100.2,41.1,0
+Luis Alberto Suárez Díaz,Barcelona,92,0.15739639,Off T,Normal,Left Foot,112.9,51.5,0
+Danilo Luiz da Silva,Real Madrid,3,0.013716525,Off T,Normal,Right Foot,86.3,48.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7,0.15587476,Goal,Normal,Right Foot,107.2,45.0,1
+Manuel Agudo Durán,Celta Vigo,9,0.025415862,Off T,Normal,Right Foot,108.7,22.8,0
+Iago Aspas Juncal,Celta Vigo,12,0.13180347,Off T,Normal,Head,113.8,36.7,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,15,0.08195806,Saved,Normal,Head,108.1,43.0,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,16,0.04261678,Saved,Half Volley,Left Foot,104.0,50.9,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,17,0.09162581,Blocked,Half Volley,Right Foot,107.3,41.2,0
+Gustavo Daniel Cabral Cáceres,Celta Vigo,17,0.14802818,Off T,Volley,Right Foot,112.3,33.0,0
+Danilo Luiz da Silva,Real Madrid,22,0.34056833,Goal,Normal,Right Foot,105.0,49.8,1
+Jonathan Castro Otto,Celta Vigo,25,0.0064851413,Saved,Normal,Right Foot,88.2,27.0,0
+Daniel Wass,Celta Vigo,32,0.047079578,Saved,Normal,Right Foot,92.8,48.4,0
+Iago Aspas Juncal,Celta Vigo,38,0.2984264,Saved,Half Volley,Left Foot,109.7,37.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,39,0.11644237,Wayward,Normal,Right Foot,104.9,34.4,0
+Pedro Pablo Hernández,Celta Vigo,42,0.07107172,Saved,Normal,Head,112.1,34.8,0
+Augusto Matías Fernández,Celta Vigo,42,0.036987048,Blocked,Normal,Left Foot,104.7,55.5,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,46,0.07261322,Off T,Normal,Right Foot,101.7,35.1,0
+Daniel Wass,Celta Vigo,47,0.023382697,Off T,Normal,Right Foot,87.9,45.5,0
+Lucas Vázquez Iglesias,Real Madrid,48,0.22472195,Saved,Lob,Right Foot,103.4,50.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,49,0.009907096,Blocked,Normal,Left Foot,104.6,58.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,52,0.09255253,Off T,Normal,Head,109.1,38.8,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,55,0.14624098,Off T,Normal,Right Foot,104.5,38.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,63,0.22520527,Saved,Normal,Left Foot,105.6,34.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,64,0.095595114,Saved,Normal,Right Foot,107.8,53.4,0
+Carlos Henrique Casimiro,Real Madrid,64,0.0691896,Blocked,Volley,Right Foot,113.8,47.4,0
+Francisco Román Alarcón Suárez,Real Madrid,68,0.05135538,Saved to Post,Normal,Right Foot,97.2,34.3,0
+Francisco Román Alarcón Suárez,Real Madrid,70,0.022691289,Off T,Lob,Right Foot,103.9,58.2,0
+Manuel Agudo Durán,Celta Vigo,71,0.24004407,Blocked,Normal,Right Foot,108.7,37.0,0
+Manuel Agudo Durán,Celta Vigo,84,0.028057827,Goal,Normal,Right Foot,97.8,27.1,1
+John Guidetti,Celta Vigo,85,0.106666125,Off T,Normal,Left Foot,105.0,42.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,93,0.2111515,Saved,Lob,Right Foot,99.7,32.7,0
+Marcelo Vieira da Silva Júnior,Real Madrid,95,0.4662736,Goal,Normal,Left Foot,113.3,30.5,1
+Neymar da Silva Santos Junior,Barcelona,2,0.07201829,Blocked,Normal,Right Foot,95.7,35.8,0
+Jozabed Sánchez Ruiz,Rayo Vallecano,5,0.023035606,Blocked,Normal,Right Foot,93.6,28.3,0
+Ivan Rakitić,Barcelona,5,0.49186638,Saved,Normal,Right Foot,105.9,33.7,0
+Luis Alberto Suárez Díaz,Barcelona,9,0.41063693,Saved,Normal,Right Foot,105.3,40.7,0
+Luis Alberto Suárez Díaz,Barcelona,9,0.04788773,Off T,Overhead Kick,Left Foot,113.3,49.1,0
+Javier Guerra Rodríguez,Rayo Vallecano,14,0.6090932,Goal,Volley,Right Foot,116.1,38.5,1
+Neymar da Silva Santos Junior,Barcelona,21,0.7835,Goal,Normal,Right Foot,107.5,39.9,1
+Neymar da Silva Santos Junior,Barcelona,23,0.055306055,Blocked,Normal,Right Foot,105.7,27.8,0
+Sandro Ramírez Castillo,Barcelona,24,0.44749916,Off T,Normal,Left Foot,104.9,46.6,0
+Neymar da Silva Santos Junior,Barcelona,27,0.10846557,Off T,Normal,Left Foot,110.9,27.3,0
+Javier Guerra Rodríguez,Rayo Vallecano,29,0.048921015,Saved,Normal,Head,115.1,31.3,0
+Neymar da Silva Santos Junior,Barcelona,31,0.7835,Goal,Normal,Right Foot,107.3,40.1,1
+Patrick Ebert,Rayo Vallecano,33,0.10195025,Saved,Normal,Left Foot,100.1,41.4,0
+Sergi Roberto Carnicer,Barcelona,39,0.075381525,Saved,Normal,Left Foot,98.7,39.5,0
+Patrick Ebert,Rayo Vallecano,45,0.09244093,Off T,Normal,Left Foot,107.1,35.3,0
+Tiago Manuel Dias Correia,Rayo Vallecano,46,0.004301742,Off T,Normal,Right Foot,86.8,17.2,0
+Javier Guerra Rodríguez,Rayo Vallecano,47,0.15861626,Saved,Half Volley,Right Foot,109.7,29.7,0
+Javier Guerra Rodríguez,Rayo Vallecano,49,0.26980266,Saved,Normal,Right Foot,110.2,38.7,0
+Patrick Ebert,Rayo Vallecano,49,0.24550737,Saved,Normal,Right Foot,106.5,41.8,0
+Tiago Manuel Dias Correia,Rayo Vallecano,49,0.02800344,Blocked,Normal,Right Foot,106.1,26.4,0
+Diego Javier Llorente Ríos,Rayo Vallecano,58,0.028027544,Saved,Normal,Left Foot,101.4,57.3,0
+Roberto Trashorras Gayoso,Rayo Vallecano,59,0.022134798,Blocked,Normal,Right Foot,95.2,52.5,0
+Alhassane Bangoura,Rayo Vallecano,63,0.03669068,Off T,Normal,Right Foot,108.5,54.1,0
+Alhassane Bangoura,Rayo Vallecano,65,0.087350145,Blocked,Normal,Right Foot,107.0,48.3,0
+Luis Alberto Suárez Díaz,Barcelona,68,0.05584148,Saved,Normal,Right Foot,102.3,32.0,0
+Neymar da Silva Santos Junior,Barcelona,68,0.20083484,Goal,Normal,Left Foot,114.7,30.7,1
+Neymar da Silva Santos Junior,Barcelona,69,0.9177832,Goal,Normal,Left Foot,115.3,36.1,1
+Patrick Ebert,Rayo Vallecano,73,0.030970423,Off T,Normal,Right Foot,94.1,48.4,0
+Jozabed Sánchez Ruiz,Rayo Vallecano,75,0.031416096,Blocked,Normal,Left Foot,94.9,47.6,0
+Luis Alberto Suárez Díaz,Barcelona,76,0.22583093,Goal,Volley,Right Foot,113.7,45.5,1
+Răzvan Dincă Raț,Rayo Vallecano,79,0.026219837,Off T,Normal,Left Foot,96.1,28.6,0
+Patrick Ebert,Rayo Vallecano,80,0.33662024,Off T,Half Volley,Left Foot,111.4,44.2,0
+Javier Guerra Rodríguez,Rayo Vallecano,81,0.1100642,Blocked,Normal,Right Foot,109.1,32.3,0
+Alhassane Bangoura,Rayo Vallecano,84,0.06831803,Blocked,Normal,Right Foot,108.7,52.2,0
+Jozabed Sánchez Ruiz,Rayo Vallecano,85,0.093627915,Goal,Half Volley,Right Foot,110.0,36.8,1
+Adrián Embarba Blázquez,Rayo Vallecano,89,0.020192893,Blocked,Normal,Right Foot,89.4,29.9,0
+Roger Martí Salvador,Levante UD,4,0.09032552,Saved,Normal,Right Foot,109.9,53.2,0
+Zouhair Feddal,Levante UD,4,0.06727459,Off T,Normal,Head,110.9,38.9,0
+Gareth Frank Bale,Real Madrid,8,0.037383575,Off T,Half Volley,Left Foot,103.8,23.2,0
+Carlos Henrique Casimiro,Real Madrid,14,0.0064471373,Off T,Normal,Right Foot,81.6,42.6,0
+José María Martín-Bejarano Serrano,Levante UD,18,0.012946509,Blocked,Half Volley,Right Foot,95.3,22.9,0
+Carlos Henrique Casimiro,Real Madrid,20,0.0701051,Off T,Normal,Head,111.7,40.8,0
+Gareth Frank Bale,Real Madrid,22,0.108891845,Off T,Normal,Head,113.1,39.2,0
+Deyverson Brum Silva Acosta,Levante UD,25,0.18579894,Wayward,Half Volley,Left Foot,108.8,32.3,0
+Marcelo Vieira da Silva Júnior,Real Madrid,26,0.12505983,Goal,Normal,Left Foot,113.6,30.1,1
+Deyverson Brum Silva Acosta,Levante UD,28,0.099379614,Saved,Normal,Head,110.0,38.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29,0.06457052,Goal,Normal,Right Foot,97.9,36.8,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31,0.10341844,Wayward,Normal,Left Foot,109.9,34.8,0
+Deyverson Brum Silva Acosta,Levante UD,34,0.033685427,Wayward,Normal,Head,108.5,41.9,0
+Roger Martí Salvador,Levante UD,36,0.06314391,Saved,Normal,Right Foot,97.2,47.7,0
+Roger Martí Salvador,Levante UD,41,0.03734807,Saved,Normal,Left Foot,105.7,53.1,0
+Francisco Román Alarcón Suárez,Real Madrid,42,0.044425033,Blocked,Normal,Right Foot,95.2,39.9,0
+Toni Kroos,Real Madrid,55,0.10428259,Saved,Normal,Right Foot,100.4,41.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,58,0.078744784,Saved,Normal,Right Foot,97.7,33.5,0
+Lucas Vázquez Iglesias,Real Madrid,59,0.035446327,Wayward,Normal,Left Foot,106.3,55.1,0
+Danilo Luiz da Silva,Real Madrid,60,0.03915538,Saved,Normal,Left Foot,100.3,53.0,0
+Lucas Vázquez Iglesias,Real Madrid,60,0.04871302,Wayward,Volley,Right Foot,111.3,54.7,0
+Deyverson Brum Silva Acosta,Levante UD,62,0.022956554,Saved,Normal,Left Foot,88.4,40.1,0
+Nabil Ghilas,Levante UD,65,0.15043516,Saved,Half Volley,Right Foot,114.6,46.4,0
+Nabil Ghilas,Levante UD,65,0.2948956,Off T,Half Volley,Right Foot,118.7,45.1,0
+Víctor Camarasa Ferrando,Levante UD,67,0.025225036,Blocked,Normal,Right Foot,91.8,33.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,69,0.07655871,Wayward,Backheel,Left Foot,115.0,33.5,0
+Deyverson Brum Silva Acosta,Levante UD,70,0.24720626,Blocked,Normal,Left Foot,107.3,41.8,0
+Deyverson Brum Silva Acosta,Levante UD,70,0.028115485,Off T,Volley,Left Foot,109.1,53.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,73,0.04542081,Off T,Normal,Left Foot,105.8,23.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,80,0.10253083,Off T,Normal,Head,113.5,47.3,0
+Jesé Rodríguez Ruiz,Real Madrid,81,0.22135934,Goal,Normal,Left Foot,112.9,29.0,1
+Lucas Vázquez Iglesias,Real Madrid,83,0.074756436,Blocked,Normal,Right Foot,103.0,48.7,0
+Rubén García Santos,Levante UD,83,0.064602554,Off T,Normal,Right Foot,99.4,34.3,0
+Jefferson Andrés Lerma Solís,Levante UD,84,0.010936249,Off T,Normal,Right Foot,84.4,36.4,0
+Lucas Vázquez Iglesias,Real Madrid,85,0.039959453,Off T,Normal,Right Foot,98.5,26.0,0
+Carlos Henrique Casimiro,Real Madrid,88,0.006440031,Off T,Normal,Right Foot,80.0,29.1,0
+Nabil Ghilas,Levante UD,91,0.06217715,Off T,Normal,Right Foot,93.0,35.9,0
+Marcelo Vieira da Silva Júnior,Real Madrid,93,0.019422743,Wayward,Volley,Left Foot,95.8,29.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,2,0.041833024,Off T,Normal,Head,106.5,40.3,0
+Ángel Martín Correa,Atlético Madrid,4,0.024119796,Off T,Half Volley,Left Foot,115.7,27.4,0
+Toni Kroos,Real Madrid,6,0.017526923,Blocked,Half Volley,Right Foot,99.1,56.3,0
+Karim Benzema,Real Madrid,8,0.20514916,Goal,Normal,Head,112.6,41.3,1
+Ángel Martín Correa,Atlético Madrid,10,0.10061234,Off T,Normal,Right Foot,107.4,53.0,0
+Ángel Martín Correa,Atlético Madrid,14,0.070656195,Off T,Normal,Right Foot,98.8,50.2,0
+Fernando José Torres Sanz,Atlético Madrid,16,0.05489653,Wayward,Normal,Head,108.6,41.3,0
+Antoine Griezmann,Atlético Madrid,21,0.7835,Saved,Normal,Left Foot,107.9,40.0,0
+José María Giménez de Vargas,Atlético Madrid,22,0.112518534,Wayward,Normal,Head,113.0,42.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32,0.07453995,Off T,Normal,Left Foot,102.9,48.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,37,0.008784542,Off T,Normal,Right Foot,90.3,55.1,0
+Fernando José Torres Sanz,Atlético Madrid,49,0.13974062,Wayward,Normal,Right Foot,111.7,52.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,50,0.057105906,Off T,Normal,Left Foot,108.5,25.3,0
+Ángel Martín Correa,Atlético Madrid,51,0.06042303,Blocked,Half Volley,Left Foot,102.3,46.9,0
+Gabriel Fernández Arenas,Atlético Madrid,54,0.017463828,Blocked,Volley,Right Foot,92.4,41.1,0
+Fernando José Torres Sanz,Atlético Madrid,59,0.072789684,Blocked,Volley,Right Foot,108.9,42.6,0
+Diego Roberto Godín Leal,Atlético Madrid,59,0.054418404,Blocked,Half Volley,Right Foot,103.2,36.7,0
+Luciano Vietto,Atlético Madrid,73,0.048057698,Blocked,Normal,Right Foot,98.5,41.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,74,0.046497274,Off T,Normal,Left Foot,102.9,55.5,0
+Luka Modrić,Real Madrid,77,0.020475682,Off T,Normal,Right Foot,88.6,39.2,0
+Luciano Vietto,Atlético Madrid,80,0.108779095,Off T,Normal,Head,113.4,47.8,0
+Antoine Griezmann,Atlético Madrid,82,0.2594466,Saved,Backheel,Left Foot,116.8,35.6,0
+Luciano Vietto,Atlético Madrid,82,0.7938977,Goal,Normal,Right Foot,116.6,38.0,1
+Gabriel Fernández Arenas,Atlético Madrid,89,0.0062948694,Blocked,Normal,Right Foot,89.1,26.5,0
+Jackson Arley Martínez Valencia,Atlético Madrid,90,0.092295416,Saved,Normal,Right Foot,100.2,36.4,0
+José María Giménez de Vargas,Atlético Madrid,91,0.066478565,Blocked,Normal,Head,110.7,46.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,91,0.020946186,Saved,Normal,Right Foot,91.1,27.4,0
+Vicente Iborra De La Fuente,Sevilla,1,0.025350554,Off T,Half Volley,Left Foot,103.2,56.7,0
+Sergi Roberto Carnicer,Barcelona,3,0.029794285,Blocked,Half Volley,Right Foot,102.1,49.4,0
+Neymar da Silva Santos Junior,Barcelona,4,0.028521271,Saved,Normal,Right Foot,109.7,24.5,0
+Munir El Haddadi Mohamed,Barcelona,8,0.14349595,Off T,Half Volley,Left Foot,107.8,42.5,0
+Kevin Gameiro,Sevilla,10,0.18512167,Saved,Normal,Head,116.3,34.2,0
+Marco Andreolli,Sevilla,11,0.1570675,Off T,Normal,Head,113.5,43.3,0
+Luis Alberto Suárez Díaz,Barcelona,13,0.19267824,Blocked,Normal,Right Foot,109.3,32.1,0
+Gerard Piqué Bernabéu,Barcelona,13,0.06449792,Blocked,Normal,Head,113.3,33.1,0
+Kevin Gameiro,Sevilla,20,0.017995952,Saved,Normal,Right Foot,115.9,54.1,0
+Neymar da Silva Santos Junior,Barcelona,22,0.057548873,Post,Normal,Right Foot,92.9,47.3,0
+Luis Alberto Suárez Díaz,Barcelona,22,0.103710175,Post,Normal,Left Foot,119.1,33.6,0
+Grzegorz Krychowiak,Sevilla,28,0.11998888,Off T,Normal,Head,112.7,37.0,0
+Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,30,0.025310352,Saved,Normal,Right Foot,102.8,23.0,0
+Jorge Andújar Moreno,Sevilla,33,0.033353202,Off T,Normal,Head,106.6,40.4,0
+Luis Alberto Suárez Díaz,Barcelona,37,0.023713956,Post,Normal,Right Foot,101.3,23.6,0
+Neymar da Silva Santos Junior,Barcelona,45,0.05800635,Blocked,Normal,Left Foot,107.1,33.8,0
+Gerard Piqué Bernabéu,Barcelona,46,0.36884955,Saved,Normal,Head,116.3,43.5,0
+Michael Krohn-Dehli,Sevilla,50,0.036990445,Blocked,Normal,Right Foot,95.0,46.0,0
+Michael Krohn-Dehli,Sevilla,50,0.04768442,Off T,Normal,Right Foot,101.2,52.0,0
+Michael Krohn-Dehli,Sevilla,51,0.35190183,Goal,Normal,Left Foot,112.0,33.9,1
+Kevin Gameiro,Sevilla,53,0.076630354,Blocked,Normal,Right Foot,106.1,45.6,0
+Neymar da Silva Santos Junior,Barcelona,54,0.026259782,Off T,Normal,Right Foot,92.4,48.2,0
+Ivan Rakitić,Barcelona,56,0.019981464,Blocked,Normal,Right Foot,89.8,50.4,0
+Vicente Iborra De La Fuente,Sevilla,57,0.22399516,Goal,Normal,Head,112.9,37.7,1
+Neymar da Silva Santos Junior,Barcelona,62,0.09089739,Saved,Normal,Right Foot,105.3,38.8,0
+Luis Alberto Suárez Díaz,Barcelona,63,0.0325615,Blocked,Normal,Head,108.1,40.2,0
+Neymar da Silva Santos Junior,Barcelona,63,0.16759393,Saved,Half Volley,Right Foot,114.5,31.9,0
+Neymar da Silva Santos Junior,Barcelona,63,0.02338378,Saved,Normal,Right Foot,103.3,26.9,0
+Sandro Ramírez Castillo,Barcelona,67,0.023973474,Blocked,Normal,Right Foot,107.6,23.8,0
+Gerard Piqué Bernabéu,Barcelona,70,0.12971233,Off T,Normal,Head,114.9,38.0,0
+Sandro Ramírez Castillo,Barcelona,72,0.044287045,Blocked,Normal,Right Foot,99.3,50.6,0
+Neymar da Silva Santos Junior,Barcelona,73,0.7835,Goal,Normal,Right Foot,107.8,40.2,1
+Sandro Ramírez Castillo,Barcelona,78,0.52987605,Post,Normal,Right Foot,114.4,39.7,0
+Luis Alberto Suárez Díaz,Barcelona,83,0.0100039225,Saved,Normal,Right Foot,106.2,20.0,0
+Sandro Ramírez Castillo,Barcelona,84,0.18487392,Blocked,Half Volley,Right Foot,108.6,38.7,0
+Sergi Roberto Carnicer,Barcelona,84,0.084569395,Blocked,Normal,Right Foot,101.6,43.4,0
+Luis Alberto Suárez Díaz,Barcelona,85,0.046032216,Saved,Normal,Right Foot,97.9,37.9,0
+Ivan Rakitić,Barcelona,88,0.07593048,Blocked,Normal,Left Foot,105.4,33.1,0
+Ivan Rakitić,Barcelona,90,0.038542394,Blocked,Normal,Right Foot,95.1,45.9,0
+Neymar da Silva Santos Junior,Barcelona,93,0.022951549,Off T,Normal,Right Foot,97.2,25.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5,0.4197701,Off T,Half Volley,Right Foot,111.6,44.7,0
+Adnane Tighadouini,Málaga,5,0.030241761,Blocked,Normal,Right Foot,105.1,54.4,0
+Pablo Fornals Malla,Málaga,6,0.105408125,Saved,Normal,Head,112.8,41.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9,0.08504139,Off T,Normal,Head,109.6,39.5,0
+Nordin Amrabat,Málaga,10,0.038306523,Blocked,Normal,Right Foot,107.0,51.4,0
+Francisco Román Alarcón Suárez,Real Madrid,12,0.06598351,Off T,Half Volley,Right Foot,112.4,27.0,0
+Francisco Román Alarcón Suárez,Real Madrid,14,0.030156055,Off T,Normal,Right Foot,94.3,32.8,0
+Nordin Amrabat,Málaga,17,0.0050180084,Blocked,Normal,Right Foot,63.4,52.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18,0.0078067533,Blocked,Normal,Right Foot,97.5,62.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29,0.062808305,Off T,Normal,Head,110.8,45.9,0
+Juan Carlos Pérez López,Málaga,31,0.096439935,Off T,Normal,Left Foot,114.8,31.9,0
+Jesé Rodríguez Ruiz,Real Madrid,32,0.03596192,Saved,Normal,Right Foot,106.6,25.9,0
+Jesé Rodríguez Ruiz,Real Madrid,32,0.040517155,Saved,Volley,Right Foot,107.5,28.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,34,0.029232478,Saved,Normal,Left Foot,101.4,27.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,38,0.053378277,Off T,Normal,Head,110.2,44.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,43,0.04214122,Off T,Volley,Right Foot,101.1,53.6,0
+Francisco Román Alarcón Suárez,Real Madrid,44,0.23088439,Off T,Volley,Right Foot,112.6,48.2,0
+Francisco Román Alarcón Suárez,Real Madrid,45,0.027440952,Blocked,Normal,Right Foot,100.9,26.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,46,0.111450404,Saved,Half Volley,Right Foot,109.6,32.7,0
+José Luis García del Pozo,Málaga,48,0.050445903,Saved,Normal,Right Foot,92.1,34.3,0
+Fernando Damián Tissone,Málaga,48,0.037084688,Off T,Normal,Right Foot,95.4,39.9,0
+Luka Modrić,Real Madrid,49,0.03998768,Blocked,Normal,Left Foot,98.5,49.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,49,0.22556376,Off T,Normal,Left Foot,112.2,29.8,0
+Nordin Amrabat,Málaga,54,0.097736105,Blocked,Normal,Left Foot,103.8,45.1,0
+Karim Benzema,Real Madrid,54,0.10520181,Off T,Normal,Head,110.8,44.6,0
+Karim Benzema,Real Madrid,55,0.05618062,Saved,Normal,Right Foot,99.6,41.4,0
+Marcos Alberto Angeleri,Málaga,56,0.04362538,Off T,Normal,Head,111.4,31.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,57,0.12824354,Wayward,Normal,Head,117.3,47.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,57,0.06347987,Blocked,Normal,Head,110.8,39.3,0
+José Ignacio Fernández Iglesias,Real Madrid,57,0.06664605,Blocked,Volley,Right Foot,108.4,39.5,0
+Jesé Rodríguez Ruiz,Real Madrid,58,0.14050703,Off T,Normal,Right Foot,111.9,50.0,0
+Luka Modrić,Real Madrid,62,0.117477976,Saved,Normal,Right Foot,106.7,47.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,64,0.31668738,Off T,Normal,Head,115.2,43.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,64,0.056715578,Off T,Normal,Right Foot,109.0,55.4,0
+Karim Benzema,Real Madrid,70,0.20466113,Saved,Normal,Left Foot,105.7,43.8,0
+Nordin Amrabat,Málaga,70,0.11374879,Off T,Normal,Left Foot,104.9,43.6,0
+Karim Benzema,Real Madrid,75,0.11147355,Saved,Normal,Right Foot,103.8,46.4,0
+Francisco Román Alarcón Suárez,Real Madrid,75,0.05671572,Blocked,Normal,Left Foot,113.3,29.3,0
+Toni Kroos,Real Madrid,80,0.02167625,Off T,Normal,Left Foot,90.2,41.7,0
+Juan Pablo Añor Acosta,Málaga,81,0.018703284,Saved,Normal,Left Foot,90.6,51.4,0
+Raphaël Varane,Real Madrid,84,0.029549967,Wayward,Normal,Head,108.5,46.4,0
+Ricardo Jorge Luz Horta,Málaga,90,0.035709266,Blocked,Normal,Right Foot,106.8,23.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,92,0.37052646,Off T,Diving Header,Head,114.3,42.0,0
+Karim Benzema,Real Madrid,6,0.03226845,Blocked,Normal,Right Foot,102.9,53.1,0
+Raphaël Varane,Real Madrid,7,0.08906858,Off T,Normal,Head,110.2,43.9,0
+Raúl García Escudero,Athletic Club,12,0.009122737,Off T,Normal,Right Foot,105.8,61.3,0
+Karim Benzema,Real Madrid,13,0.12358422,Off T,Half Volley,Right Foot,107.2,37.5,0
+Karim Benzema,Real Madrid,14,0.07577901,Blocked,Half Volley,Right Foot,105.0,46.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18,0.008346005,Off T,Normal,Right Foot,90.1,56.8,0
+Karim Benzema,Real Madrid,18,0.6428561,Goal,Normal,Right Foot,113.3,41.4,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21,0.04913684,Saved,Half Volley,Right Foot,96.6,41.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23,0.021612708,Blocked,Normal,Right Foot,92.7,42.2,0
+Luka Modrić,Real Madrid,24,0.027672317,Blocked,Normal,Left Foot,99.9,55.2,0
+Toni Kroos,Real Madrid,27,0.043414418,Off T,Normal,Right Foot,99.7,28.7,0
+Sabin Merino Zuloaga,Athletic Club,28,0.16083117,Off T,Normal,Head,113.0,36.9,0
+Francisco Román Alarcón Suárez,Real Madrid,29,0.028108448,Saved,Normal,Left Foot,103.3,51.0,0
+Raúl García Escudero,Athletic Club,30,0.15256692,Blocked,Normal,Right Foot,111.3,44.8,0
+Karim Benzema,Real Madrid,33,0.06443852,Blocked,Normal,Right Foot,101.4,43.1,0
+Mateo Kovačić,Real Madrid,36,0.091141984,Saved,Half Volley,Right Foot,110.4,32.7,0
+Karim Benzema,Real Madrid,37,0.035571445,Off T,Normal,Head,109.7,46.6,0
+Aritz Aduriz Zubeldia,Athletic Club,40,0.19467327,Saved,Normal,Head,113.0,36.1,0
+Mateo Kovačić,Real Madrid,41,0.25731796,Saved,Normal,Left Foot,111.0,34.9,0
+Daniel Carvajal Ramos,Real Madrid,42,0.031702485,Off T,Normal,Right Foot,95.7,51.7,0
+Karim Benzema,Real Madrid,48,0.0730022,Blocked,Normal,Right Foot,105.7,30.2,0
+Raphaël Varane,Real Madrid,50,0.021764357,Wayward,Normal,Head,104.3,38.8,0
+Aritz Aduriz Zubeldia,Athletic Club,50,0.03780999,Saved,Normal,Right Foot,95.0,47.0,0
+Markel Susaeta Laskurain,Athletic Club,52,0.04354428,Blocked,Normal,Right Foot,97.6,34.6,0
+Aritz Aduriz Zubeldia,Athletic Club,61,0.06566063,Blocked,Half Volley,Right Foot,109.6,46.0,0
+Aritz Aduriz Zubeldia,Athletic Club,62,0.116197884,Blocked,Normal,Head,111.8,43.8,0
+Kléper Laveran Lima Ferreira,Real Madrid,65,0.076127246,Off T,Normal,Head,111.9,38.0,0
+Sabin Merino Zuloaga,Athletic Club,66,0.1747677,Goal,Diving Header,Head,108.8,31.8,1
+Karim Benzema,Real Madrid,69,0.65773594,Goal,Half Volley,Right Foot,114.3,39.5,1
+Raúl García Escudero,Athletic Club,70,0.0083098505,Off T,Normal,Right Foot,95.2,60.8,0
+Karim Benzema,Real Madrid,72,0.07471296,Off T,Half Volley,Right Foot,100.9,37.5,0
+Aritz Aduriz Zubeldia,Athletic Club,74,0.08280306,Saved,Volley,Right Foot,106.3,51.8,0
+Raúl García Escudero,Athletic Club,78,0.39943144,Off T,Half Volley,Right Foot,114.0,39.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,83,0.10913601,Off T,Normal,Left Foot,104.6,26.6,0
+Sabin Merino Zuloaga,Athletic Club,87,0.03728741,Saved,Normal,Head,108.7,52.2,0
+Edgar Antonio Méndez Ortega,Granada,7,0.173336,Wayward,Half Volley,Right Foot,113.0,31.4,0
+Kléper Laveran Lima Ferreira,Real Madrid,12,0.034773424,Saved,Normal,Head,109.5,32.5,0
+Francisco Román Alarcón Suárez,Real Madrid,13,0.033780955,Saved,Normal,Right Foot,93.6,33.7,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18,0.25907606,Saved,Normal,Right Foot,102.9,34.2,0
+Karim Benzema,Real Madrid,18,0.3628611,Wayward,Half Volley,Right Foot,106.3,41.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21,0.0077777863,Saved,Normal,Right Foot,83.8,48.2,0
+Lucas Vázquez Iglesias,Real Madrid,21,0.28809595,Saved,Normal,Right Foot,111.7,49.9,0
+Francisco Román Alarcón Suárez,Real Madrid,23,0.033542465,Off T,Half Volley,Right Foot,98.6,35.1,0
+Rene Krhin,Granada,24,0.1257238,Saved,Normal,Head,113.3,35.1,0
+Luka Modrić,Real Madrid,30,0.23013206,Saved,Normal,Right Foot,105.6,43.5,0
+Luka Modrić,Real Madrid,30,0.14296968,Wayward,Normal,Head,111.5,43.8,0
+Rubén Rochina Naixes,Granada,32,0.0066888137,Off T,Normal,Left Foot,82.5,40.0,0
+Isaac Ajayi Success,Granada,38,0.264326,Saved,Normal,Right Foot,109.4,44.2,0
+Francisco Román Alarcón Suárez,Real Madrid,40,0.1473175,Off T,Normal,Right Foot,110.4,51.1,0
+Hugo Miguel Almeida Costa Lopes,Granada,43,0.019894883,Off T,Normal,Right Foot,94.7,53.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,45,0.015331975,Saved,Normal,Right Foot,94.7,56.6,0
+Francisco Román Alarcón Suárez,Real Madrid,47,0.01759246,Blocked,Normal,Right Foot,105.4,24.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,50,0.032975826,Off T,Normal,Right Foot,102.6,49.5,0
+Isaac Ajayi Success,Granada,51,0.27996325,Off T,Lob,Right Foot,105.4,49.7,0
+Karim Benzema,Real Madrid,54,0.52289504,Goal,Normal,Head,116.3,42.9,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,58,0.04267428,Saved,Normal,Head,109.1,39.3,0
+Youssef El-Arabi,Granada,59,0.1589102,Saved,Normal,Right Foot,109.0,32.3,0
+Edgar Antonio Méndez Ortega,Granada,59,0.010107519,Off T,Normal,Left Foot,96.2,21.4,0
+Youssef El-Arabi,Granada,61,0.032196686,Blocked,Normal,Right Foot,99.7,25.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,63,0.007236973,Saved,Normal,Left Foot,86.3,29.2,0
+Raphaël Varane,Real Madrid,64,0.069444135,Off T,Normal,Head,111.7,37.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,64,0.048575692,Off T,Normal,Left Foot,104.6,24.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,72,0.039801676,Blocked,Normal,Right Foot,92.9,26.8,0
+Rene Krhin,Granada,73,0.05519379,Blocked,Volley,Right Foot,105.8,35.4,0
+Denis Cheryshev,Real Madrid,83,0.15475419,Off T,Half Volley,Left Foot,108.4,33.0,0
+Javier Márquez Moreno,Granada,89,0.039387472,Blocked,Normal,Left Foot,89.6,44.7,0
+Nicolás Federico López Alonso,Granada,93,0.005262502,Blocked,Normal,Left Foot,85.6,52.0,0
+Felipe Salvador Caicedo Corozo,Espanyol,1,0.063769706,Saved,Normal,Right Foot,108.9,53.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,3,0.10278771,Off T,Normal,Left Foot,104.8,27.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,6,0.2500992,Goal,Normal,Right Foot,112.5,28.9,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16,0.7835,Goal,Normal,Right Foot,107.8,40.1,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,19,0.29864717,Goal,Volley,Left Foot,114.7,43.3,1
+Salvador Sevilla López,Espanyol,24,0.035522114,Saved,Normal,Left Foot,96.4,29.7,0
+Karim Benzema,Real Madrid,27,0.5668212,Goal,Half Volley,Right Foot,116.3,42.7,1
+Gerard Moreno Balaguero,Espanyol,30,0.0915772,Off T,Normal,Head,111.3,37.8,0
+Carlos Henrique Casimiro,Real Madrid,32,0.019619564,Off T,Normal,Right Foot,93.8,55.1,0
+Felipe Salvador Caicedo Corozo,Espanyol,34,0.06893123,Blocked,Normal,Left Foot,98.9,37.7,0
+Gerard Moreno Balaguero,Espanyol,34,0.043663517,Blocked,Normal,Right Foot,105.7,55.4,0
+Anaitz Arbilla Zabala,Espanyol,36,0.035367634,Blocked,Normal,Right Foot,98.6,50.0,0
+Karim Benzema,Real Madrid,42,0.11260469,Post,Normal,Right Foot,105.2,52.5,0
+Gerard Moreno Balaguero,Espanyol,43,0.029359998,Off T,Normal,Left Foot,102.9,22.6,0
+Anaitz Arbilla Zabala,Espanyol,45,0.099945426,Blocked,Volley,Left Foot,105.0,49.8,0
+Gareth Frank Bale,Real Madrid,46,0.051809486,Blocked,Volley,Left Foot,104.4,32.4,0
+Daniel Carvajal Ramos,Real Madrid,47,0.08429358,Off T,Normal,Right Foot,111.3,53.2,0
+Carlos Henrique Casimiro,Real Madrid,49,0.023826897,Blocked,Normal,Right Foot,95.6,52.5,0
+Felipe Salvador Caicedo Corozo,Espanyol,54,0.046630558,Blocked,Normal,Left Foot,98.0,36.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,61,0.5888231,Goal,Normal,Right Foot,114.2,38.3,1
+Álvaro González Soberón,Espanyol,64,0.08310846,Blocked,Normal,Head,112.7,43.4,0
+Víctor Sánchez Mata,Espanyol,64,0.02028725,Off T,Half Volley,Left Foot,102.1,23.6,0
+Joan Jordán Moreno,Espanyol,69,0.012701511,Off T,Volley,Right Foot,117.9,52.5,0
+Gerard Moreno Balaguero,Espanyol,71,0.37937453,Saved,Normal,Head,114.9,44.2,0
+Salvador Sevilla López,Espanyol,71,0.62143046,Off T,Half Volley,Right Foot,116.8,37.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,80,0.22829616,Goal,Normal,Right Foot,107.6,40.2,1
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,83,0.1945294,Off T,Half Volley,Left Foot,106.0,34.4,0
+Daniel Carvajal Ramos,Real Madrid,84,0.014751591,Off T,Half Volley,Right Foot,88.0,50.8,0
+Lucas Vázquez Iglesias,Real Madrid,87,0.07809972,Saved,Normal,Left Foot,104.3,51.7,0
+Felipe Salvador Caicedo Corozo,Espanyol,89,0.11788031,Off T,Normal,Left Foot,102.7,39.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,2,0.038795162,Wayward,Half Volley,Right Foot,106.4,22.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8,0.044190973,Blocked,Normal,Right Foot,91.0,33.6,0
+Gareth Frank Bale,Real Madrid,9,0.04749736,Blocked,Half Volley,Right Foot,100.0,31.0,0
+Gareth Frank Bale,Real Madrid,11,0.07614354,Off T,Normal,Left Foot,114.3,22.4,0
+Marcelo Vieira da Silva Júnior,Real Madrid,15,0.0064105755,Wayward,Normal,Left Foot,90.9,23.3,0
+Jesé Rodríguez Ruiz,Real Madrid,18,0.028943423,Off T,Normal,Right Foot,106.5,57.4,0
+Francisco Román Alarcón Suárez,Real Madrid,20,0.03224591,Off T,Normal,Right Foot,95.1,40.7,0
+Bernardo José Espinosa Zúñiga,Sporting Gijón,21,0.03957649,Wayward,Half Volley,Right Foot,106.4,47.3,0
+Francisco Román Alarcón Suárez,Real Madrid,25,0.054809436,Off T,Normal,Right Foot,101.1,53.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32,0.023894979,Saved,Normal,Right Foot,95.5,52.4,0
+Jesé Rodríguez Ruiz,Real Madrid,33,0.040484678,Saved,Normal,Right Foot,99.1,31.2,0
+Arnaldo Antonio Sanabria Ayala,Sporting Gijón,35,0.057920586,Post,Normal,Head,111.8,44.5,0
+Ignacio Cases Mora,Sporting Gijón,36,0.021107573,Off T,Half Volley,Right Foot,93.8,38.0,0
+Toni Kroos,Real Madrid,45,0.018309502,Off T,Normal,Right Foot,86.3,46.2,0
+Francisco Román Alarcón Suárez,Real Madrid,46,0.06559306,Saved,Normal,Left Foot,97.2,41.7,0
+Carlos Carmona Bonet,Sporting Gijón,47,0.1015174,Off T,Normal,Head,107.1,42.0,0
+Miguel Ángel Guerrero Martín,Sporting Gijón,48,0.02881186,Blocked,Normal,Right Foot,91.4,44.1,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,53,0.03269877,Saved,Normal,Right Foot,101.9,23.7,0
+Gareth Frank Bale,Real Madrid,60,0.04115833,Off T,Normal,Left Foot,97.3,56.0,0
+Raphaël Varane,Real Madrid,61,0.1272405,Wayward,Normal,Head,113.9,34.6,0
+Gareth Frank Bale,Real Madrid,62,0.05225626,Saved,Normal,Head,111.7,45.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,66,0.29326233,Off T,Normal,Head,115.1,43.2,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,68,0.06254423,Blocked,Normal,Left Foot,105.6,54.2,0
+James David Rodríguez Rubio,Real Madrid,69,0.035191566,Saved,Normal,Left Foot,104.5,56.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,77,0.04299614,Saved,Normal,Left Foot,108.5,26.8,0
+Marcelo Vieira da Silva Júnior,Real Madrid,77,0.06563301,Off T,Normal,Head,107.3,37.9,0
+Luka Modrić,Real Madrid,81,0.041370127,Blocked,Normal,Right Foot,100.2,33.0,0
+Alejandro Menéndez Díez,Sporting Gijón,83,0.031502087,Blocked,Normal,Right Foot,104.8,26.9,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,83,0.04500919,Saved,Normal,Right Foot,103.8,22.6,0
+Luka Modrić,Real Madrid,84,0.03817027,Off T,Normal,Right Foot,94.6,45.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,87,0.09136903,Off T,Normal,Head,110.0,38.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,93,0.038283624,Blocked,Normal,Right Foot,93.4,25.3,0
+James David Rodríguez Rubio,Real Madrid,93,0.01813508,Off T,Half Volley,Left Foot,93.3,34.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,10,0.7835,Saved,Normal,Left Foot,108.0,40.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,16,0.056815397,Off T,Normal,Left Foot,92.1,34.1,0
+Munir El Haddadi Mohamed,Barcelona,18,0.43270716,Goal,Normal,Head,111.8,39.9,1
+Lionel Andrés Messi Cuccittini,Barcelona,26,0.047487058,Blocked,Half Volley,Left Foot,108.4,55.3,0
+Gerard Piqué Bernabéu,Barcelona,30,0.30672285,Saved to Post,Normal,Other,116.0,36.8,0
+Neymar da Silva Santos Junior,Barcelona,31,0.24904487,Goal,Normal,Right Foot,108.4,29.8,1
+Lionel Andrés Messi Cuccittini,Barcelona,39,0.03750979,Goal,Normal,Left Foot,94.6,40.3,1
+Lionel Andrés Messi Cuccittini,Barcelona,42,0.03439893,Off T,Normal,Left Foot,90.3,47.5,0
+Abdoul Karim Yoda,Getafe,46,0.020997366,Off T,Normal,Left Foot,96.7,55.7,0
+Arda Turan,Barcelona,48,0.17389879,Off T,Normal,Right Foot,108.9,35.3,0
+Neymar da Silva Santos Junior,Barcelona,50,0.26053265,Goal,Normal,Right Foot,108.1,42.4,1
+Arda Turan,Barcelona,56,0.19371109,Goal,Overhead Kick,Left Foot,113.1,45.9,1
+Lionel Andrés Messi Cuccittini,Barcelona,62,0.091590956,Off T,Normal,Left Foot,107.2,27.4,0
+Wanderson Maciel Sousa Campos,Getafe,64,0.06639542,Off T,Normal,Right Foot,95.5,36.4,0
+Moisés Gómez Bordonado,Getafe,67,0.051890258,Saved,Normal,Left Foot,97.1,41.5,0
+Moisés Gómez Bordonado,Getafe,68,0.041856397,Off T,Normal,Left Foot,113.1,25.5,0
+Neymar da Silva Santos Junior,Barcelona,81,0.04200846,Saved,Lob,Right Foot,104.4,23.6,0
+Neymar da Silva Santos Junior,Barcelona,82,0.2121068,Saved,Normal,Left Foot,108.9,30.9,0
+Abdoul Karim Yoda,Getafe,83,0.07243176,Blocked,Normal,Left Foot,104.7,32.2,0
+Bernard Mensah,Getafe,84,0.011211474,Off T,Normal,Right Foot,85.5,32.8,0
+Neymar da Silva Santos Junior,Barcelona,87,0.009295708,Off T,Normal,Right Foot,97.8,19.5,0
+Rubén Castro Martín,Real Betis,4,0.04170902,Blocked,Normal,Right Foot,96.4,42.4,0
+Bruno González Cabrera,Real Betis,5,0.043828387,Saved,Normal,Head,108.0,35.6,0
+Andrés Iniesta Luján,Barcelona,18,0.040734075,Off T,Normal,Right Foot,100.8,27.5,0
+Ivan Rakitić,Barcelona,25,0.0491443,Blocked,Half Volley,Right Foot,100.6,50.3,0
+Neymar da Silva Santos Junior,Barcelona,26,0.10750048,Off T,Normal,Head,109.3,38.4,0
+Neymar da Silva Santos Junior,Barcelona,28,0.060083773,Saved,Normal,Right Foot,103.2,31.2,0
+Luis Alberto Suárez Díaz,Barcelona,46,0.123057045,Off T,Normal,Left Foot,110.2,28.5,0
+Ivan Rakitić,Barcelona,49,0.9090369,Goal,Half Volley,Right Foot,113.7,37.7,1
+Lionel Andrés Messi Cuccittini,Barcelona,53,0.047341857,Blocked,Volley,Right Foot,103.8,37.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,56,0.07121654,Blocked,Normal,Left Foot,104.2,45.2,0
+Luis Alberto Suárez Díaz,Barcelona,57,0.047034174,Off T,Normal,Left Foot,105.1,53.2,0
+Luis Alberto Suárez Díaz,Barcelona,73,0.24883299,Saved,Normal,Left Foot,109.5,45.1,0
+Neymar da Silva Santos Junior,Barcelona,77,0.0281366,Blocked,Normal,Left Foot,116.3,28.6,0
+Luis Alberto Suárez Díaz,Barcelona,80,0.40179324,Goal,Normal,Right Foot,105.4,40.8,1
+Andrés Iniesta Luján,Barcelona,16,0.07817352,Blocked,Normal,Right Foot,101.2,33.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,18,0.034334444,Off T,Normal,Left Foot,94.3,24.6,0
+Ivan Rakitić,Barcelona,18,0.06307267,Saved,Normal,Left Foot,103.1,42.0,0
+Neymar da Silva Santos Junior,Barcelona,21,0.049374785,Off T,Normal,Right Foot,102.4,28.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24,0.059924684,Saved,Normal,Left Foot,104.8,54.9,0
+Karim Benzema,Real Madrid,24,0.08566921,Blocked,Half Volley,Right Foot,104.4,36.7,0
+Gareth Frank Bale,Real Madrid,24,0.015126976,Off T,Half Volley,Left Foot,112.5,23.8,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29,0.050429653,Off T,Normal,Right Foot,92.0,36.5,0
+Daniel Alves da Silva,Barcelona,41,0.026042616,Off T,Normal,Right Foot,102.1,57.2,0
+Karim Benzema,Real Madrid,42,0.11761501,Off T,Half Volley,Right Foot,106.2,40.3,0
+Ivan Rakitić,Barcelona,45,0.021532787,Off T,Normal,Right Foot,94.2,51.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,47,0.0445341,Off T,Normal,Left Foot,91.1,43.1,0
+Karim Benzema,Real Madrid,50,0.08048285,Blocked,Normal,Left Foot,107.4,28.6,0
+Marcelo Vieira da Silva Júnior,Real Madrid,50,0.009112233,Blocked,Normal,Left Foot,107.0,20.0,0
+Luka Modrić,Real Madrid,51,0.03057891,Blocked,Normal,Right Foot,93.4,39.9,0
+Gareth Frank Bale,Real Madrid,51,0.17843059,Saved,Backheel,Right Foot,107.8,36.4,0
+Daniel Alves da Silva,Barcelona,53,0.00573466,Blocked,Normal,Right Foot,91.0,61.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,53,0.062282465,Saved,Normal,Left Foot,102.6,33.9,0
+Gerard Piqué Bernabéu,Barcelona,55,0.10838826,Goal,Normal,Head,112.3,42.6,1
+Karim Benzema,Real Madrid,61,0.34321517,Goal,Overhead Kick,Right Foot,113.5,42.0,1
+Gareth Frank Bale,Real Madrid,67,0.09394495,Saved,Normal,Left Foot,100.0,42.6,0
+Luis Alberto Suárez Díaz,Barcelona,69,0.046138667,Blocked,Half Volley,Left Foot,103.6,42.0,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,78,0.02655458,Blocked,Normal,Right Foot,99.8,34.2,0
+Luis Alberto Suárez Díaz,Barcelona,79,0.009944255,Off T,Half Volley,Right Foot,111.0,59.3,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,81,0.024609288,Post,Normal,Right Foot,103.7,22.2,0
+Gareth Frank Bale,Real Madrid,81,0.12785544,Saved,Normal,Right Foot,110.1,56.2,0
+Luis Alberto Suárez Díaz,Barcelona,83,0.06002346,Off T,Half Volley,Right Foot,105.5,44.6,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,84,0.07700351,Goal,Normal,Right Foot,115.8,30.1,1
+Arda Turan,Barcelona,91,0.11549341,Blocked,Half Volley,Left Foot,108.5,41.3,0
+Luis Alberto Suárez Díaz,Barcelona,6,0.053170346,Off T,Normal,Left Foot,109.7,30.6,0
+Oriol Riera Magem,RC Deportivo La Coruña,9,0.017495241,Off T,Normal,Right Foot,87.5,31.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,10,0.08545912,Saved,Normal,Left Foot,107.1,34.0,0
+Luis Alberto Suárez Díaz,Barcelona,10,0.36041373,Goal,Volley,Left Foot,116.4,38.9,1
+Pedro Mosquera Parada,RC Deportivo La Coruña,15,0.032769945,Wayward,Volley,Left Foot,97.5,33.8,0
+Celso Borges Mora,RC Deportivo La Coruña,17,0.3936158,Saved,Volley,Left Foot,113.3,37.4,0
+Rubén Gracia Calmache,RC Deportivo La Coruña,18,0.021346826,Blocked,Normal,Right Foot,98.6,55.0,0
+Celso Borges Mora,RC Deportivo La Coruña,18,0.19260886,Blocked,Normal,Right Foot,113.4,43.3,0
+Oriol Riera Magem,RC Deportivo La Coruña,18,0.08396958,Off T,Normal,Right Foot,113.5,49.6,0
+Luis Alberto Suárez Díaz,Barcelona,22,0.12849604,Off T,Overhead Kick,Right Foot,112.4,46.8,0
+Luis Alberto Suárez Díaz,Barcelona,23,0.44012877,Goal,Normal,Right Foot,108.7,38.0,1
+Lucas Pérez Martínez,RC Deportivo La Coruña,26,0.035062324,Off T,Half Volley,Left Foot,107.0,24.2,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,32,0.03625513,Saved,Normal,Left Foot,100.6,31.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,36,0.06601962,Blocked,Normal,Left Foot,103.2,30.6,0
+Ivan Rakitić,Barcelona,46,0.26528195,Goal,Volley,Right Foot,111.6,45.0,1
+Neymar da Silva Santos Junior,Barcelona,49,0.06740473,Wayward,Normal,Left Foot,101.2,32.6,0
+Ivan Rakitić,Barcelona,49,0.013807261,Off T,Volley,Right Foot,94.7,56.8,0
+Luis Alberto Suárez Díaz,Barcelona,52,0.38335487,Goal,Normal,Right Foot,106.7,42.1,1
+Lucas Pérez Martínez,RC Deportivo La Coruña,59,0.097582646,Saved,Half Volley,Left Foot,108.5,30.0,0
+Ivan Rakitić,Barcelona,62,0.027607061,Off T,Normal,Right Foot,94.1,51.3,0
+Luis Alberto Suárez Díaz,Barcelona,63,0.57416403,Blocked,Normal,Left Foot,113.4,43.9,0
+Luis Alberto Suárez Díaz,Barcelona,63,0.5388025,Goal,Normal,Left Foot,116.6,42.9,1
+Lucas Pérez Martínez,RC Deportivo La Coruña,65,0.052517608,Blocked,Normal,Right Foot,113.8,50.9,0
+Pedro Mosquera Parada,RC Deportivo La Coruña,66,0.042765014,Off T,Volley,Left Foot,97.6,46.2,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,68,0.4215665,Off T,Half Volley,Right Foot,114.0,40.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,72,0.20229952,Goal,Normal,Left Foot,106.5,41.4,1
+Jonás Manuel Gutiérrez,RC Deportivo La Coruña,75,0.095218256,Off T,Normal,Head,111.1,36.6,0
+Marc Bartra Aregall,Barcelona,78,0.26879427,Goal,Normal,Right Foot,106.7,48.2,1
+Neymar da Silva Santos Junior,Barcelona,80,0.47204635,Goal,Normal,Left Foot,114.8,35.1,1
+Fayçal Fajr,RC Deportivo La Coruña,81,0.022727758,Saved,Normal,Right Foot,94.1,27.3,0
+Fayçal Fajr,RC Deportivo La Coruña,83,0.017110938,Off T,Normal,Right Foot,89.3,28.4,0
+Federico Nicolás Cartabia,RC Deportivo La Coruña,84,0.018200863,Saved,Normal,Left Foot,91.5,42.5,0
+Federico Nicolás Cartabia,RC Deportivo La Coruña,85,0.044417504,Blocked,Normal,Left Foot,96.3,47.3,0
+Luis Alberto Suárez Díaz,Barcelona,89,0.08678702,Off T,Normal,Right Foot,105.9,52.3,0
+Saúl Ñíguez Esclapez,Atlético Madrid,1,0.01033773,Saved,Normal,Left Foot,97.1,58.3,0
+Jorge Resurrección Merodio,Atlético Madrid,9,0.12563099,Goal,Half Volley,Right Foot,105.2,39.5,1
+Yannick Ferreira Carrasco,Atlético Madrid,11,0.031835385,Off T,Volley,Right Foot,96.4,51.8,0
+Daniel Alves da Silva,Barcelona,16,0.05860126,Blocked,Volley,Right Foot,106.7,50.4,0
+Augusto Matías Fernández,Atlético Madrid,19,0.035261493,Off T,Normal,Right Foot,93.2,41.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,25,0.03034106,Off T,Normal,Left Foot,92.4,53.6,0
+Luis Alberto Suárez Díaz,Barcelona,28,0.050105657,Saved,Normal,Left Foot,112.4,26.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,29,0.15589306,Goal,Normal,Left Foot,109.9,37.3,1
+Antoine Griezmann,Atlético Madrid,36,0.041714158,Off T,Normal,Left Foot,106.1,28.2,0
+Luis Alberto Suárez Díaz,Barcelona,37,0.10824084,Goal,Normal,Right Foot,115.3,50.0,1
+Neymar da Silva Santos Junior,Barcelona,42,0.025813177,Blocked,Normal,Left Foot,99.8,24.5,0
+Antoine Griezmann,Atlético Madrid,55,0.38035107,Saved,Volley,Left Foot,114.6,40.7,0
+José María Giménez de Vargas,Atlético Madrid,56,0.05476525,Wayward,Normal,Head,109.1,37.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,67,0.008369259,Saved,Normal,Left Foot,114.2,63.4,0
+Arda Turan,Barcelona,77,0.070916675,Off T,Normal,Right Foot,104.9,52.1,0
+Daniel Alves da Silva,Barcelona,79,0.01943625,Off T,Normal,Right Foot,98.5,55.9,0
+Luis Alberto Suárez Díaz,Barcelona,88,0.04295029,Off T,Normal,Right Foot,99.8,27.5,0
+Adrián Embarba Blázquez,Rayo Vallecano,3,0.09299022,Saved,Normal,Left Foot,95.7,40.4,0
+Adrián Embarba Blázquez,Rayo Vallecano,14,0.04995239,Saved,Normal,Right Foot,97.1,41.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,20,0.10564601,Saved,Normal,Left Foot,111.9,28.4,0
+Ivan Rakitić,Barcelona,21,0.26464975,Goal,Half Volley,Right Foot,112.7,32.1,1
+Lionel Andrés Messi Cuccittini,Barcelona,22,0.20263678,Goal,Normal,Left Foot,108.3,34.4,1
+Andrés Iniesta Luján,Barcelona,25,0.073379375,Blocked,Normal,Left Foot,99.6,36.4,0
+Jérémy Mathieu,Barcelona,26,0.068113126,Blocked,Normal,Right Foot,104.8,46.7,0
+Neymar da Silva Santos Junior,Barcelona,30,0.012028871,Off T,Normal,Left Foot,106.4,21.4,0
+Luis Alberto Suárez Díaz,Barcelona,37,0.23536615,Saved Off Target,Volley,Left Foot,95.4,29.3,0
+Joaquín José Marín Ruiz,Rayo Vallecano,40,0.14574043,Off T,Normal,Head,111.3,36.4,0
+Gerard Piqué Bernabéu,Barcelona,44,0.066014625,Blocked,Normal,Head,109.0,41.6,0
+Gerard Piqué Bernabéu,Barcelona,45,0.06868838,Wayward,Normal,Head,109.5,40.4,0
+Neymar da Silva Santos Junior,Barcelona,46,0.19485271,Off T,Volley,Left Foot,112.6,30.9,0
+Luis Alberto Suárez Díaz,Barcelona,51,0.08950944,Off T,Normal,Right Foot,115.2,51.8,0
+Luis Alberto Suárez Díaz,Barcelona,52,0.21959229,Post,Half Volley,Right Foot,108.2,45.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,52,0.19386896,Goal,Normal,Left Foot,109.8,39.3,1
+Neymar da Silva Santos Junior,Barcelona,54,0.15458007,Off T,Normal,Left Foot,115.2,31.2,0
+Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,56,0.6941105,Goal,Normal,Head,117.9,41.1,1
+Roberto Román Triguero,Rayo Vallecano,60,0.020652045,Off T,Half Volley,Right Foot,89.1,38.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,63,0.116288066,Off T,Normal,Left Foot,104.2,35.8,0
+Luis Alberto Suárez Díaz,Barcelona,64,0.06674532,Saved,Normal,Right Foot,106.8,54.4,0
+Neymar da Silva Santos Junior,Barcelona,66,0.10131749,Post,Normal,Right Foot,100.7,45.2,0
+Luis Alberto Suárez Díaz,Barcelona,68,0.7835,Saved,Normal,Right Foot,108.0,39.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,71,0.27113342,Goal,Normal,Left Foot,105.2,43.4,1
+Luis Alberto Suárez Díaz,Barcelona,81,0.027470373,Wayward,Normal,Left Foot,117.3,29.5,0
+Arda Turan,Barcelona,85,0.2941532,Goal,Normal,Head,114.0,46.7,1
+Adrián Embarba Blázquez,Rayo Vallecano,87,0.03938504,Saved,Normal,Right Foot,100.5,54.0,0
+Jonhatan Montiel Caballero,Rayo Vallecano,89,0.009032312,Blocked,Normal,Left Foot,103.3,59.1,0
+Roberto Román Triguero,Rayo Vallecano,89,0.24951433,Off T,Normal,Head,109.6,33.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,2,0.373829,Off T,Normal,Head,114.6,42.6,0
+Andrés Iniesta Luján,Barcelona,9,0.03902529,Blocked,Normal,Left Foot,98.3,45.5,0
+Alejandro Menéndez Díez,Sporting Gijón,10,0.2006163,Saved,Half Volley,Right Foot,109.1,37.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,11,0.26515892,Goal,Lob,Head,103.0,44.1,1
+Lionel Andrés Messi Cuccittini,Barcelona,15,0.15127519,Saved,Half Volley,Left Foot,108.9,32.7,0
+Alen Halilović,Sporting Gijón,20,0.031189092,Blocked,Normal,Left Foot,92.2,36.9,0
+Sergi Roberto Carnicer,Barcelona,26,0.041563563,Off T,Normal,Left Foot,100.0,49.0,0
+Alejandro Menéndez Díez,Sporting Gijón,35,0.15751874,Off T,Half Volley,Left Foot,114.1,32.4,0
+Andrés Iniesta Luján,Barcelona,37,0.024206055,Off T,Volley,Left Foot,99.2,26.9,0
+Luis Alberto Suárez Díaz,Barcelona,39,0.10260095,Blocked,Normal,Right Foot,111.9,48.5,0
+Alen Halilović,Sporting Gijón,44,0.021751402,Blocked,Volley,Right Foot,114.3,54.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,50,0.038565822,Off T,Normal,Left Foot,97.7,30.1,0
+Luis Alberto Suárez Díaz,Barcelona,53,0.102951586,Off T,Lob,Left Foot,103.8,47.5,0
+Andrés Iniesta Luján,Barcelona,54,0.037909128,Off T,Normal,Right Foot,94.5,39.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,55,0.06802601,Off T,Normal,Left Foot,105.0,40.9,0
+Jordi Alba Ramos,Barcelona,57,0.013508299,Blocked,Half Volley,Left Foot,109.1,20.4,0
+Neymar da Silva Santos Junior,Barcelona,58,0.17624219,Saved,Normal,Right Foot,114.3,31.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,61,0.008533415,Off T,Normal,Left Foot,88.9,53.7,0
+Luis Alberto Suárez Díaz,Barcelona,62,0.43783498,Goal,Normal,Right Foot,115.7,46.4,1
+Ivan Rakitić,Barcelona,68,0.0061936476,Off T,Half Volley,Right Foot,89.9,57.1,0
+Neymar da Silva Santos Junior,Barcelona,69,0.042025223,Blocked,Normal,Head,107.9,44.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,71,0.0950242,Blocked,Half Volley,Left Foot,114.1,35.0,0
+Marc Bartra Aregall,Barcelona,71,0.13618739,Off T,Normal,Head,114.5,37.2,0
+Luis Alberto Suárez Díaz,Barcelona,73,0.7835,Goal,Normal,Right Foot,108.3,40.3,1
+Luis Alberto Suárez Díaz,Barcelona,76,0.7835,Goal,Normal,Right Foot,108.2,40.1,1
+Neymar da Silva Santos Junior,Barcelona,85,0.7835,Goal,Normal,Right Foot,108.1,40.1,1
+Luis Alberto Suárez Díaz,Barcelona,87,0.21101259,Goal,Normal,Right Foot,108.8,32.0,1
+Luis Alberto Suárez Díaz,Barcelona,1,0.07571788,Saved,Normal,Right Foot,117.9,48.9,0
+Munir El Haddadi Mohamed,Barcelona,1,0.9133661,Goal,Normal,Right Foot,119.3,38.1,1
+Charles Días Barbosa de Oliveira,Málaga,8,0.060600106,Wayward,Backheel,Left Foot,108.4,33.1,0
+Duje Čop,Málaga,9,0.15145154,Saved,Normal,Head,110.1,34.8,0
+Charles Días Barbosa de Oliveira,Málaga,11,0.12100739,Blocked,Normal,Head,113.1,42.3,0
+Roberto José Rosales Altuve,Málaga,13,0.031101836,Blocked,Normal,Right Foot,100.8,55.0,0
+Charles Días Barbosa de Oliveira,Málaga,13,0.06573531,Blocked,Normal,Head,108.6,42.9,0
+Gonzalo Castro Irizábal,Málaga,13,0.048216503,Saved to Post,Half Volley,Left Foot,97.8,37.9,0
+Charles Días Barbosa de Oliveira,Málaga,13,0.076546066,Blocked,Half Volley,Right Foot,114.3,51.7,0
+Juan Pablo Añor Acosta,Málaga,31,0.12243083,Goal,Normal,Right Foot,105.6,41.2,1
+Duje Čop,Málaga,36,0.05689864,Saved Off Target,Normal,Head,104.6,37.7,0
+Duje Čop,Málaga,40,0.010448389,Saved,Normal,Right Foot,103.3,58.5,0
+Munir El Haddadi Mohamed,Barcelona,43,0.097420625,Saved,Normal,Left Foot,108.4,27.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,43,0.31566206,Blocked,Normal,Right Foot,113.7,39.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,49,0.055730876,Blocked,Normal,Left Foot,94.0,50.0,0
+Adriano Correia Claro,Barcelona,49,0.03642713,Off T,Half Volley,Left Foot,99.3,30.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,50,0.23106429,Goal,Volley,Left Foot,113.7,45.2,1
+Ignacio Camacho Barnola,Málaga,62,0.022669934,Saved,Normal,Right Foot,88.2,44.1,0
+Arda Turan,Barcelona,68,0.08370209,Off T,Normal,Head,112.6,41.0,0
+Ignacio Camacho Barnola,Málaga,72,0.076472014,Saved,Half Volley,Right Foot,111.0,49.5,0
+Roberto José Rosales Altuve,Málaga,77,0.062384196,Saved,Normal,Left Foot,102.1,45.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,80,0.22053735,Off T,Normal,Left Foot,111.6,49.6,0
+Charles Días Barbosa de Oliveira,Málaga,84,0.1885868,Off T,Volley,Left Foot,113.3,38.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,86,0.024582764,Blocked,Normal,Left Foot,87.1,34.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,87,0.07766422,Saved,Half Volley,Left Foot,108.5,32.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,7,0.07573616,Goal,Normal,Left Foot,94.7,41.1,1
+Luis Alberto Suárez Díaz,Barcelona,9,0.10656489,Saved,Normal,Right Foot,114.2,50.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,9,0.29718226,Saved,Normal,Right Foot,116.2,45.7,0
+Neymar da Silva Santos Junior,Barcelona,12,0.10039073,Blocked,Normal,Right Foot,107.1,35.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,15,0.039084595,Off T,Normal,Left Foot,96.3,24.5,0
+Neymar da Silva Santos Junior,Barcelona,18,0.066677466,Off T,Normal,Right Foot,99.1,27.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,21,0.14641865,Off T,Half Volley,Right Foot,108.1,41.3,0
+Felipe Salvador Caicedo Corozo,Espanyol,29,0.08120885,Saved,Normal,Left Foot,112.2,28.4,0
+Víctor Guillermo Álvarez Delgado,Espanyol,30,0.31057602,Blocked,Half Volley,Right Foot,105.8,33.5,0
+Papa Kouly Diop,Espanyol,30,0.05084414,Off T,Normal,Head,107.3,34.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,32,0.05311185,Blocked,Normal,Left Foot,103.9,34.8,0
+Luis Alberto Suárez Díaz,Barcelona,51,0.4506838,Goal,Normal,Right Foot,108.3,43.4,1
+Luis Alberto Suárez Díaz,Barcelona,60,0.0981577,Goal,Normal,Head,110.1,40.1,1
+Ivan Rakitić,Barcelona,68,0.042301383,Off T,Normal,Head,95.3,40.7,0
+Rafael Alcântara do Nascimento,Barcelona,73,0.76316875,Goal,Normal,Right Foot,111.8,44.7,1
+Neymar da Silva Santos Junior,Barcelona,82,0.5387931,Goal,Normal,Right Foot,114.2,35.3,1
+Lionel Andrés Messi Cuccittini,Barcelona,84,0.14840929,Off T,Normal,Left Foot,107.9,32.4,0
+Víctor Sánchez Mata,Espanyol,92,0.045276254,Off T,Normal,Right Foot,96.8,26.2,0
+Neymar da Silva Santos Junior,Barcelona,6,0.036163606,Blocked,Normal,Right Foot,91.6,28.5,0
+Sergio Ezequiel Araújo,Las Palmas,20,0.02890714,Saved,Normal,Right Foot,111.7,54.6,0
+Luis Alberto Suárez Díaz,Barcelona,24,0.072419174,Goal,Normal,Head,110.7,38.6,1
+Neymar da Silva Santos Junior,Barcelona,32,0.3314851,Off T,Normal,Other,111.9,36.9,0
+Jonathan Viera Ramos,Las Palmas,35,0.0053499024,Saved,Normal,Right Foot,84.1,20.7,0
+Sergio Busquets i Burgos,Barcelona,36,0.018135607,Blocked,Half Volley,Right Foot,96.6,40.4,0
+Jonathan Viera Ramos,Las Palmas,40,0.09267495,Off T,Normal,Left Foot,104.1,45.6,0
+Ivan Rakitić,Barcelona,43,0.048817232,Off T,Normal,Right Foot,96.3,41.2,0
+Luis Alberto Suárez Díaz,Barcelona,49,0.013573005,Blocked,Normal,Right Foot,112.7,55.2,0
+Luis Alberto Suárez Díaz,Barcelona,53,0.13889985,Goal,Normal,Right Foot,110.3,29.8,1
+Sergio Ezequiel Araújo,Las Palmas,57,0.029784204,Saved,Normal,Left Foot,109.4,26.1,0
+Neymar da Silva Santos Junior,Barcelona,62,0.051405538,Saved,Normal,Right Foot,107.6,55.6,0
+Neymar da Silva Santos Junior,Barcelona,66,0.7835,Off T,Normal,Right Foot,108.1,40.1,0
+David Simón Rodríguez Santana,Las Palmas,70,0.116377726,Saved,Normal,Left Foot,103.1,29.6,0
+Neymar da Silva Santos Junior,Barcelona,70,0.14809313,Off T,Normal,Left Foot,113.7,28.8,0
+Munir El Haddadi Mohamed,Barcelona,71,0.029136254,Off T,Normal,Left Foot,90.6,35.0,0
+Luis Alberto Suárez Díaz,Barcelona,74,0.08905797,Saved,Normal,Right Foot,113.1,52.8,0
+Mubarak Wakaso,Las Palmas,75,0.01530729,Saved,Normal,Left Foot,86.3,38.1,0
+Antolín Alcáraz Viveros,Las Palmas,76,0.17232966,Blocked,Normal,Head,113.3,46.2,0
+Jonathan Viera Ramos,Las Palmas,77,0.061742336,Off T,Normal,Right Foot,93.4,46.9,0
+Javier Alejandro Mascherano,Barcelona,81,0.022485733,Saved,Normal,Right Foot,89.0,38.4,0
+Sandro Ramírez Castillo,Barcelona,83,0.031185396,Saved,Normal,Right Foot,100.4,23.6,0
+Luis Alberto Suárez Díaz,Barcelona,84,0.06992469,Off T,Normal,Right Foot,94.7,32.0,0
+Jonathan Viera Ramos,Las Palmas,87,0.10348661,Goal,Normal,Right Foot,106.9,27.4,1
+Sandro Ramírez Castillo,Barcelona,88,0.2075036,Off T,Normal,Right Foot,110.3,47.8,0
+Jonathan Viera Ramos,Las Palmas,89,0.06531983,Off T,Normal,Right Foot,100.6,50.8,0
+Sergio Busquets i Burgos,Barcelona,8,0.03533704,Saved,Normal,Right Foot,94.3,48.5,0
+Luis Alberto Suárez Díaz,Barcelona,9,0.09378761,Wayward,Backheel,Right Foot,115.9,50.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,13,0.031388998,Blocked,Normal,Left Foot,99.8,48.4,0
+Sergio Busquets i Burgos,Barcelona,14,0.036052294,Off T,Backheel,Right Foot,112.6,30.8,0
+Juan Carlos Pérez López,Málaga,18,0.010075313,Off T,Normal,Left Foot,51.9,19.0,0
+Javier Alejandro Mascherano,Barcelona,25,0.23522115,Post,Normal,Head,114.0,36.5,0
+Thomas Vermaelen,Barcelona,29,0.08673346,Saved,Normal,Head,107.6,47.6,0
+Neymar da Silva Santos Junior,Barcelona,31,0.043949135,Saved,Normal,Left Foot,105.2,30.3,0
+Duje Čop,Málaga,34,0.17127223,Saved,Normal,Right Foot,109.5,40.7,0
+Luis Alberto Suárez Díaz,Barcelona,35,0.047547583,Saved,Normal,Left Foot,108.6,31.2,0
+Luis Alberto Suárez Díaz,Barcelona,41,0.033389032,Saved,Normal,Right Foot,107.2,23.3,0
+Javier Alejandro Mascherano,Barcelona,49,0.0077484325,Off T,Normal,Right Foot,94.5,59.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,51,0.18648198,Saved,Normal,Left Foot,107.7,37.7,0
+Thomas Vermaelen,Barcelona,52,0.0690001,Saved,Normal,Left Foot,107.3,35.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,57,0.06147192,Saved,Normal,Left Foot,105.1,50.9,0
+Andrés Iniesta Luján,Barcelona,58,0.037785444,Off T,Normal,Left Foot,97.1,30.6,0
+Luis Alberto Suárez Díaz,Barcelona,60,0.08936452,Off T,Normal,Head,112.4,38.6,0
+Neymar da Silva Santos Junior,Barcelona,61,0.11950513,Blocked,Normal,Left Foot,113.2,29.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,64,0.060241994,Saved,Normal,Right Foot,115.9,51.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,69,0.025775654,Saved,Normal,Left Foot,91.3,45.6,0
+Rafael Alcântara do Nascimento,Barcelona,70,0.010149043,Saved,Normal,Left Foot,99.8,59.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,71,0.06287669,Blocked,Normal,Right Foot,107.5,34.7,0
+Thomas Vermaelen,Barcelona,72,0.25733197,Goal,Half Volley,Left Foot,108.2,41.4,1
+Luis Alberto Suárez Díaz,Barcelona,76,0.13889943,Off T,Normal,Left Foot,115.1,31.6,0
+José Luis García del Pozo,Málaga,79,0.036672786,Off T,Normal,Right Foot,95.1,49.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,83,0.057921093,Saved,Normal,Left Foot,108.9,32.0,0
+Charles Días Barbosa de Oliveira,Málaga,92,0.21121202,Blocked,Normal,Right Foot,111.2,39.6,0
+Sabin Merino Zuloaga,Athletic Club,14,0.03175368,Saved,Normal,Right Foot,89.2,35.4,0
+Andrés Iniesta Luján,Barcelona,20,0.064737946,Blocked,Normal,Left Foot,102.9,39.8,0
+Aritz Aduriz Zubeldia,Athletic Club,23,0.07195666,Off T,Normal,Head,113.3,48.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,30,0.7835,Saved,Normal,Left Foot,107.9,40.1,0
+Andrés Iniesta Luján,Barcelona,32,0.023617111,Off T,Normal,Right Foot,88.7,32.1,0
+Luis Alberto Suárez Díaz,Barcelona,33,0.18893367,Saved,Normal,Right Foot,113.0,48.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,37,0.038241796,Blocked,Normal,Left Foot,90.1,48.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,37,0.024216257,Off T,Half Volley,Left Foot,92.8,48.6,0
+Aymeric Laporte,Athletic Club,40,0.06884392,Blocked,Half Volley,Left Foot,109.6,38.6,0
+Luis Alberto Suárez Díaz,Barcelona,41,0.051640365,Blocked,Normal,Right Foot,113.6,50.6,0
+Luis Alberto Suárez Díaz,Barcelona,53,0.365458,Goal,Volley,Left Foot,112.9,40.5,1
+Sergi Roberto Carnicer,Barcelona,59,0.08417314,Post,Normal,Right Foot,107.1,52.9,0
+Markel Susaeta Laskurain,Athletic Club,76,0.025328133,Off T,Normal,Right Foot,99.7,55.9,0
+Ibai Gómez Pérez,Athletic Club,79,0.09658224,Off T,Half Volley,Right Foot,107.7,32.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,86,0.11785116,Saved,Normal,Left Foot,103.8,35.6,0
+Aymeric Laporte,Athletic Club,92,0.006332444,Saved,Normal,Left Foot,86.5,27.6,0
+Rodrigo Javier De Paul,Valencia,2,0.065185346,Blocked,Normal,Right Foot,107.4,27.5,0
+Danilo Barbosa da Silva,Valencia,2,0.015647784,Off T,Normal,Right Foot,112.2,55.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,4,0.2027444,Off T,Volley,Left Foot,110.1,40.7,0
+Neymar da Silva Santos Junior,Barcelona,5,0.19611926,Off T,Normal,Right Foot,107.6,28.7,0
+Rodrigo Javier De Paul,Valencia,9,0.033991925,Off T,Normal,Right Foot,92.0,36.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,9,0.056525357,Blocked,Normal,Left Foot,107.0,39.1,0
+Enzo Nicolás Pérez,Valencia,16,0.024084691,Blocked,Normal,Right Foot,99.9,23.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,23,0.027761657,Blocked,Normal,Left Foot,95.9,51.2,0
+Sergio Busquets i Burgos,Barcelona,23,0.020989403,Off T,Normal,Right Foot,90.0,44.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,25,0.22838086,Saved,Normal,Right Foot,112.6,33.1,0
+Luis Alberto Suárez Díaz,Barcelona,33,0.090164065,Off T,Volley,Right Foot,111.8,49.5,0
+Ivan Rakitić,Barcelona,35,0.049734436,Blocked,Half Volley,Right Foot,111.9,53.5,0
+Ivan Rakitić,Barcelona,35,0.06071496,Blocked,Half Volley,Left Foot,110.6,50.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,46,0.024905056,Saved Off Target,Half Volley,Left Foot,92.5,38.2,0
+Luis Alberto Suárez Díaz,Barcelona,57,0.04081217,Blocked,Normal,Left Foot,97.7,41.6,0
+Luis Alberto Suárez Díaz,Barcelona,58,0.078315794,Goal,Normal,Right Foot,117.4,49.4,1
+Luis Alberto Suárez Díaz,Barcelona,59,0.0663994,Saved,Normal,Right Foot,108.2,49.9,0
+Daniel Parejo Muñoz,Valencia,60,0.05141273,Blocked,Half Volley,Right Foot,100.3,32.4,0
+Danilo Barbosa da Silva,Valencia,60,0.040725958,Blocked,Half Volley,Right Foot,98.4,44.3,0
+Neymar da Silva Santos Junior,Barcelona,73,0.11946791,Off T,Normal,Right Foot,103.1,35.2,0
+Rodrigo Javier De Paul,Valencia,78,0.07035473,Saved,Normal,Right Foot,99.3,41.2,0
+Zakaria Bakkali,Valencia,80,0.048977513,Off T,Normal,Right Foot,100.3,27.6,0
+Santiago Mina Lorenzo,Valencia,85,0.10522822,Goal,Normal,Right Foot,105.5,46.1,1
+Lionel Andrés Messi Cuccittini,Barcelona,87,0.008493287,Saved,Normal,Left Foot,92.8,60.5,0
+Danilo Barbosa da Silva,Valencia,88,0.021523274,Saved,Normal,Left Foot,88.8,49.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,90,0.054578137,Saved,Normal,Left Foot,101.2,39.4,0
+Luis Alberto Suárez Díaz,Barcelona,4,0.17382343,Off T,Half Volley,Right Foot,108.1,36.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,13,0.03643483,Saved,Normal,Left Foot,89.1,45.1,0
+Jonathan Javier Rodríguez Portillo,RC Deportivo La Coruña,14,0.21249342,Saved,Normal,Left Foot,114.1,31.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,21,0.08387053,Blocked,Half Volley,Left Foot,111.4,40.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,26,0.062552825,Off T,Volley,Left Foot,103.2,30.7,0
+Luis Alberto Suárez Díaz,Barcelona,28,0.043898344,Saved,Normal,Left Foot,97.3,39.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,30,0.023314444,Saved,Normal,Left Foot,98.2,54.3,0
+Luis Alberto Suárez Díaz,Barcelona,31,0.14082147,Off T,Normal,Head,111.0,45.6,0
+Daniel Alves da Silva,Barcelona,34,0.018323367,Off T,Normal,Right Foot,92.2,54.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,38,0.05666045,Goal,Normal,Left Foot,92.3,44.1,1
+Luis Alberto Suárez Díaz,Barcelona,43,0.025046458,Off T,Normal,Right Foot,98.9,55.4,0
+Andrés Iniesta Luján,Barcelona,45,0.032213494,Off T,Normal,Right Foot,95.1,34.4,0
+Jonathan Javier Rodríguez Portillo,RC Deportivo La Coruña,45,0.052532434,Saved,Normal,Right Foot,103.6,27.3,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,46,0.031545386,Blocked,Normal,Left Foot,99.5,46.6,0
+Jonathan Javier Rodríguez Portillo,RC Deportivo La Coruña,47,0.090282656,Off T,Half Volley,Right Foot,111.0,51.6,0
+Andrés Iniesta Luján,Barcelona,49,0.039774485,Off T,Half Volley,Right Foot,101.2,26.9,0
+Ivan Rakitić,Barcelona,51,0.049586605,Blocked,Normal,Right Foot,98.2,40.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,59,0.017550224,Off T,Normal,Left Foot,111.6,55.8,0
+Ivan Rakitić,Barcelona,61,0.029984968,Goal,Normal,Right Foot,95.4,51.5,1
+Lionel Andrés Messi Cuccittini,Barcelona,64,0.007970636,Saved,Normal,Right Foot,113.2,59.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,66,0.082342595,Blocked,Normal,Left Foot,100.9,33.5,0
+Luis Alberto Romero Alconchel,RC Deportivo La Coruña,68,0.024667958,Off T,Normal,Right Foot,95.1,27.9,0
+Juan Domínguez Lamas,RC Deportivo La Coruña,69,0.084552675,Off T,Normal,Left Foot,99.9,49.7,0
+Luis Alberto Suárez Díaz,Barcelona,70,0.09107556,Saved,Normal,Right Foot,106.2,52.0,0
+Miguel Filipe Nunes Cardoso,RC Deportivo La Coruña,74,0.040424928,Blocked,Normal,Right Foot,100.9,41.9,0
+Lucas Pérez Martínez,RC Deportivo La Coruña,76,0.28764316,Goal,Normal,Left Foot,111.8,47.7,1
+Daniel Alves da Silva,Barcelona,79,0.025375439,Saved,Normal,Right Foot,96.8,52.9,0
+Miguel Filipe Nunes Cardoso,RC Deportivo La Coruña,80,0.03951016,Off T,Normal,Right Foot,106.9,55.4,0
+Fayçal Fajr,RC Deportivo La Coruña,83,0.047415316,Off T,Normal,Right Foot,95.9,42.1,0
+Alejandro Bergantiños García,RC Deportivo La Coruña,85,0.062240165,Goal,Normal,Right Foot,103.5,52.4,1
+Miguel Filipe Nunes Cardoso,RC Deportivo La Coruña,90,0.013292337,Off T,Normal,Right Foot,111.4,57.9,0
+Rubén Pardo Gutiérrez,Real Sociedad,2,0.03532793,Blocked,Half Volley,Right Foot,95.8,37.4,0
+Luis Alberto Suárez Díaz,Barcelona,2,0.15507527,Saved,Normal,Right Foot,102.6,26.4,0
+Andrés Iniesta Luján,Barcelona,12,0.22545692,Post,Normal,Head,110.6,41.8,0
+Sergio Canales Madrazo,Real Sociedad,13,0.022071706,Off T,Half Volley,Left Foot,94.1,52.1,0
+Neymar da Silva Santos Junior,Barcelona,21,0.2318389,Goal,Normal,Left Foot,109.0,42.0,1
+Luis Alberto Suárez Díaz,Barcelona,40,0.08731187,Goal,Volley,Right Foot,107.5,29.5,1
+Yuri Berchiche Izeta,Real Sociedad,46,0.005608475,Saved,Normal,Left Foot,90.2,17.0,0
+Neymar da Silva Santos Junior,Barcelona,52,0.34958535,Goal,Normal,Left Foot,110.5,38.9,1
+Lionel Andrés Messi Cuccittini,Barcelona,58,0.118607216,Off T,Volley,Left Foot,104.5,32.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,59,0.12886675,Saved,Half Volley,Left Foot,107.7,33.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,67,0.072234705,Post,Normal,Left Foot,97.6,29.8,0
+Yuri Berchiche Izeta,Real Sociedad,73,0.050892822,Off T,Normal,Left Foot,110.9,24.9,0
+Mikel Oyarzabal Ugarte,Real Sociedad,75,0.018535908,Blocked,Normal,Left Foot,97.6,22.9,0
+Armindo Tué Na Bangna,Real Sociedad,81,0.016999742,Off T,Half Volley,Left Foot,113.8,25.6,0
+Armindo Tué Na Bangna,Real Sociedad,83,0.06410868,Off T,Normal,Right Foot,99.4,32.7,0
+Armindo Tué Na Bangna,Real Sociedad,83,0.07901849,Blocked,Normal,Right Foot,102.4,40.5,0
+Mikel Oyarzabal Ugarte,Real Sociedad,84,0.111475,Off T,Normal,Head,107.8,43.9,0
+Armindo Tué Na Bangna,Real Sociedad,85,0.2047126,Saved,Normal,Right Foot,111.2,32.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,86,0.059738506,Post,Normal,Right Foot,106.9,53.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,87,0.08110295,Blocked,Normal,Right Foot,105.3,33.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,89,0.3772729,Saved,Volley,Left Foot,117.8,36.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,90,0.60287935,Goal,Normal,Left Foot,115.5,44.7,1
+Ivan Rakitić,Barcelona,2,0.024584794,Off T,Normal,Right Foot,90.8,39.4,0
+Alejandro Menéndez Díez,Sporting Gijón,8,0.02593487,Off T,Normal,Left Foot,96.5,26.0,0
+Luis Alberto Suárez Díaz,Barcelona,20,0.2369727,Saved,Normal,Left Foot,111.3,30.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,24,0.034014713,Goal,Normal,Left Foot,93.9,43.6,1
+Carlos Castro García,Sporting Gijón,26,0.4124445,Goal,Normal,Right Foot,116.1,44.7,1
+Neymar da Silva Santos Junior,Barcelona,29,0.017487079,Saved,Normal,Right Foot,97.3,22.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,30,0.09721118,Goal,Normal,Left Foot,110.9,48.8,1
+Lionel Andrés Messi Cuccittini,Barcelona,32,0.12105316,Saved,Normal,Left Foot,104.3,40.1,0
+Neymar da Silva Santos Junior,Barcelona,32,0.0677176,Post,Normal,Right Foot,110.4,28.9,0
+Neymar da Silva Santos Junior,Barcelona,36,0.07677229,Off T,Normal,Left Foot,115.2,28.1,0
+Gerard Piqué Bernabéu,Barcelona,47,0.07039046,Saved,Overhead Kick,Right Foot,113.2,48.2,0
+Omar Mascarell González,Sporting Gijón,54,0.032077122,Saved,Normal,Right Foot,92.7,38.7,0
+Luis Alberto Suárez Díaz,Barcelona,55,0.37670532,Blocked,Lob,Right Foot,111.5,45.8,0
+Neymar da Silva Santos Junior,Barcelona,55,0.16741212,Off T,Overhead Kick,Left Foot,110.0,38.1,0
+Luis Alberto Suárez Díaz,Barcelona,61,0.7835,Saved,Normal,Right Foot,107.8,40.0,0
+Alejandro Menéndez Díez,Sporting Gijón,62,0.025273917,Off T,Normal,Left Foot,102.1,22.1,0
+Luis Alberto Suárez Díaz,Barcelona,66,0.05717058,Goal,Normal,Left Foot,106.2,52.7,1
+Neymar da Silva Santos Junior,Barcelona,71,0.039804135,Saved,Normal,Right Foot,96.3,31.0,0
+Arda Turan,Barcelona,71,0.12053762,Wayward,Half Volley,Right Foot,107.8,29.4,0
+Alejandro Barrera García,Sporting Gijón,76,0.052731894,Blocked,Normal,Head,108.2,39.5,0
+Neymar da Silva Santos Junior,Barcelona,79,0.028625812,Off T,Normal,Right Foot,96.9,27.1,0
+Alen Halilović,Sporting Gijón,85,0.021857291,Off T,Normal,Left Foot,90.5,49.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,91,0.042875428,Blocked,Normal,Left Foot,104.7,35.5,0
+Gerard Piqué Bernabéu,Barcelona,6,0.18306644,Saved,Normal,Head,114.9,44.2,0
+Youssef El-Arabi,Granada,9,0.017689789,Blocked,Normal,Left Foot,90.4,25.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,9,0.05668044,Saved,Normal,Right Foot,97.2,37.3,0
+Gerard Piqué Bernabéu,Barcelona,12,0.077103324,Saved,Normal,Head,111.6,35.6,0
+Andrés Iniesta Luján,Barcelona,14,0.026991174,Off T,Normal,Right Foot,92.1,39.1,0
+Abdoulaye Doucouré,Granada,17,0.03733566,Off T,Volley,Right Foot,94.8,41.8,0
+Luis Alberto Suárez Díaz,Barcelona,21,0.75520253,Goal,Normal,Right Foot,115.3,44.0,1
+Lionel Andrés Messi Cuccittini,Barcelona,24,0.011607954,Saved,Normal,Left Foot,101.0,60.3,0
+Luis Alberto Suárez Díaz,Barcelona,37,0.27648658,Goal,Normal,Head,116.0,45.2,1
+Neymar da Silva Santos Junior,Barcelona,39,0.06937183,Off T,Normal,Right Foot,101.0,27.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,54,0.0154890325,Saved,Normal,Left Foot,89.1,27.1,0
+Francisco Manuel Rico Castro,Granada,57,0.16827391,Saved,Normal,Right Foot,101.1,40.8,0
+Neymar da Silva Santos Junior,Barcelona,60,0.15869763,Saved,Normal,Left Foot,112.9,31.3,0
+Rubén Salvador Pérez Del Mármol,Granada,60,0.018017154,Off T,Normal,Right Foot,86.0,39.2,0
+Jean-Sylvain Claude Babin,Granada,65,0.09820603,Off T,Normal,Head,109.5,35.7,0
+David Rodríguez Lombán,Granada,79,0.028500564,Blocked,Normal,Left Foot,94.0,35.9,0
+Luis Alberto Suárez Díaz,Barcelona,85,0.6545843,Goal,Normal,Right Foot,111.3,46.6,1
+Lionel Andrés Messi Cuccittini,Barcelona,87,0.13360833,Saved,Volley,Right Foot,115.6,33.8,0
+David Barral Torres,Granada,91,0.1406076,Post,Normal,Left Foot,106.8,32.2,0
+Neymar da Silva Santos Junior,Barcelona,2,0.29973224,Saved,Normal,Right Foot,107.6,30.6,0
+Mikel Oyarzabal Ugarte,Real Sociedad,4,0.1194258,Goal,Normal,Head,109.0,43.6,1
+Lionel Andrés Messi Cuccittini,Barcelona,6,0.09674706,Off T,Half Volley,Right Foot,107.0,49.1,0
+Asier Illarramendi Andonegi,Real Sociedad,16,0.017913686,Blocked,Volley,Left Foot,92.1,32.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,21,0.064099036,Blocked,Normal,Left Foot,95.3,30.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,29,0.04052381,Blocked,Normal,Left Foot,96.6,46.6,0
+Arda Turan,Barcelona,33,0.14068289,Saved,Normal,Right Foot,106.8,37.6,0
+Carlos Alberto Vela Garrido,Real Sociedad,33,0.04221291,Off T,Normal,Left Foot,98.8,32.3,0
+Munir El Haddadi Mohamed,Barcelona,37,0.048574414,Off T,Normal,Head,104.7,40.1,0
+Alberto De La Bella Madureño,Real Sociedad,41,0.21961445,Blocked,Normal,Right Foot,111.6,30.4,0
+Andrés Iniesta Luján,Barcelona,54,0.030405303,Saved,Normal,Left Foot,97.3,26.2,0
+Neymar da Silva Santos Junior,Barcelona,61,0.041600183,Off T,Normal,Right Foot,94.9,24.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,72,0.11710452,Saved,Normal,Left Foot,108.4,39.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,77,0.044583265,Blocked,Normal,Left Foot,96.2,42.4,0
+Mikel Oyarzabal Ugarte,Real Sociedad,84,0.028051216,Wayward,Volley,Left Foot,94.8,40.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,85,0.101428986,Saved,Normal,Head,105.6,41.7,0
+Andrés Iniesta Luján,Barcelona,90,0.098201044,Saved,Normal,Left Foot,102.9,32.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,90,0.050341185,Blocked,Normal,Left Foot,100.3,33.1,0
+Manuel Trigueros Muñoz,Villarreal,0,0.15411259,Post,Normal,Head,114.0,45.0,0
+Cédric Bakambu,Villarreal,6,0.18153119,Saved,Half Volley,Right Foot,118.2,46.9,0
+Ivan Rakitić,Barcelona,9,0.14161329,Off T,Normal,Right Foot,101.2,35.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,12,0.038867995,Blocked,Normal,Left Foot,96.8,34.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,14,0.009551213,Off T,Normal,Left Foot,96.7,58.8,0
+Ivan Rakitić,Barcelona,19,0.11111773,Goal,Normal,Left Foot,107.4,34.1,1
+Luis Alberto Suárez Díaz,Barcelona,34,0.033133637,Blocked,Half Volley,Left Foot,99.1,32.3,0
+Manuel Trigueros Muñoz,Villarreal,35,0.06724192,Saved,Normal,Right Foot,102.7,50.3,0
+Cédric Bakambu,Villarreal,37,0.035289574,Blocked,Normal,Right Foot,88.8,45.6,0
+Neymar da Silva Santos Junior,Barcelona,40,0.7835,Goal,Normal,Right Foot,108.1,40.1,1
+Lionel Andrés Messi Cuccittini,Barcelona,43,0.05587167,Saved,Normal,Left Foot,101.0,35.3,0
+Cédric Bakambu,Villarreal,50,0.07606424,Saved,Normal,Right Foot,107.4,27.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,50,0.04116163,Blocked,Normal,Left Foot,100.2,30.2,0
+Bruno Soriano Llido,Villarreal,53,0.04948982,Blocked,Normal,Left Foot,99.8,55.9,0
+Manuel Trigueros Muñoz,Villarreal,53,0.038828816,Off T,Normal,Right Foot,100.2,50.7,0
+Denis Suárez Fernández,Villarreal,56,0.13343097,Saved,Normal,Left Foot,106.6,32.9,0
+Cédric Bakambu,Villarreal,56,0.26917133,Goal,Normal,Right Foot,116.7,47.6,1
+Cédric Bakambu,Villarreal,57,0.00751286,Off T,Normal,Right Foot,114.9,60.1,0
+Samuel Castillejo Azuaga,Villarreal,58,0.038918547,Saved,Normal,Left Foot,109.6,55.9,0
+Roberto Soldado Rillo,Villarreal,59,0.153808,Off T,Normal,Head,114.7,44.7,0
+Neymar da Silva Santos Junior,Barcelona,59,0.15800229,Saved,Normal,Right Foot,107.6,35.3,0
+Sergi Roberto Carnicer,Barcelona,68,0.022270195,Off T,Normal,Right Foot,98.4,24.2,0
+Ivan Rakitić,Barcelona,70,0.07752593,Saved,Normal,Head,107.1,33.1,0
+Manuel Trigueros Muñoz,Villarreal,73,0.0077147074,Off T,Half Volley,Left Foot,89.3,26.3,0
+Ivan Rakitić,Barcelona,81,0.092232965,Off T,Volley,Right Foot,108.7,46.8,0
+Daniel Alves da Silva,Barcelona,84,0.020243438,Saved,Volley,Right Foot,91.9,39.7,0
+Luis Alberto Suárez Díaz,Barcelona,89,0.051633615,Off T,Volley,Right Foot,108.0,49.7,0
+Jérémy Mathieu,Barcelona,92,0.1395904,Off T,Normal,Head,114.2,38.5,0
+Bruno Soriano Llido,Villarreal,93,0.027664471,Blocked,Half Volley,Left Foot,93.9,40.7,0
+Manuel Trigueros Muñoz,Villarreal,94,0.029590381,Off T,Normal,Right Foot,94.9,45.4,0
+Jordi Alba Ramos,Barcelona,8,0.17061263,Off T,Volley,Left Foot,111.9,34.8,0
+Álvaro González Soberón,Espanyol,25,0.051173672,Saved,Normal,Head,116.7,30.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,35,0.03474868,Post,Normal,Left Foot,89.3,40.3,0
+Andrés Iniesta Luján,Barcelona,43,0.017755473,Off T,Normal,Left Foot,95.6,56.4,0
+Neymar da Silva Santos Junior,Barcelona,47,0.25201795,Blocked,Normal,Left Foot,111.5,39.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,50,0.09230284,Blocked,Normal,Left Foot,107.5,31.8,0
+Hernán Arsenio Pérez González,Espanyol,51,0.10255435,Off T,Normal,Left Foot,104.0,50.4,0
+Luis Alberto Suárez Díaz,Barcelona,54,0.20868659,Post,Normal,Left Foot,118.4,46.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,63,0.08497689,Saved,Normal,Left Foot,100.3,47.6,0
+Papa Kouly Diop,Espanyol,65,0.014654989,Off T,Normal,Right Foot,86.7,47.7,0
+Gerard Moreno Balaguero,Espanyol,69,0.05711876,Blocked,Normal,Left Foot,104.8,26.6,0
+Sergio Busquets i Burgos,Barcelona,73,0.06614917,Blocked,Normal,Head,113.5,32.0,0
+Neymar da Silva Santos Junior,Barcelona,75,0.052472137,Saved,Overhead Kick,Left Foot,105.0,34.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,88,0.03074007,Off T,Normal,Left Foot,87.3,42.2,0
+Javier Eraso Goñi,Athletic Club,1,0.07882909,Off T,Normal,Left Foot,104.6,31.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,6,0.7835,Goal,Normal,Left Foot,108.0,40.0,1
+Luis Alberto Suárez Díaz,Barcelona,14,0.05721788,Off T,Normal,Right Foot,98.7,34.1,0
+Óscar de Marcos Arana,Athletic Club,15,0.12170885,Saved,Normal,Right Foot,116.6,50.1,0
+Neymar da Silva Santos Junior,Barcelona,17,0.074513,Blocked,Half Volley,Right Foot,108.1,40.1,0
+Neymar da Silva Santos Junior,Barcelona,21,0.12604676,Saved,Normal,Right Foot,114.0,30.5,0
+Luis Alberto Suárez Díaz,Barcelona,21,0.067873344,Blocked,Normal,Left Foot,110.8,30.0,0
+Luis Alberto Suárez Díaz,Barcelona,22,0.024897149,Off T,Half Volley,Right Foot,100.7,54.7,0
+Ivan Rakitić,Barcelona,22,0.093925476,Off T,Volley,Right Foot,104.9,49.0,0
+Neymar da Silva Santos Junior,Barcelona,26,0.10069338,Off T,Half Volley,Left Foot,116.2,30.3,0
+Aleix Vidal Parreu,Barcelona,28,0.024603646,Off T,Normal,Right Foot,103.0,54.9,0
+Neymar da Silva Santos Junior,Barcelona,30,0.1466694,Goal,Lob,Left Foot,106.8,29.8,1
+Lionel Andrés Messi Cuccittini,Barcelona,34,0.1758322,Off T,Half Volley,Left Foot,108.3,41.5,0
+Luis Alberto Suárez Díaz,Barcelona,37,0.07490167,Off T,Normal,Left Foot,105.1,52.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,40,0.048041306,Off T,Normal,Left Foot,91.6,39.2,0
+Beñat Etxebarria Urkiaga,Athletic Club,45,0.02081492,Blocked,Normal,Right Foot,94.6,32.6,0
+Iñaki Williams Arthuer,Athletic Club,45,0.04198494,Blocked,Half Volley,Right Foot,100.7,49.5,0
+Luis Alberto Suárez Díaz,Barcelona,46,0.43869242,Goal,Normal,Right Foot,108.3,39.4,1
+Ivan Rakitić,Barcelona,55,0.016875044,Off T,Normal,Right Foot,86.1,46.2,0
+Javier Eraso Goñi,Athletic Club,60,0.17066364,Off T,Normal,Left Foot,113.4,32.8,0
+Ivan Rakitić,Barcelona,61,0.25393364,Goal,Normal,Right Foot,114.0,33.4,1
+Luis Alberto Suárez Díaz,Barcelona,68,0.0950377,Goal,Half Volley,Right Foot,114.8,33.5,1
+Neymar da Silva Santos Junior,Barcelona,70,0.009507023,Saved,Normal,Right Foot,104.4,20.4,0
+Aymeric Laporte,Athletic Club,72,0.091823444,Blocked,Normal,Left Foot,97.0,40.0,0
+Óscar de Marcos Arana,Athletic Club,72,0.035623517,Off T,Half Volley,Right Foot,100.9,51.7,0
+Neymar da Silva Santos Junior,Barcelona,78,0.07635758,Off T,Normal,Right Foot,95.9,38.3,0
+Luis Alberto Suárez Díaz,Barcelona,81,0.12907214,Goal,Normal,Head,112.4,40.8,1
+Sabin Merino Zuloaga,Athletic Club,84,0.49797818,Saved,Volley,Right Foot,113.2,40.0,0
+Ander Iturraspe Derteano,Athletic Club,88,0.029377729,Saved,Normal,Right Foot,88.1,42.5,0
+Rubén Rochina Naixes,Granada,0,0.0074267522,Off T,Normal,Left Foot,90.1,55.8,0
+Ivan Rakitić,Barcelona,2,0.01968325,Off T,Normal,Right Foot,103.3,58.2,0
+Jordi Alba Ramos,Barcelona,3,0.36216584,Saved,Normal,Left Foot,105.6,31.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,7,0.44654724,Goal,Normal,Left Foot,113.4,36.5,1
+Lionel Andrés Messi Cuccittini,Barcelona,13,0.34811714,Goal,Normal,Left Foot,118.0,32.9,1
+Luis Alberto Suárez Díaz,Barcelona,26,0.50952655,Off T,Normal,Left Foot,112.0,38.0,0
+Luis Alberto Suárez Díaz,Barcelona,27,0.0057046385,Wayward,Normal,Right Foot,61.4,52.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,30,0.26486662,Saved,Normal,Left Foot,112.4,43.9,0
+Rubén Salvador Pérez Del Mármol,Granada,32,0.02102402,Blocked,Normal,Right Foot,93.9,29.2,0
+Neymar da Silva Santos Junior,Barcelona,35,0.07076721,Off T,Lob,Right Foot,105.4,32.0,0
+Ivan Rakitić,Barcelona,37,0.019964434,Off T,Normal,Right Foot,86.9,49.2,0
+Neymar da Silva Santos Junior,Barcelona,41,0.099920444,Off T,Half Volley,Left Foot,109.1,28.8,0
+Rubén Rochina Naixes,Granada,43,0.038803324,Off T,Half Volley,Right Foot,95.5,41.7,0
+Isaac Ajayi Success,Granada,48,0.0114719,Saved,Normal,Left Foot,101.4,60.3,0
+David Rodríguez Lombán,Granada,50,0.18852244,Off T,Volley,Right Foot,109.8,40.2,0
+David Rodríguez Lombán,Granada,52,0.052735943,Saved,Normal,Right Foot,100.1,24.9,0
+Neymar da Silva Santos Junior,Barcelona,57,0.13887985,Saved to Post,Normal,Right Foot,115.3,28.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,57,0.54631764,Goal,Normal,Left Foot,112.6,39.5,1
+Lionel Andrés Messi Cuccittini,Barcelona,60,0.008511118,Blocked,Normal,Left Foot,97.1,62.0,0
+Rubén Rochina Naixes,Granada,67,0.02882716,Saved,Normal,Left Foot,104.3,22.5,0
+Luis Alberto Suárez Díaz,Barcelona,72,0.026035903,Saved,Normal,Right Foot,106.2,25.7,0
+Neymar da Silva Santos Junior,Barcelona,80,0.010574978,Off T,Normal,Right Foot,104.6,20.7,0
+Neymar da Silva Santos Junior,Barcelona,82,0.28780946,Goal,Normal,Right Foot,116.9,35.2,1
+Luis Alberto Suárez Díaz,Barcelona,85,0.0435115,Off T,Normal,Left Foot,100.3,51.6,0
+Javier Márquez Moreno,Granada,91,0.025856176,Saved,Normal,Left Foot,87.1,41.7,0
+Luis Alberto Suárez Díaz,Barcelona,4,0.039868426,Blocked,Volley,Right Foot,106.3,54.0,0
+Munir El Haddadi Mohamed,Barcelona,7,0.80571604,Goal,Normal,Left Foot,118.7,36.5,1
+Luis Alberto Suárez Díaz,Barcelona,9,0.1837968,Off T,Normal,Left Foot,108.8,29.2,0
+Iván Ramis Barrios,Eibar,11,0.13597687,Off T,Normal,Head,110.2,40.2,0
+David Juncà Reñé,Eibar,19,0.03254777,Off T,Volley,Right Foot,98.7,28.0,0
+Gonzalo Escalante,Eibar,32,0.14934018,Off T,Volley,Right Foot,113.4,46.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,41,0.14010455,Goal,Normal,Left Foot,105.3,30.5,1
+Lionel Andrés Messi Cuccittini,Barcelona,54,0.07260708,Blocked,Half Volley,Left Foot,108.8,29.3,0
+Adrián González Morales,Eibar,65,0.023663992,Off T,Normal,Left Foot,97.8,23.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,70,0.024191283,Saved,Normal,Left Foot,88.2,39.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,75,0.7835,Goal,Normal,Left Foot,108.1,40.2,1
+Adrián González Morales,Eibar,77,0.043848805,Blocked,Normal,Left Foot,106.9,28.9,0
+Luis Alberto Suárez Díaz,Barcelona,82,0.15604286,Saved,Normal,Head,108.8,38.4,0
+Aleksandar Pantić,Eibar,83,0.09644785,Wayward,Normal,Head,108.3,36.3,0
+Luis Alberto Suárez Díaz,Barcelona,83,0.07126609,Goal,Normal,Right Foot,114.1,51.8,1
+Adrián González Morales,Eibar,86,0.059780825,Blocked,Normal,Right Foot,99.7,46.9,0
+Sergi Roberto Carnicer,Barcelona,90,0.056929775,Saved,Normal,Right Foot,101.9,34.1,0
+Ivan Rakitić,Barcelona,6,0.025387459,Blocked,Normal,Right Foot,92.0,45.0,0
+Germán Alejandro Pezzella,Real Betis,18,0.055805717,Wayward,Normal,Head,106.3,42.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,21,0.039353047,Off T,Normal,Left Foot,90.0,33.7,0
+Álvaro Cejudo Carmona,Real Betis,22,0.02207205,Saved,Normal,Left Foot,91.1,48.4,0
+Álvaro Cejudo Carmona,Real Betis,23,0.041516695,Wayward,Half Volley,Left Foot,97.5,45.4,0
+Neymar da Silva Santos Junior,Barcelona,24,0.176216,Saved,Normal,Head,109.2,38.0,0
+Neymar da Silva Santos Junior,Barcelona,28,0.7835,Post,Normal,Right Foot,108.0,40.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,32,0.5633142,Goal,Half Volley,Right Foot,112.3,38.2,1
+Luis Alberto Suárez Díaz,Barcelona,37,0.10677799,Off T,Normal,Right Foot,114.4,54.5,0
+Luis Alberto Suárez Díaz,Barcelona,45,0.27001652,Goal,Normal,Left Foot,108.4,31.0,1
+Francisco José Molinero Calderón,Real Betis,48,0.021067787,Saved,Half Volley,Right Foot,99.6,57.0,0
+Álvaro Cejudo Carmona,Real Betis,56,0.05891294,Off T,Half Volley,Right Foot,103.5,51.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,60,0.12003958,Blocked,Normal,Left Foot,107.7,37.0,0
+Neymar da Silva Santos Junior,Barcelona,60,0.30387926,Post,Normal,Right Foot,111.7,34.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,61,0.17522186,Saved,Normal,Left Foot,109.8,30.2,0
+Álvaro Cejudo Carmona,Real Betis,63,0.023010133,Off T,Normal,Left Foot,96.1,54.7,0
+Alfred John Momar N''Diaye,Real Betis,65,0.14120571,Saved,Normal,Head,108.4,34.7,0
+Neymar da Silva Santos Junior,Barcelona,66,0.08974128,Blocked,Normal,Right Foot,111.5,32.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,68,0.035006933,Saved to Post,Normal,Left Foot,91.6,30.9,0
+Juan Manuel Vargas Risco,Real Betis,70,0.018800544,Blocked,Normal,Left Foot,88.6,39.8,0
+Daniel Alves da Silva,Barcelona,71,0.036286946,Post,Lob,Right Foot,110.0,55.0,0
+Luis Alberto Suárez Díaz,Barcelona,72,0.26359287,Saved,Normal,Right Foot,111.9,28.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,73,0.08322828,Post,Normal,Left Foot,96.3,43.0,0
+Ricky van Wolfswinkel,Real Betis,76,0.05917099,Off T,Normal,Right Foot,107.6,54.7,0
+Ricky van Wolfswinkel,Real Betis,79,0.087141044,Wayward,Normal,Head,114.8,31.6,0
+Germán Alejandro Pezzella,Real Betis,79,0.57598454,Off T,Half Volley,Right Foot,114.3,42.8,0
+Luis Alberto Suárez Díaz,Barcelona,82,0.38670915,Goal,Normal,Right Foot,112.8,36.0,1
+Rafael van der Vaart,Real Betis,84,0.024021303,Off T,Normal,Right Foot,90.9,44.8,0
+Álvaro Cejudo Carmona,Real Betis,87,0.0712526,Saved,Normal,Right Foot,98.5,44.3,0
+Fernando José Torres Sanz,Atlético Madrid,0,0.07003028,Off T,Volley,Right Foot,107.3,39.3,0
+Fernando José Torres Sanz,Atlético Madrid,9,0.01026914,Blocked,Normal,Right Foot,101.1,19.3,0
+Ivan Rakitić,Barcelona,14,0.06771354,Saved,Normal,Right Foot,112.8,53.3,0
+Fernando José Torres Sanz,Atlético Madrid,16,0.12276543,Off T,Normal,Left Foot,108.7,28.7,0
+Rafael Alcântara do Nascimento,Barcelona,23,0.067013256,Wayward,Normal,Head,111.4,33.5,0
+Luis Alberto Suárez Díaz,Barcelona,23,0.43430275,Post,Half Volley,Right Foot,117.2,44.8,0
+Filipe Luís Kasmirski,Atlético Madrid,27,0.017409582,Off T,Half Volley,Left Foot,95.9,23.2,0
+Neymar da Silva Santos Junior,Barcelona,34,0.17398301,Blocked,Normal,Left Foot,107.3,36.8,0
+Jérémy Mathieu,Barcelona,35,0.07779373,Blocked,Normal,Head,112.1,40.5,0
+Sergi Roberto Carnicer,Barcelona,35,0.035513557,Blocked,Volley,Right Foot,97.6,42.7,0
+Neymar da Silva Santos Junior,Barcelona,35,0.06938428,Off T,Half Volley,Right Foot,103.1,31.0,0
+Fernando José Torres Sanz,Atlético Madrid,41,0.022505827,Blocked,Normal,Right Foot,112.8,54.4,0
+Óliver Torres Muñoz,Atlético Madrid,45,0.047630996,Off T,Normal,Left Foot,107.2,25.5,0
+Fernando José Torres Sanz,Atlético Madrid,48,0.01130373,Blocked,Normal,Left Foot,108.7,58.5,0
+Fernando José Torres Sanz,Atlético Madrid,50,0.23126075,Goal,Normal,Right Foot,106.8,49.9,1
+Neymar da Silva Santos Junior,Barcelona,54,0.059940357,Goal,Normal,Right Foot,94.2,30.2,1
+Luis Alberto Suárez Díaz,Barcelona,64,0.117978826,Off T,Normal,Right Foot,106.7,49.8,0
+Neymar da Silva Santos Junior,Barcelona,66,0.24183843,Blocked,Normal,Right Foot,114.4,32.1,0
+Yannick Ferreira Carrasco,Atlético Madrid,68,0.011161225,Saved,Normal,Right Foot,97.2,20.7,0
+Tiago Cardoso Mendes,Atlético Madrid,74,0.027565548,Off T,Normal,Right Foot,99.2,25.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,76,0.20186234,Goal,Normal,Left Foot,110.8,32.5,1
+Luis Alberto Suárez Díaz,Barcelona,78,0.047789235,Saved,Normal,Left Foot,109.5,29.6,0
+Jackson Arley Martínez Valencia,Atlético Madrid,83,0.13831957,Saved,Volley,Left Foot,107.5,41.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,85,0.08975408,Off T,Half Volley,Left Foot,99.7,36.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,89,0.043765664,Off T,Normal,Left Foot,94.1,27.2,0
+Andrés Iniesta Luján,Barcelona,0,0.014259282,Off T,Normal,Right Foot,85.5,35.3,0
+Deyverson Brum Silva Acosta,Levante UD,11,0.066932686,Off T,Normal,Left Foot,112.6,30.5,0
+José Luis Morales Nogales,Levante UD,11,0.025173148,Blocked,Normal,Right Foot,100.7,53.4,0
+Deyverson Brum Silva Acosta,Levante UD,12,0.092286594,Wayward,Volley,Left Foot,104.8,50.5,0
+Neymar da Silva Santos Junior,Barcelona,16,0.035123944,Saved,Normal,Right Foot,105.3,23.8,0
+José Luis Morales Nogales,Levante UD,17,0.046569902,Wayward,Normal,Left Foot,109.3,23.5,0
+Luis Alberto Suárez Díaz,Barcelona,24,0.27290127,Off T,Half Volley,Right Foot,114.8,34.4,0
+José Antonio García Rabasco,Levante UD,28,0.06657539,Off T,Normal,Right Foot,97.7,29.4,0
+Deyverson Brum Silva Acosta,Levante UD,30,0.049842175,Off T,Overhead Kick,Left Foot,112.7,29.5,0
+Jefferson Andrés Lerma Solís,Levante UD,31,0.12746097,Off T,Normal,Right Foot,104.0,48.9,0
+José Luis Morales Nogales,Levante UD,37,0.10249933,Post,Normal,Right Foot,106.7,27.1,0
+Daniel Alves da Silva,Barcelona,39,0.01926295,Off T,Half Volley,Right Foot,91.2,45.8,0
+Neymar da Silva Santos Junior,Barcelona,42,0.018776614,Off T,Normal,Right Foot,96.2,22.5,0
+Deyverson Brum Silva Acosta,Levante UD,44,0.06848561,Wayward,Overhead Kick,Left Foot,106.6,42.5,0
+Giuseppe Rossi,Levante UD,46,0.027429523,Saved,Normal,Left Foot,94.2,46.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,47,0.0595398,Saved,Normal,Left Foot,98.5,33.0,0
+Deyverson Brum Silva Acosta,Levante UD,50,0.036573652,Saved,Overhead Kick,Left Foot,104.7,30.5,0
+Andrés Iniesta Luján,Barcelona,50,0.031619973,Off T,Normal,Right Foot,93.4,34.3,0
+Ivan Rakitić,Barcelona,58,0.1297971,Saved,Normal,Head,114.6,48.2,0
+Simão Mate,Levante UD,62,0.057661317,Wayward,Normal,Head,109.3,38.3,0
+Deyverson Brum Silva Acosta,Levante UD,64,0.048939288,Saved,Normal,Head,108.1,43.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,66,0.047456216,Off T,Normal,Left Foot,96.7,25.6,0
+Neymar da Silva Santos Junior,Barcelona,75,0.044779874,Off T,Normal,Right Foot,95.8,36.3,0
+Jefferson Andrés Lerma Solís,Levante UD,88,0.029516716,Blocked,Normal,Right Foot,91.8,45.6,0
+Luis Alberto Suárez Díaz,Barcelona,91,0.4076295,Goal,Normal,Right Foot,105.3,39.0,1
+Jordi Alba Ramos,Barcelona,4,0.009876591,Blocked,Normal,Left Foot,102.7,19.9,0
+Jorge Andújar Moreno,Sevilla,5,0.047872115,Blocked,Normal,Head,107.4,40.7,0
+Timothée Kolodziejczak,Sevilla,7,0.40467066,Off T,Volley,Right Foot,114.5,38.1,0
+Víctor Machín Pérez,Sevilla,10,0.053838894,Saved,Half Volley,Left Foot,97.5,44.8,0
+Luis Alberto Suárez Díaz,Barcelona,12,0.025850605,Saved,Normal,Right Foot,108.6,52.9,0
+Luis Alberto Suárez Díaz,Barcelona,12,0.09093727,Post,Half Volley,Right Foot,103.4,36.3,0
+Luis Alberto Suárez Díaz,Barcelona,13,0.0098226555,Off T,Normal,Right Foot,103.0,18.5,0
+Víctor Machín Pérez,Sevilla,19,0.11995524,Goal,Volley,Right Foot,112.8,46.9,1
+Lionel Andrés Messi Cuccittini,Barcelona,30,0.074548624,Goal,Normal,Left Foot,99.6,29.6,1
+Víctor Machín Pérez,Sevilla,33,0.035938945,Blocked,Normal,Right Foot,97.9,48.0,0
+Jorge Andújar Moreno,Sevilla,34,0.17814218,Wayward,Normal,Head,113.2,43.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,36,0.058455277,Saved,Normal,Left Foot,108.3,28.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,43,0.05036783,Blocked,Normal,Left Foot,107.6,54.3,0
+Neymar da Silva Santos Junior,Barcelona,46,0.08411409,Saved,Volley,Right Foot,113.0,32.0,0
+Gerard Piqué Bernabéu,Barcelona,47,0.60040843,Goal,Normal,Left Foot,116.4,43.2,1
+Kevin Gameiro,Sevilla,50,0.2219417,Saved,Normal,Left Foot,112.8,32.1,0
+Neymar da Silva Santos Junior,Barcelona,51,0.29583842,Saved,Normal,Right Foot,111.6,42.9,0
+Sergio Busquets i Burgos,Barcelona,53,0.049691185,Saved,Normal,Right Foot,98.6,48.5,0
+Jérémy Mathieu,Barcelona,54,0.062141947,Off T,Normal,Head,111.8,33.5,0
+Michael Krohn-Dehli,Sevilla,58,0.11445379,Off T,Normal,Left Foot,102.2,45.0,0
+Sergi Roberto Carnicer,Barcelona,59,0.105102785,Blocked,Normal,Head,107.2,41.1,0
+Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,62,0.031025404,Off T,Normal,Right Foot,97.8,51.7,0
+Jorge Andújar Moreno,Sevilla,72,0.13179104,Blocked,Volley,Right Foot,111.9,39.5,0
+Luis Alberto Suárez Díaz,Barcelona,72,0.47185755,Saved,Half Volley,Right Foot,108.5,42.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,75,0.06768157,Off T,Normal,Left Foot,110.8,29.0,0
+Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,78,0.1168027,Wayward,Normal,Head,115.1,44.3,0
+Michael Krohn-Dehli,Sevilla,82,0.040225912,Off T,Normal,Left Foot,96.3,40.3,0
+Neymar da Silva Santos Junior,Barcelona,6,0.1260353,Off T,Normal,Right Foot,102.2,34.0,0
+Luis Alberto Suárez Díaz,Barcelona,10,0.25853002,Goal,Normal,Right Foot,106.1,46.6,1
+Ivan Rakitić,Barcelona,13,0.045767296,Off T,Normal,Right Foot,102.7,53.2,0
+Neymar da Silva Santos Junior,Barcelona,23,0.011087379,Saved,Normal,Right Foot,95.8,22.2,0
+Sergi Roberto Carnicer,Barcelona,24,0.1296575,Off T,Half Volley,Right Foot,108.9,40.3,0
+James David Rodríguez Rubio,Real Madrid,27,0.044085506,Saved,Normal,Left Foot,99.5,50.3,0
+Neymar da Silva Santos Junior,Barcelona,38,0.15911818,Goal,Normal,Left Foot,113.6,29.0,1
+Ivan Rakitić,Barcelona,45,0.021171192,Blocked,Normal,Right Foot,102.4,57.9,0
+Luis Alberto Suárez Díaz,Barcelona,46,0.39513186,Blocked,Normal,Right Foot,113.8,36.7,0
+Ivan Rakitić,Barcelona,47,0.16739415,Blocked,Volley,Right Foot,111.7,40.5,0
+Marcelo Vieira da Silva Júnior,Real Madrid,46,0.096657395,Off T,Normal,Left Foot,110.4,28.0,0
+James David Rodríguez Rubio,Real Madrid,47,0.041866593,Saved,Half Volley,Left Foot,96.1,37.1,0
+Gareth Frank Bale,Real Madrid,48,0.010557007,Off T,Normal,Left Foot,90.6,54.5,0
+Neymar da Silva Santos Junior,Barcelona,51,0.07843452,Saved,Normal,Right Foot,95.6,33.4,0
+Andrés Iniesta Luján,Barcelona,52,0.11742188,Goal,Normal,Right Foot,103.2,46.6,1
+Luis Alberto Suárez Díaz,Barcelona,54,0.1231599,Off T,Normal,Right Foot,113.8,28.2,0
+Francisco Román Alarcón Suárez,Real Madrid,58,0.036220405,Blocked,Volley,Right Foot,98.1,33.8,0
+Daniel Carvajal Ramos,Real Madrid,60,0.047859967,Blocked,Normal,Right Foot,103.6,52.8,0
+Raphaël Varane,Real Madrid,60,0.38924152,Saved,Normal,Head,114.9,42.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,65,0.12468384,Blocked,Normal,Left Foot,108.0,32.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,67,0.02699797,Blocked,Normal,Left Foot,88.6,35.5,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,67,0.32582042,Saved,Normal,Right Foot,108.8,36.9,0
+Luis Alberto Suárez Díaz,Barcelona,73,0.42108476,Goal,Lob,Right Foot,108.7,45.7,1
+Karim Benzema,Real Madrid,80,0.12909701,Saved,Normal,Head,111.1,38.5,0
+Munir El Haddadi Mohamed,Barcelona,81,0.016814379,Off T,Normal,Left Foot,86.5,47.3,0
+Munir El Haddadi Mohamed,Barcelona,85,0.11647414,Off T,Normal,Left Foot,107.7,41.9,0
+Karim Benzema,Real Madrid,87,0.036408696,Blocked,Normal,Right Foot,98.9,50.3,0
+Munir El Haddadi Mohamed,Barcelona,88,0.14040372,Off T,Normal,Left Foot,106.2,40.4,0
+Cristiano Ronaldo dos Santos Aveiro,Real Madrid,88,0.12529638,Saved,Normal,Head,113.4,41.3,0
+Luka Modrić,Real Madrid,88,0.049863577,Blocked,Normal,Right Foot,98.1,38.5,0
+Gareth Frank Bale,Real Madrid,89,0.01015186,Saved,Normal,Left Foot,99.6,60.0,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,5,0.022800066,Off T,Normal,Left Foot,96.2,56.2,0
+Iago Aspas Juncal,Celta Vigo,9,0.08346919,Off T,Normal,Left Foot,101.6,37.1,0
+Lionel Andrés Messi Cuccittini,Barcelona,10,0.07016544,Saved,Normal,Left Foot,107.9,27.1,0
+Neymar da Silva Santos Junior,Barcelona,14,0.14807738,Saved,Normal,Right Foot,106.3,28.2,0
+Daniel Wass,Celta Vigo,15,0.03569849,Blocked,Normal,Right Foot,95.6,45.8,0
+Iago Aspas Juncal,Celta Vigo,17,0.012441256,Blocked,Normal,Left Foot,113.3,24.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,20,0.03589302,Blocked,Normal,Left Foot,98.1,32.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,21,0.063577905,Blocked,Normal,Left Foot,102.9,43.7,0
+Manuel Agudo Durán,Celta Vigo,25,0.0082949,Goal,Normal,Right Foot,110.5,20.5,1
+Iago Aspas Juncal,Celta Vigo,29,0.37511945,Goal,Lob,Left Foot,102.0,40.4,1
+Daniel Wass,Celta Vigo,31,0.016788786,Blocked,Normal,Right Foot,103.3,57.8,0
+Hugo Mallo Novegil,Celta Vigo,32,0.017364604,Off T,Normal,Right Foot,116.2,54.3,0
+Augusto Matías Fernández,Celta Vigo,34,0.08591562,Off T,Normal,Left Foot,110.3,30.7,0
+Neymar da Silva Santos Junior,Barcelona,39,0.076879054,Blocked,Normal,Right Foot,109.9,50.3,0
+Hugo Mallo Novegil,Celta Vigo,44,0.025230538,Off T,Normal,Right Foot,94.5,50.8,0
+Neymar da Silva Santos Junior,Barcelona,46,0.023141345,Off T,Normal,Left Foot,106.1,28.1,0
+Iago Aspas Juncal,Celta Vigo,50,0.20167421,Off T,Normal,Right Foot,103.0,45.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,52,0.1414436,Post,Normal,Left Foot,107.4,40.1,0
+Gerard Piqué Bernabéu,Barcelona,54,0.061653174,Off T,Normal,Head,109.7,40.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,55,0.13523266,Saved,Normal,Left Foot,105.2,28.6,0
+Iago Aspas Juncal,Celta Vigo,55,0.402625,Goal,Normal,Left Foot,103.9,43.6,1
+Neymar da Silva Santos Junior,Barcelona,57,0.20708616,Off T,Normal,Head,117.2,43.3,0
+Manuel Agudo Durán,Celta Vigo,58,0.053198762,Off T,Normal,Right Foot,101.6,28.3,0
+Munir El Haddadi Mohamed,Barcelona,60,0.11446776,Saved,Normal,Left Foot,108.6,51.0,0
+Manuel Agudo Durán,Celta Vigo,60,0.2901705,Off T,Normal,Right Foot,110.4,29.2,0
+Neymar da Silva Santos Junior,Barcelona,62,0.24023117,Saved,Normal,Right Foot,109.5,44.1,0
+Munir El Haddadi Mohamed,Barcelona,63,0.01897979,Off T,Volley,Left Foot,98.9,27.8,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,67,0.04050779,Blocked,Normal,Left Foot,100.1,49.8,0
+Iago Aspas Juncal,Celta Vigo,71,0.09916338,Saved,Normal,Right Foot,98.8,44.9,0
+Fabián Ariel Orellana Valenzuela,Celta Vigo,72,0.04850594,Blocked,Normal,Left Foot,103.8,52.2,0
+Daniel Alves da Silva,Barcelona,76,0.13019525,Off T,Normal,Head,110.2,45.1,0
+Neymar da Silva Santos Junior,Barcelona,79,0.0670219,Goal,Half Volley,Right Foot,113.7,50.3,1
+Munir El Haddadi Mohamed,Barcelona,80,0.278229,Off T,Normal,Right Foot,104.4,40.6,0
+John Guidetti,Celta Vigo,82,0.24808645,Goal,Half Volley,Right Foot,112.1,46.9,1
+Lionel Andrés Messi Cuccittini,Barcelona,87,0.09803956,Saved,Normal,Right Foot,105.8,47.3,0
+Manuel Agudo Durán,Celta Vigo,88,0.04048469,Off T,Normal,Right Foot,95.9,29.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,90,0.03216691,Off T,Normal,Left Foot,89.1,38.1,0
+Jonathan Viera Ramos,Las Palmas,2,0.008537216,Off T,Normal,Right Foot,82.8,44.3,0
+Willian José da Silva,Las Palmas,3,0.043057915,Blocked,Normal,Right Foot,97.0,31.3,0
+Luis Alberto Suárez Díaz,Barcelona,5,0.4321422,Goal,Normal,Right Foot,113.5,43.0,1
+Roque Mesa Quevedo,Las Palmas,7,0.021419259,Off T,Normal,Right Foot,89.0,41.7,0
+Willian José da Silva,Las Palmas,9,0.39386132,Goal,Normal,Left Foot,110.7,33.8,1
+Lionel Andrés Messi Cuccittini,Barcelona,14,0.24212627,Saved,Half Volley,Left Foot,115.4,34.2,0
+Jerónimo Figueroa Cabrera,Las Palmas,15,0.07063636,Off T,Normal,Left Foot,102.5,27.9,0
+Andrés Iniesta Luján,Barcelona,17,0.04783989,Saved,Normal,Right Foot,99.9,47.2,0
+Luis Alberto Suárez Díaz,Barcelona,26,0.23452352,Off T,Normal,Head,113.5,43.5,0
+Aythami Artiles Oliva,Las Palmas,33,0.11615326,Saved,Normal,Head,109.4,43.8,0
+Willian José da Silva,Las Palmas,37,0.05012093,Blocked,Normal,Right Foot,102.2,39.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,38,0.26131466,Saved,Normal,Right Foot,113.5,42.1,0
+Neymar da Silva Santos Junior,Barcelona,38,0.21562378,Goal,Normal,Left Foot,115.2,36.8,1
+Willian José da Silva,Las Palmas,40,0.00760116,Off T,Normal,Right Foot,90.5,20.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,41,0.2020558,Blocked,Normal,Left Foot,109.2,36.8,0
+David García Santana,Las Palmas,43,0.057225056,Blocked,Volley,Right Foot,105.8,37.4,0
+Roque Mesa Quevedo,Las Palmas,44,0.024648292,Off T,Normal,Left Foot,97.6,31.6,0
+Jonathan Viera Ramos,Las Palmas,46,0.022012003,Saved,Normal,Right Foot,90.7,47.6,0
+Luis Alberto Suárez Díaz,Barcelona,48,0.44941077,Saved,Normal,Right Foot,113.5,38.7,0
+Ivan Rakitić,Barcelona,55,0.053826,Blocked,Normal,Left Foot,108.6,54.4,0
+Jonathan Viera Ramos,Las Palmas,59,0.07184219,Saved,Normal,Right Foot,101.7,30.9,0
+Luis Alberto Suárez Díaz,Barcelona,69,0.21292178,Saved,Half Volley,Right Foot,106.4,29.7,0
+Sergio Ezequiel Araújo,Las Palmas,77,0.044269692,Off T,Normal,Right Foot,99.3,39.6,0
+Sergio Ezequiel Araújo,Las Palmas,82,0.07675875,Off T,Normal,Left Foot,104.1,35.9,0
+Lionel Andrés Messi Cuccittini,Barcelona,84,0.029365605,Blocked,Normal,Left Foot,88.0,36.2,0
+Sergio Ezequiel Araújo,Las Palmas,89,0.30773354,Off T,Half Volley,Right Foot,111.1,32.7,0
+Neymar da Silva Santos Junior,Barcelona,92,0.2832564,Saved,Normal,Right Foot,113.4,30.8,0
+Jerónimo Figueroa Cabrera,Las Palmas,92,0.036491584,Blocked,Normal,Left Foot,100.4,52.4,0
+Ivan Rakitić,Barcelona,7,0.021141276,Blocked,Volley,Right Foot,96.7,52.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,14,0.009254039,Blocked,Normal,Left Foot,102.1,21.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,14,0.09255123,Blocked,Normal,Left Foot,101.0,39.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,14,0.11449516,Saved,Normal,Left Foot,107.8,44.9,0
+José Antonio García Rabasco,Levante UD,15,0.030823486,Off T,Normal,Right Foot,91.5,46.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,17,0.056144536,Off T,Normal,Left Foot,94.4,29.6,0
+Neymar da Silva Santos Junior,Barcelona,20,0.10520335,Off T,Normal,Left Foot,108.0,28.5,0
+Nabil Ghilas,Levante UD,27,0.09759881,Off T,Normal,Left Foot,111.3,27.1,0
+Munir El Haddadi Mohamed,Barcelona,27,0.24132027,Saved,Normal,Left Foot,108.8,45.9,0
+Marc Bartra Aregall,Barcelona,29,0.16276087,Off T,Normal,Head,112.5,39.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,35,0.0328684,Saved,Half Volley,Left Foot,101.1,28.2,0
+Sandro Ramírez Castillo,Barcelona,35,0.11584324,Off T,Normal,Left Foot,108.0,27.7,0
+Neymar da Silva Santos Junior,Barcelona,38,0.051928695,Blocked,Normal,Right Foot,100.2,34.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,38,0.07834836,Off T,Normal,Head,108.1,37.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,45,0.07018719,Off T,Normal,Left Foot,95.2,46.0,0
+Munir El Haddadi Mohamed,Barcelona,48,0.03824493,Blocked,Normal,Left Foot,102.6,42.5,0
+Marc Bartra Aregall,Barcelona,49,0.2406934,Goal,Normal,Right Foot,114.2,35.6,1
+Víctor Camarasa Ferrando,Levante UD,52,0.14353284,Blocked,Normal,Right Foot,111.1,50.9,0
+Neymar da Silva Santos Junior,Barcelona,55,0.28247765,Blocked,Volley,Right Foot,115.0,36.2,0
+Neymar da Silva Santos Junior,Barcelona,55,0.12112332,Goal,Normal,Right Foot,115.5,32.7,1
+Roger Martí Salvador,Levante UD,56,0.007025746,Saved,Normal,Right Foot,90.5,58.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,60,0.7835,Goal,Normal,Left Foot,108.1,40.1,1
+Víctor Casadesús Castaño,Levante UD,65,0.18023895,Goal,Normal,Right Foot,112.9,44.2,1
+Jefferson Andrés Lerma Solís,Levante UD,70,0.1437352,Off T,Normal,Head,111.8,38.3,0
+Víctor Camarasa Ferrando,Levante UD,71,0.017655501,Off T,Normal,Right Foot,88.0,50.3,0
+Jefferson Andrés Lerma Solís,Levante UD,72,0.017975567,Blocked,Normal,Right Foot,86.0,41.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,75,0.7835,Off T,Normal,Left Foot,108.3,40.1,0
+Deyverson Brum Silva Acosta,Levante UD,76,0.03082545,Saved,Normal,Left Foot,93.0,36.0,0
+Lionel Andrés Messi Cuccittini,Barcelona,89,0.1288102,Goal,Normal,Left Foot,103.6,38.8,1
+Antonio García Aranda,Levante UD,90,0.04479411,Blocked,Half Volley,Left Foot,105.3,27.7,0
+Deyverson Brum Silva Acosta,Levante UD,91,0.006649586,Saved,Normal,Left Foot,106.6,63.3,0
+Josep Señé Escudero,Celta Vigo,5,0.0629131,Off T,Normal,Right Foot,102.2,43.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,11,0.04566393,Off T,Normal,Left Foot,95.8,52.7,0
+Claudio Beauvue,Celta Vigo,13,0.06849293,Saved Off Target,Normal,Head,106.4,36.4,0
+Neymar da Silva Santos Junior,Barcelona,14,0.25115773,Saved,Normal,Right Foot,111.5,32.9,0
+Daniel Wass,Celta Vigo,18,0.054359287,Wayward,Normal,Head,105.9,47.2,0
+Carles Planas Antolínez,Celta Vigo,24,0.13270448,Saved,Half Volley,Left Foot,105.9,36.4,0
+Lionel Andrés Messi Cuccittini,Barcelona,27,0.03440175,Goal,Normal,Left Foot,90.5,51.0,1
+Lionel Andrés Messi Cuccittini,Barcelona,29,0.06396358,Saved,Normal,Left Foot,102.7,40.0,0
+Claudio Beauvue,Celta Vigo,31,0.0065142703,Saved,Volley,Right Foot,110.5,61.6,0
+Jordi Alba Ramos,Barcelona,37,0.020837033,Off T,Half Volley,Left Foot,92.8,33.8,0
+John Guidetti,Celta Vigo,38,0.7835,Goal,Normal,Right Foot,108.1,40.1,1
+Luis Alberto Suárez Díaz,Barcelona,40,0.079785615,Off T,Half Volley,Left Foot,113.4,28.2,0
+Neymar da Silva Santos Junior,Barcelona,43,0.010430842,Off T,Normal,Right Foot,99.1,21.0,0
+Claudio Beauvue,Celta Vigo,43,0.0046436572,Off T,Normal,Right Foot,87.9,71.3,0
+Neymar da Silva Santos Junior,Barcelona,44,0.085030295,Off T,Normal,Left Foot,107.1,29.5,0
+Luis Alberto Suárez Díaz,Barcelona,46,0.14242934,Post,Normal,Right Foot,113.2,32.7,0
+Sergi Roberto Carnicer,Barcelona,46,0.08057596,Off T,Half Volley,Right Foot,113.2,48.4,0
+Andrés Iniesta Luján,Barcelona,55,0.1823828,Saved,Normal,Left Foot,104.6,35.4,0
+Neymar da Silva Santos Junior,Barcelona,57,0.088001326,Off T,Normal,Right Foot,106.2,36.2,0
+Luis Alberto Suárez Díaz,Barcelona,58,0.25666022,Goal,Half Volley,Right Foot,111.0,47.0,1
+John Guidetti,Celta Vigo,65,0.014798771,Off T,Normal,Left Foot,114.7,24.4,0
+Daniel Wass,Celta Vigo,68,0.08123893,Off T,Normal,Right Foot,102.8,38.1,0
+Daniel Wass,Celta Vigo,72,0.13072407,Saved,Normal,Right Foot,102.5,36.6,0
+Neymar da Silva Santos Junior,Barcelona,74,0.021198837,Blocked,Normal,Left Foot,119.6,34.1,0
+Luis Alberto Suárez Díaz,Barcelona,74,0.9135266,Goal,Normal,Right Foot,120.0,43.7,1
+Neymar da Silva Santos Junior,Barcelona,79,0.29759952,Saved,Normal,Left Foot,108.4,29.2,0
+Lionel Andrés Messi Cuccittini,Barcelona,80,0.7835,Wayward,Normal,Left Foot,108.1,40.1,0
+Luis Alberto Suárez Díaz,Barcelona,81,0.31622034,Goal,Normal,Right Foot,112.3,44.5,1
+Ivan Rakitić,Barcelona,83,0.31846172,Goal,Lob,Right Foot,105.8,39.0,1
+Neymar da Silva Santos Junior,Barcelona,90,0.18436614,Goal,Normal,Left Foot,113.2,30.3,1
+Neymar da Silva Santos Junior,Barcelona,4,0.07379108,Blocked,Normal,Left Foot,113.0,33.3,0
+Sergi Roberto Carnicer,Barcelona,4,0.047830377,Blocked,Normal,Right Foot,104.9,52.6,0
+Luis Alberto Suárez Díaz,Barcelona,4,0.008908878,Off T,Volley,Right Foot,115.4,21.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,6,0.11803146,Saved,Normal,Left Foot,113.3,48.2,0
+Luis Alberto Suárez Díaz,Barcelona,8,0.094587356,Off T,Normal,Right Foot,101.9,50.9,0
+Neymar da Silva Santos Junior,Barcelona,11,0.23861484,Saved,Lob,Left Foot,100.4,37.4,0
+Sergi Roberto Carnicer,Barcelona,13,0.008735449,Blocked,Normal,Right Foot,111.4,59.1,0
+Rodrigo Moreno Machado,Valencia,16,0.1359072,Off T,Normal,Left Foot,101.1,40.2,0
+Luis Alberto Suárez Díaz,Barcelona,21,0.33280447,Off T,Normal,Head,118.3,35.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,24,0.05887002,Saved,Normal,Left Foot,97.5,41.2,0
+Guilherme Magdalena Siqueira,Valencia,31,0.01387118,Off T,Normal,Left Foot,106.0,20.7,0
+Neymar da Silva Santos Junior,Barcelona,32,0.04950533,Blocked,Normal,Right Foot,103.5,28.0,0
+Ivan Rakitić,Barcelona,36,0.122083426,Off T,Normal,Head,104.7,40.5,0
+Lionel Andrés Messi Cuccittini,Barcelona,38,0.07990909,Blocked,Normal,Left Foot,96.5,45.3,0
+Lionel Andrés Messi Cuccittini,Barcelona,38,0.16722068,Saved,Normal,Head,110.2,40.5,0
+Santiago Mina Lorenzo,Valencia,45,0.0943296,Goal,Normal,Right Foot,111.6,27.0,1
+Ivan Rakitić,Barcelona,46,0.15792054,Off T,Normal,Left Foot,106.9,48.7,0
+Lionel Andrés Messi Cuccittini,Barcelona,50,0.07401529,Blocked,Normal,Right Foot,106.3,50.6,0
+Lionel Andrés Messi Cuccittini,Barcelona,51,0.056787577,Blocked,Normal,Left Foot,94.1,30.1,0
+André Filipe Tavares Gomes,Valencia,53,0.03930165,Saved,Normal,Left Foot,102.7,53.8,0
+Lionel Andrés Messi Cuccittini,Barcelona,62,0.10187911,Goal,Normal,Left Foot,108.6,38.5,1
+Francisco Alcácer García,Valencia,63,0.036605697,Blocked,Normal,Left Foot,107.8,23.2,0
+André Filipe Tavares Gomes,Valencia,64,0.056454655,Blocked,Normal,Right Foot,111.0,27.5,0
+Neymar da Silva Santos Junior,Barcelona,69,0.014139992,Saved,Normal,Left Foot,107.2,22.0,0
+Ivan Rakitić,Barcelona,74,0.123344325,Saved,Normal,Left Foot,105.8,40.0,0
+Neymar da Silva Santos Junior,Barcelona,83,0.070985556,Blocked,Half Volley,Right Foot,110.3,34.4,0
+Gerard Piqué Bernabéu,Barcelona,84,0.075231686,Blocked,Normal,Right Foot,106.2,40.1,0
+Francisco Alcácer García,Valencia,86,0.29971933,Wayward,Normal,Right Foot,111.1,41.7,0
+Gerard Piqué Bernabéu,Barcelona,88,0.18681975,Off T,Normal,Right Foot,111.5,47.0,0
