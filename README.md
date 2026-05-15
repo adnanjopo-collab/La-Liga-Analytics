@@ -110,35 +110,31 @@ An interactive 4-page dashboard built on exported StatsBomb data:
 
 ## Project Structure
 
-```
-La-Liga-Analytics/
-│
-├── python/
-│   └── La_Liga_2015_16_Analysis.ipynb   # Main Python notebook
-│
-├── assets/                               # All visualizations
-│   ├── team_overview.png                 # Power BI - Team Overview
-│   ├── player_analysis.png               # Power BI - Player Analysis
-│   ├── advance_analytics.png             # Power BI - Advanced Analytics
-│   ├── key_insights.png                  # Power BI - Key Insights
-│   ├── heatmap_comparison.png            # Python - Heatmap comparison
-│   ├── messi_heatmap.png                 # Python - Messi heatmap
-│   ├── cr7_heatmap.png                   # Python - Ronaldo heatmap
-│   ├── barca_pass_network.png            # Python - Barcelona network
-│   ├── rm_pass_network.png               # Python - Real Madrid network
-│   ├── messi_vs_cr7.png                  # Python - Head to head
-│   ├── messi_shot_map.png                # Python - Messi shot map
-│   ├── cr7_shot_map.png                  # Python - Ronaldo shot map
-│   ├── xg_top_players.png                # Python - xG chart
-│   ├── pass_completion.png               # Python - Pass completion
-│   └── progressive_passes.png            # Python - Progressive passes
-│
-└── data/                                 # Exported CSV files
-    ├── shots_data.csv
-    ├── passes_data.csv
-    ├── xg_summary.csv
-    └── pass_summary.csv
-```
+**python/**
+- La_Liga_2015_16_Analysis.ipynb  |  Main Python notebook
+
+**assets/** — All visualizations
+- team_overview.png  |  Power BI: Team Overview
+- player_analysis.png  |  Power BI: Player Analysis
+- advance_analytics.png  |  Power BI: Advanced Analytics
+- key_insights.png  |  Power BI: Key Insights
+- heatmap_comparison.png  |  Python: Heatmap comparison
+- messi_heatmap.png  |  Python: Messi heatmap
+- cr7_heatmap.png  |  Python: Ronaldo heatmap
+- barca_pass_network.png  |  Python: Barcelona pass network
+- rm_pass_network.png  |  Python: Real Madrid pass network
+- messi_vs_cr7.png  |  Python: Head to head comparison
+- messi_shot_map.png  |  Python: Messi shot map
+- cr7_shot_map.png  |  Python: Ronaldo shot map
+- xg_top_players.png  |  Python: xG chart
+- pass_completion.png  |  Python: Pass completion
+- progressive_passes.png  |  Python: Progressive passes
+
+**data/** — Exported CSV files
+- shots_data.csv
+- passes_data.csv
+- xg_summary.csv
+- pass_summary.csv
 ## Data Source
 StatsBomb Open Data — [github.com/statsbomb/open-data](https://github.com/statsbomb/open-data)
 
