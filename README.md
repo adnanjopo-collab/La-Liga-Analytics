@@ -108,7 +108,7 @@ An interactive 4-page dashboard built on exported StatsBomb data:
 - StatsBomb Open Data (74 matches, 272,902 events)
 - Microsoft Power BI (Interactive Dashboard)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 La-Liga-Analytics/
