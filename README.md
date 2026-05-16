@@ -116,6 +116,9 @@ La-Liga-Analytics/
 ├── python/
 │   └── La_Liga_2015_16_Analysis.ipynb   # Main Python notebook
 │
+├── powerbi/
+│   └── La_Liga_Dashboard.zip             # Password-protected Power BI project file
+│
 ├── assets/                               # All visualizations
 │   ├── team_overview.png                 # Power BI - Team Overview
 │   ├── player_analysis.png               # Power BI - Player Analysis
@@ -138,6 +141,19 @@ La-Liga-Analytics/
     ├── passes_data.csv
     ├── xg_summary.csv
     └── pass_summary.csv
+---
+
+## Project File Security & Intellectual Property Note
+The original Power BI (`.pbix`) dashboard file has been compressed and uploaded inside the `powerbi/` directory as a password-protected ZIP file. This prevents unauthorized plagiarism of the custom dashboard layout and data modeling architecture.
+
+**For Hiring Managers & Sports Analysts:** If you are a recruiter or technical manager interested in evaluating the underlying star schema model, calculated tables, and semantic layer configurations, please send a direct message on **[LinkedIn](https://www.linkedin.com/in/adnan-mustafa-jopo/)** to request the password. I will provide it instantly.
+```
+## How to Reproduce
+
+1. Clone this repository to your local machine.
+2. Download the event data directly from the official StatsBomb Open Data repository.
+3. Open `python/La_Liga_2015_16_Analysis.ipynb` in Google Colab or Jupyter Notebook to view the complete pipeline and advanced visualizations.
+4. To open the Power BI dashboard, request the secure password via LinkedIn and extract the file inside `powerbi/La_Liga_Dashboard.zip`.
 ```
 ## Data Source
 StatsBomb Open Data — [github.com/statsbomb/open-data](https://github.com/statsbomb/open-data)
